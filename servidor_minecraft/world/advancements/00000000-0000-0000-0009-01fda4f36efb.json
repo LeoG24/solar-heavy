@@ -372,41 +372,101 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-04-29 23:32:16 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:26:56 +0000"
+      "log_spam_fixer": "2025-04-29 23:36:56 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:26:56 +0000"
+      "log_spam_fixer": "2025-04-29 23:36:56 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-29 23:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-04-29 23:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-29 23:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-29 23:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-04-29 23:32:16 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:26:56 +0000"
+      "log_spam_fixer": "2025-04-29 23:36:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:26:56 +0000"
+      "log_spam_fixer": "2025-04-29 23:36:56 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-29 23:33:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-29 23:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-04-29 23:32:16 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:26:56 +0000"
+      "log_spam_fixer": "2025-04-29 23:36:56 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:26:56 +0000"
+      "log_spam_fixer": "2025-04-29 23:36:56 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-29 23:33:39 +0000"
+    },
+    "done": true
   },
   "incendium:technical/new_player": {
     "criteria": {
@@ -416,15 +476,21 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:26:56 +0000"
+      "log_spam_fixer": "2025-04-29 23:36:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:26:56 +0000"
+      "log_spam_fixer": "2025-04-29 23:36:56 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-04-29 23:33:08 +0000"
+    },
+    "done": true
   },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
@@ -434,7 +500,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:26:56 +0000"
+      "log_spam_fixer": "2025-04-29 23:36:56 +0000"
     },
     "done": false
   },
@@ -444,11 +510,29 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-29 23:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-29 23:33:08 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:26:56 +0000"
+      "log_spam_fixer": "2025-04-29 23:36:56 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-04-29 23:32:16 +0000"
+    },
+    "done": true
   },
   "incendium:technical/using/trailblazer": {
     "criteria": {
@@ -458,21 +542,51 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:26:56 +0000"
+      "log_spam_fixer": "2025-04-29 23:36:56 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-29 23:32:16 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:26:56 +0000"
+      "log_spam_fixer": "2025-04-29 23:36:56 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-29 23:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-04-29 23:32:16 +0000"
+    },
+    "done": true
   },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-04-29 23:12:54 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-29 23:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-29 23:32:16 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3953
 }
