@@ -1,0 +1,350 @@
+[23:10:00] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
+[23:10:00] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[23:10:00] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[23:10:00] [ServerMain/INFO]: [PluginInitializerManager] Initialized 12 plugins
+[23:10:00] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (12):
+ - Essentials (2.21.0), Geyser-Spigot (2.7.0-SNAPSHOT), LoginSecurity (3.3.0), MeteoritesPro (1.5.3), RedProtect (8.1.2-SNAPSHOT), SimpleTpa (7.6), SkinsRestorer (15.6.2), ViaBackwards (5.3.2), ViaRewind (4.0.4), ViaVersion (5.3.2), ZombieApocalypse (1.4.12), floodgate (2.2.4-SNAPSHOT (b116-0e3163c))
+[23:10:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:10:05] [ServerMain/WARN]: Missing metadata in pack file/dungeons.zip
+[23:10:06] [ServerMain/WARN]: Missing metadata in pack file/datapacks - cambios.zip
+[23:10:06] [ServerMain/WARN]: Missing metadata in pack file/bosses.zip
+[23:10:06] [ServerMain/WARN]: Missing data pack file/dungeons
+[23:10:06] [ServerMain/INFO]: Found new data pack file/end, loading it automatically
+[23:10:06] [ServerMain/INFO]: Found new data pack file/incendio, loading it automatically
+[23:10:08] [ServerMain/INFO]: Loaded 1314 recipes
+[23:10:08] [ServerMain/INFO]: Loaded 1593 advancements
+[23:10:08] [Server thread/INFO]: Starting minecraft server version 1.21
+[23:10:08] [Server thread/INFO]: Loading properties
+[23:10:08] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[23:10:09] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[23:10:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:10:09] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:10:10] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[23:10:10] [Server thread/INFO]: Default game type: SURVIVAL
+[23:10:10] [Server thread/INFO]: Generating keypair
+[23:10:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:10:10] [Server thread/INFO]: Using epoll channel type
+[23:10:10] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:10:10] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[23:10:12] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.2
+[23:10:12] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
+[23:10:13] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[23:10:14] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[23:10:15] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[23:10:15] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[23:10:16] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[23:10:16] [Server thread/ERROR]: [ViaVersion] Error initializing plugin 'ViaVersion-5.3.2.jar' in folder 'plugins' (Is it up to date?)
+java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.EntityTypes1_8$ObjectType com.viaversion.viaversion.api.minecraft.entities.EntityTypes1_8$ObjectType.findById(int)'
+	at ViaRewind-4.0.4.jar/com.viaversion.viarewind.protocol.v1_8to1_7_6_10.rewriter.EntityPacketRewriter1_8$3.register(EntityPacketRewriter1_8.java:144) ~[ViaRewind-4.0.4.jar:?]
+	at ViaVersion-5.3.2.jar/com.viaversion.viaversion.api.protocol.remapper.PacketHandlers.<init>(PacketHandlers.java:38) ~[ViaVersion-5.3.2.jar:?]
+	at ViaRewind-4.0.4.jar/com.viaversion.viarewind.protocol.v1_8to1_7_6_10.rewriter.EntityPacketRewriter1_8$3.<init>(EntityPacketRewriter1_8.java:130) ~[ViaRewind-4.0.4.jar:?]
+	at ViaRewind-4.0.4.jar/com.viaversion.viarewind.protocol.v1_8to1_7_6_10.rewriter.EntityPacketRewriter1_8.registerPackets(EntityPacketRewriter1_8.java:130) ~[ViaRewind-4.0.4.jar:?]
+	at ViaVersion-5.3.2.jar/com.viaversion.viaversion.api.rewriter.RewriterBase.register(RewriterBase.java:36) ~[ViaVersion-5.3.2.jar:?]
+	at ViaRewind-4.0.4.jar/com.viaversion.viarewind.protocol.v1_8to1_7_6_10.Protocol1_8To1_7_6_10.registerPackets(Protocol1_8To1_7_6_10.java:62) ~[ViaRewind-4.0.4.jar:?]
+	at ViaVersion-5.3.2.jar/com.viaversion.viaversion.api.protocol.AbstractProtocol.initialize(AbstractProtocol.java:106) ~[ViaVersion-5.3.2.jar:?]
+	at ViaVersion-5.3.2.jar/com.viaversion.viaversion.protocol.ProtocolManagerImpl.registerProtocol(ProtocolManagerImpl.java:213) ~[ViaVersion-5.3.2.jar:?]
+	at ViaVersion-5.3.2.jar/com.viaversion.viaversion.protocol.ProtocolManagerImpl.registerProtocol(ProtocolManagerImpl.java:207) ~[ViaVersion-5.3.2.jar:?]
+	at ViaRewind-4.0.4.jar/com.viaversion.viarewind.api.ViaRewindPlatform.init(ViaRewindPlatform.java:55) ~[ViaRewind-4.0.4.jar:?]
+	at ViaRewind-4.0.4.jar/com.viaversion.viarewind.BukkitPlugin.lambda$new$0(BukkitPlugin.java:29) ~[ViaRewind-4.0.4.jar:?]
+	at ViaVersion-5.3.2.jar/com.viaversion.viaversion.ViaManagerImpl.init(ViaManagerImpl.java:115) ~[ViaVersion-5.3.2.jar:?]
+	at ViaVersion-5.3.2.jar/com.viaversion.viaversion.ViaVersionPlugin.onLoad(ViaVersionPlugin.java:87) ~[ViaVersion-5.3.2.jar:?]
+	at io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:59) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:40) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:546) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:292) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[23:10:16] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.3.2
+[23:10:16] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[23:10:17] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[23:10:18] [Server thread/INFO]: [floodgate] Took 1,455ms to boot Floodgate
+[23:10:18] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0
+[23:10:18] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.6
+[23:10:18] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
+[23:10:18] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.4
+[23:10:18] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.2
+[23:10:18] [Server thread/INFO]: [ZombieApocalypse] Loading server plugin ZombieApocalypse v1.4.12
+[23:10:18] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.7.0-SNAPSHOT
+[23:10:19] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[23:10:19] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[23:10:19] [Server thread/INFO]: [MeteoritesPro] Loading server plugin MeteoritesPro v1.5.3
+[23:10:19] [Server thread/INFO]: [RedProtect] Loading server plugin RedProtect v8.1.2-SNAPSHOT
+[23:10:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:10:19] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.4
+[23:10:19] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.2
+[23:10:20] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[23:10:21] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[23:10:21] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[23:10:22] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[23:10:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:10:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:10:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:10:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:10:22] [Server thread/INFO]: Preparing level "world"
+[23:10:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:10:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:10:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[23:10:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[23:10:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[23:10:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:10:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:10:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.2
+[23:10:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7bda5de
+[23:10:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[23:10:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:10:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[23:10:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[23:10:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:10:28] [Server thread/INFO]: Time elapsed: 581 ms
+[23:10:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:10:34] [Server thread/INFO]: Time elapsed: 6400 ms
+[23:10:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:10:36] [Server thread/INFO]: Time elapsed: 1602 ms
+[23:10:36] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
+[23:10:36] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[23:10:36] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.2
+[23:10:36] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[23:10:37] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0
+[23:10:37] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[23:10:38] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[23:10:38] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[23:10:38] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[23:10:38] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[23:10:38] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[23:10:38] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[23:10:38] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[23:10:38] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[23:10:38] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[23:10:38] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[23:10:38] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[23:10:38] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[23:10:38] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[23:10:38] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[23:10:38] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[23:10:38] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[23:10:38] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[23:10:38] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[23:10:38] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[23:10:38] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[23:10:38] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[23:10:38] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[23:10:38] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[23:10:38] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[23:10:38] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[23:10:38] [Server thread/INFO]: [Essentials] Using locale en
+[23:10:38] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[23:10:38] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[23:10:38] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[23:10:38] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.6
+[23:10:38] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[23:10:38] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.6
+[23:10:38] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[23:10:38] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[23:10:38] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[23:10:38] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[23:10:39] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[23:10:39] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[23:10:39] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[23:10:39] [Server thread/INFO]: [ZombieApocalypse] Enabling ZombieApocalypse v1.4.12
+[23:10:39] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:10:39] [Server thread/INFO]: [ZombieApocalypse] Configuration has been successfully loaded!
+[23:10:39] [Server thread/INFO]: [ZombieApocalypse] If you really love this project, you could consider donating to help me keep this project alive! https://paypal.me/3ricL
+[23:10:39] [Server thread/INFO]: [ZombieApocalypse] PaperMC detected! Changing spawning algorithm accordingly
+[23:10:39] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.7.0-SNAPSHOT
+[23:10:39] [Server thread/INFO]: [MeteoritesPro] Enabling MeteoritesPro v1.5.3
+[23:10:39] [Server thread/INFO]:          __
+[23:10:39] [Server thread/INFO]:    |\/| |__)   MeteoritesPro v1.5.3
+[23:10:39] [Server thread/INFO]:    |  | |        by OliPulse
+[23:10:39] [Server thread/INFO]:  
+[23:10:39] [Server thread/INFO]: [MeteoritesPro] Invalid particle type: 'SMOKE_LARGE' for particle '2'
+[23:10:39] [Server thread/INFO]: [RedProtect] Enabling RedProtect v8.1.2-SNAPSHOT
+[23:10:40] [Server thread/INFO]: [RedProtect] Server version: 1.21-R0.1-SNAPSHOT
+[23:10:40] [Server thread/INFO]: [RedProtect] All configurations loaded!
+[23:10:40] [Server thread/INFO]: [RedProtect] Language file loaded - Using: EN-US
+[23:10:40] [Server thread/INFO]: [RedProtect] Registering commands...
+[23:10:40] [Server thread/INFO]: [RedProtect] Registering listeners...
+[23:10:40] [Server thread/INFO]: [RedProtect] Essentials found. Hooked.
+[23:10:40] [Server thread/INFO]: [RedProtect] - Loading world's regions...
+[23:10:40] [Server thread/INFO]: [RedProtect] - Loading world_nether's regions...
+[23:10:40] [Server thread/INFO]: [RedProtect] - Loading world_the_end's regions...
+[23:10:40] [Server thread/INFO]: [RedProtect] Auto-save Scheduler: Saving file database every 60 minutes!
+[23:10:40] [Server thread/INFO]: [RedProtect] There are 6 regions on (file) database!
+[23:10:40] [Server thread/INFO]: [RedProtect] Helper version: Latest
+[23:10:40] [Server thread/INFO]: [RedProtect] Loading GuiFlags for 1.14+
+[23:10:40] [Server thread/INFO]: [RedProtect] Metrics enabled! See our stats here: https://bstats.org/plugin/bukkit/RedProtect
+[23:10:40] [Server thread/INFO]: [RedProtect] Loading API...
+[23:10:40] [Server thread/INFO]: [RedProtect] API Loaded!
+[23:10:40] [Server thread/INFO]:  _   _  _   _   _   _  _ _  _  _ _ _  _
+[23:10:40] [Server thread/INFO]: |_| |_ | \ |_| |_| | |  |  |_ |   |  |_|
+[23:10:40] [Server thread/INFO]: | \ |_ |_/ |   | \ |_|  |  |_ |_  |  |_|
+[23:10:40] [Server thread/INFO]: » RedProtect v8.1.2-SNAPSHOT enabled
+[23:10:40] [Server thread/INFO]: 
+[23:10:41] [Server thread/INFO]: [spark] Starting background profiler...
+[23:10:41] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[23:10:41] [Server thread/INFO]: [Geyser-Spigot] 
+[23:10:41] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.7.0-b812 (git-master-efd4dcc)
+[23:10:41] [Server thread/INFO]: [Geyser-Spigot] 
+[23:10:41] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[23:10:48] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2336
+[23:10:48] [Server thread/INFO]: [Geyser-Spigot] Done (7.389s)! Run /geyser help for help!
+[23:10:49] [Server thread/INFO]: Done preparing level "world" (26.938s)
+[23:10:49] [Server thread/INFO]: Running delayed init tasks
+[23:10:49] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[23:10:49] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Fetching version information...
+[23:10:49] [Server thread/INFO]: Done (49.454s)! For help, type "help"
+[23:10:49] [Server thread/INFO]: Timings Reset
+[23:10:49] [Craft Scheduler Thread - 4 - ZombieApocalypse/INFO]: [ZombieApocalypse] Checking for updates...
+[23:10:49] [Craft Scheduler Thread - 4 - ZombieApocalypse/INFO]: [ZombieApocalypse] You are running the latest version.
+[23:11:16] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Please log into Xbox to join this server.
+[23:11:30] [User Authenticator #0/INFO]: UUID of player SakachiRagde3000 is 819bed16-8a9c-3ea2-b976-82e3cf8ce568
+[23:11:30] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Jethexis
+[23:11:30] [localSession-7-2/INFO]: [Geyser-Spigot] Jethexis (logged in as: Jethexis) has connected to the Java server
+[23:11:31] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Jethexis joined (UUID: 00000000-0000-0000-0009-01fa6f96102a)
+[23:11:31] [Server thread/INFO]: .Jethexis joined the game
+[23:11:31] [Server thread/INFO]: .Jethexis[/127.0.0.1:0] logged in with entity id 64 at ([world]-1.0, 4.0, -44.0)
+[23:11:33] [Server thread/INFO]: SakachiRagde3000 joined the game
+[23:11:33] [Server thread/INFO]: SakachiRagde3000 has reached the goal [Eye of Darkness]
+[23:11:33] [Server thread/INFO]: SakachiRagde3000[/127.83.247.20:37629] logged in with entity id 63 at ([world]-1.0, 4.0, -44.0)
+[23:11:53] [Server thread/WARN]: .Jethexis moved too quickly! -21.041733,11.0,-40.63232000000001
+[23:11:53] [Server thread/WARN]: .Jethexis moved too quickly! -21.041733,11.0,-40.63232000000001
+[23:11:53] [Server thread/WARN]: .Jethexis moved too quickly! -21.041733,11.0,-40.63232000000001
+[23:11:53] [Server thread/WARN]: .Jethexis moved too quickly! -21.041733,11.0,-40.63232000000001
+[23:11:54] [Async Chat Thread - #0/INFO]: [Not Secure] <SakachiRagde3000> hi
+[23:11:58] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[23:12:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7006ms or 140 ticks behind
+[23:12:05] [Server thread/WARN]: SakachiRagde3000 moved too quickly! 7.078748505463064,7.378703159460809,3.273302408581742
+[23:12:25] [Async Chat Thread - #0/INFO]: [Not Secure] <.Jethexis> que traen como novedad este dia?
+[23:12:33] [Async Chat Thread - #0/INFO]: [Not Secure] <SakachiRagde3000> no hay nadie aquí
+[23:12:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SakachiRagde3000<--[HERE]
+[23:12:48] [Server thread/INFO]: [RedProtect] Player SakachiRagde3000 damaged by VOID - Running command:
+ - Command: spawn SakachiRagde3000
+[23:12:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SakachiRagde3000<--[HERE]
+[23:12:49] [Server thread/INFO]: [RedProtect] Player SakachiRagde3000 damaged by VOID - Running command:
+ - Command: spawn SakachiRagde3000
+[23:12:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SakachiRagde3000<--[HERE]
+[23:12:49] [Server thread/INFO]: [RedProtect] Player SakachiRagde3000 damaged by VOID - Running command:
+ - Command: spawn SakachiRagde3000
+[23:12:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SakachiRagde3000<--[HERE]
+[23:12:50] [Server thread/INFO]: [RedProtect] Player SakachiRagde3000 damaged by VOID - Running command:
+ - Command: spawn SakachiRagde3000
+[23:12:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SakachiRagde3000<--[HERE]
+[23:12:50] [Server thread/INFO]: [RedProtect] Player SakachiRagde3000 damaged by VOID - Running command:
+ - Command: spawn SakachiRagde3000
+[23:12:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SakachiRagde3000<--[HERE]
+[23:12:51] [Server thread/INFO]: [RedProtect] Player SakachiRagde3000 damaged by VOID - Running command:
+ - Command: spawn SakachiRagde3000
+[23:12:51] [Server thread/INFO]: SakachiRagde3000 fell out of the world
+[23:12:53] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Monoty2944
+[23:12:53] [localSession-7-3/INFO]: [Geyser-Spigot] Monoty2944 (logged in as: Monoty2944) has connected to the Java server
+[23:12:53] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Monoty2944 joined (UUID: 00000000-0000-0000-0009-01fda4f36efb)
+[23:12:53] [Server thread/INFO]: .Monoty2944 joined the game
+[23:12:53] [Server thread/INFO]: .Monoty2944[/127.0.0.1:0] logged in with entity id 155 at ([world]-1.0, 4.0, -44.0)
+[23:13:01] [Async Chat Thread - #0/INFO]: [Not Secure] <.Jethexis> solo es el el vacio y el cielo de compañia
+[23:13:21] [Server thread/INFO]: Unknown function stellarity:cmd/generate_end_island_features
+[23:13:28] [Async Chat Thread - #0/INFO]: [Not Secure] <SakachiRagde3000> yo veo todo igual
+[23:13:55] [User Authenticator #1/INFO]: UUID of player _FacuMC_ is 42e87595-5b86-3968-86bb-7b6c5725d790
+[23:13:58] [Server thread/INFO]: _FacuMC_ joined the game
+[23:13:58] [Server thread/INFO]: _FacuMC_[/127.123.138.108:48291] logged in with entity id 171 at ([world]-1.0, 4.0, -44.0)
+[23:14:30] [Server thread/INFO]: .Jethexis was shot by Skeleton
+[23:14:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Monoty2944<--[HERE]
+[23:14:52] [Server thread/INFO]: [RedProtect] Player .Monoty2944 damaged by VOID - Running command:
+ - Command: spawn .Monoty2944
+[23:14:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Monoty2944<--[HERE]
+[23:14:52] [Server thread/INFO]: [RedProtect] Player .Monoty2944 damaged by VOID - Running command:
+ - Command: spawn .Monoty2944
+[23:14:52] [Server thread/INFO]: .Monoty2944 fell out of the world
+[23:15:08] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Axol5327
+[23:15:08] [localSession-7-4/INFO]: [Geyser-Spigot] Axol5327 (logged in as: Axol5327) has connected to the Java server
+[23:15:09] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Axol5327 joined (UUID: 00000000-0000-0000-0009-01f8d98d0d63)
+[23:15:09] [Server thread/INFO]: .Axol5327 joined the game
+[23:15:09] [Server thread/INFO]: .Axol5327[/127.0.0.1:0] logged in with entity id 534 at ([world]-1.0, 4.0, -44.0)
+[23:15:11] [Server thread/INFO]: _FacuMC_ was blown up by Ghast
+[23:15:20] [Async Chat Thread - #2/INFO]: [Not Secure] <_FacuMC_> devolver al remitente es imposible en server
+[23:15:28] [Server thread/INFO]: .Jethexis was blown up by Creeper
+[23:15:40] [Server thread/WARN]: .Axol5327 moved too quickly! -6.5422743,0.0,34.934962000000006
+[23:15:40] [Server thread/WARN]: .Axol5327 moved too quickly! -6.5422743,0.0,34.934962000000006
+[23:15:40] [Server thread/WARN]: .Axol5327 moved too quickly! -6.5422743,0.0,34.934962000000006
+[23:16:11] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Jethexis has disconnected from the Java server because of Bedrock client disconnected
+[23:16:11] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Jethexis disconnected
+[23:16:11] [Server thread/INFO]: .Jethexis lost connection: Disconnected
+[23:16:11] [Server thread/INFO]: .Jethexis left the game
+[23:16:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Axol5327<--[HERE]
+[23:16:22] [Server thread/INFO]: [RedProtect] Player .Axol5327 damaged by VOID - Running command:
+ - Command: spawn .Axol5327
+[23:16:22] [Server thread/INFO]: .Axol5327 fell out of the world
+[23:16:22] [Server thread/INFO]: _FacuMC_ was slain by Zombie
+[23:16:27] [User Authenticator #2/INFO]: UUID of player iCsar is f588c112-eb43-3274-842c-1e06347702d7
+[23:16:30] [Server thread/INFO]: iCsar joined the game
+[23:16:30] [Server thread/INFO]: iCsar[/127.2.114.198:47687] logged in with entity id 698 at ([world]-1.0, 4.0, -44.0)
+[23:16:40] [Async Chat Thread - #4/INFO]: [Not Secure] <SakachiRagde3000> qué hay de nuevo hoy?
+[23:16:47] [Async Chat Thread - #4/INFO]: [Not Secure] <iCsar> el nether y end
+[23:16:55] [Async Chat Thread - #5/INFO]: [Not Secure] <iCsar> revisenlos
+[23:16:57] [Async Chat Thread - #5/INFO]: [Not Secure] <.Monoty2944> cesar
+[23:16:59] [Async Chat Thread - #5/INFO]: [Not Secure] <SakachiRagde3000> ok
+[23:17:03] [Server thread/INFO]: iCsar issued server command: /function stellarity:cmd/generate_end_island_features
+[23:17:10] [Server thread/INFO]: SakachiRagde3000 has made the advancement [Incendium]
+[23:17:10] [Server thread/INFO]: SakachiRagde3000 has made the advancement [Strange Biomes]
+[23:17:10] [Server thread/INFO]: SakachiRagde3000 has made the advancement [The Dust Settles]
+[23:17:11] [Server thread/INFO]: .Axol5327 has made the advancement [Incendium]
+[23:17:11] [Server thread/INFO]: .Axol5327 has made the advancement [We Need to Go Deeper]
+[23:17:12] [Server thread/INFO]: .Axol5327 has made the advancement [Strange Biomes]
+[23:17:12] [Server thread/INFO]: .Axol5327 has made the advancement [The Dust Settles]
+[23:17:18] [Server thread/INFO]: iCsar issued server command: /function stellarity:_cmd/generate_end_island_features
+[23:17:21] [Async Chat Thread - #5/INFO]: [Not Secure] <.Monoty2944> soy la monica
+[23:17:26] [Async Chat Thread - #5/INFO]: [Not Secure] <SakachiRagde3000> y esto?
+[23:17:29] [Async Chat Thread - #4/INFO]: [Not Secure] <SakachiRagde3000> es como una fortaleza
+[23:17:36] [Async Chat Thread - #4/INFO]: [Not Secure] <iCsar> wow
+[23:17:44] [Async Chat Thread - #4/INFO]: [Not Secure] <iCsar> u are aammm
+[23:17:48] [User Authenticator #3/INFO]: UUID of player .Sicraft6095 is a18ca96e-150d-3155-b301-58a9e4d978de
+[23:17:48] [Async Chat Thread - #4/INFO]: [Not Secure] <iCsar> idk
+[23:17:49] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username OsagiGX
+[23:17:49] [localSession-7-1/INFO]: [Geyser-Spigot] OsagiGX (logged in as: OsagiGX) has connected to the Java server
+[23:17:49] [Server thread/INFO]: [floodgate] Floodgate player logged in as .OsagiGX joined (UUID: 00000000-0000-0000-0009-01f93987bfbf)
+[23:17:49] [Server thread/INFO]: .OsagiGX joined the game
+[23:17:49] [Server thread/INFO]: .OsagiGX[/127.0.0.1:0] logged in with entity id 904 at ([world]-0.5, 4.0, -43.5)
+[23:17:51] [Server thread/INFO]: .Sicraft6095 joined the game
+[23:17:51] [Server thread/INFO]: .Sicraft6095[/127.237.165.146:39633] logged in with entity id 901 at ([world]-1.0, 4.0, -44.0)
+[23:18:00] [Server thread/INFO]: .Axol5327 was slain by Radiation Director
+[23:18:12] [Async Chat Thread - #4/INFO]: [Not Secure] <.Sicraft6095> HOLA MIS ENGINERS
+[23:18:21] [Async Chat Thread - #4/INFO]: [Not Secure] <iCsar> AAAAAAQ
+[23:18:25] [Async Chat Thread - #4/INFO]: [Not Secure] <.Sicraft6095> XDD
+[23:18:26] [Server thread/INFO]: SakachiRagde3000 was slain by Radiation Director
+[23:18:31] [Async Chat Thread - #4/INFO]: [Not Secure] <SakachiRagde3000> ala
+[23:18:35] [Server thread/INFO]: .Axol5327 was slain by Magma Cube
+[23:18:36] [User Authenticator #3/INFO]: UUID of player joel_pro is 81c7b1d6-9201-396c-9664-227342306ead
+[23:18:37] [Async Chat Thread - #4/INFO]: [Not Secure] <SakachiRagde3000> no hay keep en el nether
+[23:18:38] [Server thread/INFO]: joel_pro joined the game
+[23:18:38] [Server thread/INFO]: joel_pro[/127.93.124.88:40535] logged in with entity id 1079 at ([world]-1.0, 4.0, -44.0)
+[23:18:38] [Server thread/INFO]: _FacuMC_ was slain by Zombie
+[23:18:38] [Async Chat Thread - #5/INFO]: [Not Secure] <SakachiRagde3000> watafac
+[23:18:40] [Server thread/INFO]: iCsar has made the advancement [Incendium]
+[23:18:41] [Server thread/INFO]: iCsar has made the advancement [Strange Biomes]
+[23:18:41] [Server thread/INFO]: iCsar has made the advancement [The Dust Settles]
+[23:18:43] [Server thread/INFO]: _FacuMC_ issued server command: /back
+[23:18:43] [Server thread/INFO]: .OsagiGX was slain by Zombie
+[23:19:01] [Server thread/INFO]: joel_pro was shot by Skeleton
+[23:19:04] [Server thread/INFO]: .Axol5327 was slain by Magma Cube
+[23:19:08] [Async Chat Thread - #5/INFO]: [Not Secure] <iCsar> oye pues si que hicieron un destrozó ayer
+[23:19:12] [Async Chat Thread - #5/INFO]: [Not Secure] <joel_pro> hola cesar y facu
+[23:19:17] [Async Chat Thread - #5/INFO]: [Not Secure] <.Sicraft6095> Donde xd
+[23:19:18] [Async Chat Thread - #5/INFO]: [Not Secure] <_FacuMC_> hola joel
+[23:19:22] [Async Chat Thread - #5/INFO]: [Not Secure] <SakachiRagde3000> es normal que no haya keep inventory en el nether?
+[23:19:33] [Server thread/WARN]: .Axol5327 moved wrongly!
+[23:19:34] [Async Chat Thread - #5/INFO]: [Not Secure] <.Sicraft6095> UY
+[23:19:48] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Zoula zupto
+[23:19:48] [localSession-7-2/INFO]: [Geyser-Spigot] Zoula zupto (logged in as: Zoula_zupto) has connected to the Java server
+[23:19:49] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Zoula_zupto joined (UUID: 00000000-0000-0000-0009-01f4c30e36aa)
+[23:19:49] [Server thread/INFO]: .Zoula_zupto joined the game
+[23:19:49] [Server thread/INFO]: .Zoula_zupto[/127.0.0.1:0] logged in with entity id 1301 at ([world]-0.5, 4.0, -43.5)

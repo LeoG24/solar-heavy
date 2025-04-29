@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745968571211
+  login: 1745968291856
+money: '0'
+last-account-name: .Jethexis
+logoutlocation:
+  world: f2780a57-ca08-479d-b657-a5f87ed065c8
+  world-name: world
+  x: -25.745665
+  y: 16.5
+  z: -91.435394
+  yaw: 91.12857055664062
+  pitch: 17.448348999023438
