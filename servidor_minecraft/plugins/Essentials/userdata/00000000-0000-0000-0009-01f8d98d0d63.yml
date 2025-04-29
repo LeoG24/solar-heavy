@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1745806249318
+  logout: 1745970399659
   login: 1745968509111
 money: '0'
 last-account-name: .Axol5327
 logoutlocation:
   world: f2780a57-ca08-479d-b657-a5f87ed065c8
   world-name: world
-  x: -7.351372
+  x: -21.69999
   y: 4.0
-  z: -8.467901
-  yaw: 179.20120239257812
-  pitch: 17.8031005859375
+  z: -15.299998
+  yaw: -118.9997787475586
+  pitch: 14.8280029296875
