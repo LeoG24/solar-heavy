@@ -2393,43 +2393,79 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:15:56 +0000"
+      "log_spam_fixer": "2025-04-29 23:25:56 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:15:56 +0000"
+      "log_spam_fixer": "2025-04-29 23:25:56 +0000"
     },
     "done": false
   },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-04-29 23:17:10 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:15:56 +0000"
+      "log_spam_fixer": "2025-04-29 23:25:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:15:56 +0000"
+      "log_spam_fixer": "2025-04-29 23:25:56 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-29 23:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-29 23:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-29 23:22:11 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:15:56 +0000"
+      "log_spam_fixer": "2025-04-29 23:25:56 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:15:56 +0000"
+      "log_spam_fixer": "2025-04-29 23:25:56 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-29 23:24:39 +0000"
+    },
+    "done": true
   },
   "stellarity:story/obtain_an_ender_pearl": {
     "criteria": {
       "criteria": "2025-04-29 23:11:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-29 23:22:11 +0000"
     },
     "done": true
   },
@@ -2441,13 +2477,13 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:15:56 +0000"
+      "log_spam_fixer": "2025-04-29 23:25:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:15:56 +0000"
+      "log_spam_fixer": "2025-04-29 23:25:56 +0000"
     },
     "done": false
   },
@@ -2457,11 +2493,23 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-29 23:22:11 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:15:56 +0000"
+      "log_spam_fixer": "2025-04-29 23:25:56 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-29 23:24:39 +0000"
+    },
+    "done": true
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -2469,11 +2517,23 @@
     },
     "done": false
   },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:ash_barrens": "2025-04-29 23:17:10 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:15:56 +0000"
+      "log_spam_fixer": "2025-04-29 23:25:56 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-29 23:22:11 +0000"
+    },
+    "done": true
   },
   "incendium:technical/using/trailblazer": {
     "criteria": {
@@ -2487,23 +2547,71 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-29 23:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-29 23:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-29 23:22:11 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:15:56 +0000"
+      "log_spam_fixer": "2025-04-29 23:25:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:15:56 +0000"
+      "log_spam_fixer": "2025-04-29 23:25:56 +0000"
     },
     "done": false
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:ash_barrens": "2025-04-29 23:17:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-29 23:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-29 23:22:11 +0000"
+    },
+    "done": true
   },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-04-29 23:11:34 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-29 23:22:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-04-29 23:17:10 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3953
 }

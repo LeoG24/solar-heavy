@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745969424060
+  login: 1745969340254
+money: '0'
+last-account-name: SumaMT
+logoutlocation:
+  world: f2780a57-ca08-479d-b657-a5f87ed065c8
+  world-name: world
+  x: 6.442337
+  y: 5.0
+  z: -42.3779
+  yaw: 107.12750244140625
+  pitch: 24.052978515625

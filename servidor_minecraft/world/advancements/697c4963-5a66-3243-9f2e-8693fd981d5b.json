@@ -244,9 +244,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "has_pink_petals": "2025-04-27 23:00:38 +0000"
+      "killed_by_something": "2025-04-27 22:56:58 +0000"
     },
     "done": true
   },
@@ -265,12 +265,6 @@
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-04-27 22:57:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-04-27 22:56:58 +0000"
     },
     "done": true
   },
@@ -309,6 +303,114 @@
       "in_water": "2025-04-27 22:57:17 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-04-27 23:00:38 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:23:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:23:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:23:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:23:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:23:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:23:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-04-29 23:21:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:23:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:23:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:21:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:23:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:21:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:23:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:21:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:23:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:23:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:21:43 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3953
 }

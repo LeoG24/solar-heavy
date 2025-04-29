@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1745969067613
   login: 1745968669495
 money: '0'
 last-account-name: .OsagiGX
+logoutlocation:
+  world: f2780a57-ca08-479d-b657-a5f87ed065c8
+  world-name: world
+  x: -11.349104
+  y: 4.0
+  z: -28.785627
+  yaw: 178.29150390625
+  pitch: 19.501678466796875
