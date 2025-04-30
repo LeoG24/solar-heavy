@@ -1817,73 +1817,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 00:27:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:37:56 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 00:27:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:37:56 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 00:27:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:37:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 00:27:56 +0000"
+      "requirement": "2025-04-30 00:38:15 +0000",
+      "log_spam_fixer": "2025-04-30 00:37:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 00:27:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:37:56 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 00:27:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:37:56 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 00:27:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:37:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 00:27:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:37:56 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 00:27:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:37:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 00:27:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:37:56 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 00:27:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:37:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 00:27:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:37:56 +0000"
     },
     "done": false
   },
@@ -1899,9 +1900,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-04-30 00:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_smooth_quartz": "2025-04-30 00:10:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-04-30 00:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-30 00:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-30 00:28:21 +0000"
     },
     "done": true
   },
@@ -1925,9 +1950,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-04-30 00:28:41 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/strengthened_by_fire": {
+    "criteria": {
+      "criteria": "2025-04-30 00:28:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-04-30 00:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-04-30 00:35:05 +0000"
     },
     "done": true
   },
@@ -1955,15 +1998,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-30 00:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-04-30 00:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-30 00:02:02 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-30 00:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-04-30 00:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-30 00:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_glazed_terracotta": {
     "criteria": {
       "has_green_terracotta": "2025-04-30 00:03:00 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/obtain_an_ender_pearl": {
+    "criteria": {
+      "criteria": "2025-04-30 00:28:30 +0000"
     },
     "done": true
   },
@@ -1976,6 +2055,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-04-30 00:02:02 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/slime_ball_from_ender_eye": {
+    "criteria": {
+      "has_item": "2025-04-30 00:28:41 +0000"
     },
     "done": true
   },
@@ -2021,6 +2106,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-04-30 00:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-04-30 00:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-30 00:28:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-30 00:02:02 +0000"
@@ -2030,6 +2133,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-04-30 00:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-30 00:35:17 +0000"
     },
     "done": true
   },
@@ -2054,6 +2163,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-04-30 00:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-04-30 00:28:41 +0000"
     },
     "done": true
   },
