@@ -1044,73 +1044,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:49:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:59:56 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:49:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:59:56 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:49:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:59:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:49:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:59:56 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:49:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:59:56 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:49:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:59:56 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:49:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:59:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:49:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:59:56 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:49:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:59:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:49:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:59:56 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:49:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:59:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:49:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:59:56 +0000"
     },
     "done": false
   },
@@ -1231,6 +1231,12 @@
   "stellarity:story/strengthened_by_fire": {
     "criteria": {
       "criteria": "2025-04-30 00:59:46 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/papyrus": {
+    "criteria": {
+      "has_item": "2025-04-30 02:00:04 +0000"
     },
     "done": true
   },
@@ -1465,6 +1471,12 @@
   "stellarity:recipes/chorus_plant_from_fruit": {
     "criteria": {
       "has_item": "2025-04-30 01:02:56 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/cloud_save": {
+    "criteria": {
+      "requirement": "2025-04-30 01:56:17 +0000"
     },
     "done": true
   },
