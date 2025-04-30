@@ -2358,3 +2358,143 @@ spawn SakachiRagde3000<--[HERE]
 [02:01:33] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Sgames81554 has disconnected from the Java server because of Bedrock client timed out
 [02:01:33] [Server thread/INFO]: .Sgames81554 lost connection: Disconnected
 [02:01:33] [Server thread/INFO]: .Sgames81554 left the game
+[02:01:59] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Sgames81554
+[02:01:59] [localSession-7-3/INFO]: [Geyser-Spigot] Sgames81554 (logged in as: Sgames81554) has connected to the Java server
+[02:02:00] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Sgames81554 joined (UUID: 00000000-0000-0000-0009-01fce2303120)
+[02:02:00] [Server thread/INFO]: .Sgames81554 joined the game
+[02:02:00] [Server thread/INFO]: .Sgames81554[/127.0.0.1:0] logged in with entity id 32412 at ([world]-1.0, 4.0, -44.0)
+[02:02:00] [Server thread/WARN]: [LoginSecurity] Player was logged in prematurely while still saving location
+[02:02:00] [Server thread/WARN]: .Sgames81554 moved too quickly! 131.52496,7.0,-71.42058
+[02:02:00] [Server thread/WARN]: .Sgames81554 moved too quickly! 131.52496,7.0,-71.42058
+[02:02:00] [Server thread/WARN]: .Sgames81554 moved too quickly! 131.52496,7.0,-71.42058
+[02:02:00] [Server thread/WARN]: .Sgames81554 moved too quickly! 131.52496,7.0,-71.42058
+[02:02:00] [Server thread/WARN]: .Sgames81554 moved too quickly! 131.52496,7.0,-71.42058
+[02:02:00] [Server thread/WARN]: .Sgames81554 moved too quickly! 131.52496,7.0,-71.42058
+[02:02:00] [Server thread/WARN]: .Sgames81554 moved too quickly! 131.52496,7.0,-71.42058
+[02:02:00] [Server thread/WARN]: .Sgames81554 moved too quickly! 131.52496,7.0,-71.42058
+[02:02:00] [Server thread/WARN]: .Sgames81554 moved too quickly! 131.52496,7.0,-71.42058
+[02:02:00] [Server thread/WARN]: .Sgames81554 moved too quickly! 131.52496,7.0,-71.42058
+[02:02:00] [Server thread/WARN]: .Sgames81554 moved too quickly! 131.52496,7.0,-71.42058
+[02:02:00] [Server thread/WARN]: .Sgames81554 moved too quickly! 131.52496,7.0,-71.42058
+[02:02:00] [Server thread/WARN]: .Sgames81554 moved too quickly! 131.52496,7.0,-71.42058
+[02:02:00] [Server thread/WARN]: .Sgames81554 moved too quickly! 131.52496,7.0,-71.42058
+[02:02:04] [Async Chat Thread - #72/INFO]: [Not Secure] <.Sicraft6095> Me falta muy poco
+[02:02:07] [Async Chat Thread - #72/INFO]: [Not Secure] <.Sicraft6095> para terminar de llenar todo
+[02:02:12] [Async Chat Thread - #72/INFO]: [Not Secure] <.Francozkai29> me voy a descansar que mañana tengo clases, presionen a cesar para que ponga keepinventory porfa xD
+[02:02:18] [Async Chat Thread - #72/INFO]: [Not Secure] <.Sicraft6095> Sipi
+[02:02:19] [Async Chat Thread - #72/INFO]: [Not Secure] <.Francozkai29> en el end
+[02:02:19] [Async Chat Thread - #72/INFO]: [Not Secure] <.Sicraft6095> ahi le digo
+[02:02:20] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Francozkai29 has disconnected from the Java server because of Bedrock client disconnected
+[02:02:20] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Francozkai29 disconnected
+[02:02:20] [Server thread/INFO]: .Francozkai29 lost connection: Disconnected
+[02:02:20] [Server thread/INFO]: .Francozkai29 left the game
+[02:02:50] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Sgames81554 has disconnected from the Java server because of Bedrock client timed out
+[02:02:50] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Sgames81554 disconnected
+[02:02:50] [Server thread/INFO]: .Sgames81554 lost connection: Disconnected
+[02:02:50] [Server thread/INFO]: .Sgames81554 left the game
+[02:03:22] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Sgames81554
+[02:03:22] [localSession-7-4/INFO]: [Geyser-Spigot] Sgames81554 (logged in as: Sgames81554) has connected to the Java server
+[02:03:22] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Sgames81554 joined (UUID: 00000000-0000-0000-0009-01fce2303120)
+[02:03:22] [Server thread/INFO]: .Sgames81554 joined the game
+[02:03:22] [Server thread/INFO]: .Sgames81554[/127.0.0.1:0] logged in with entity id 32517 at ([world]-1.0, 4.0, -44.0)
+[02:03:22] [Server thread/WARN]: [LoginSecurity] Player was logged in prematurely while still saving location
+[02:03:22] [Server thread/WARN]: .Sgames81554 moved too quickly! 23.88702,3.500000476837158,-16.378279999999997
+[02:03:22] [Server thread/WARN]: .Sgames81554 moved too quickly! 23.88702,3.500000476837158,-16.378279999999997
+[02:03:48] [Server thread/WARN]: .Sgames81554 moved wrongly!
+[02:07:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SakachiRagde3000<--[HERE]
+[02:07:30] [Server thread/INFO]: [RedProtect] Player SakachiRagde3000 damaged by VOID - Running command:
+ - Command: spawn SakachiRagde3000
+[02:07:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SakachiRagde3000<--[HERE]
+[02:07:30] [Server thread/INFO]: [RedProtect] Player SakachiRagde3000 damaged by VOID - Running command:
+ - Command: spawn SakachiRagde3000
+[02:07:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SakachiRagde3000<--[HERE]
+[02:07:31] [Server thread/INFO]: [RedProtect] Player SakachiRagde3000 damaged by VOID - Running command:
+ - Command: spawn SakachiRagde3000
+[02:07:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SakachiRagde3000<--[HERE]
+[02:07:31] [Server thread/INFO]: [RedProtect] Player SakachiRagde3000 damaged by VOID - Running command:
+ - Command: spawn SakachiRagde3000
+[02:07:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SakachiRagde3000<--[HERE]
+[02:07:32] [Server thread/INFO]: [RedProtect] Player SakachiRagde3000 damaged by VOID - Running command:
+ - Command: spawn SakachiRagde3000
+[02:07:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SakachiRagde3000<--[HERE]
+[02:07:32] [Server thread/INFO]: [RedProtect] Player SakachiRagde3000 damaged by VOID - Running command:
+ - Command: spawn SakachiRagde3000
+[02:07:32] [Server thread/INFO]: SakachiRagde3000 fell out of the world
+[02:08:03] [User Authenticator #13/INFO]: UUID of player SunnyyIsHere_ is ec8b9018-623f-3526-adbf-3b2fb85f38c1
+[02:08:05] [Server thread/INFO]: SunnyyIsHere_ joined the game
+[02:08:05] [Server thread/INFO]: SunnyyIsHere_[/127.9.156.13:54059] logged in with entity id 32806 at ([world]-1.0, 4.0, -44.0)
+[02:09:05] [Server thread/INFO]: SunnyyIsHere_ lost connection: [LoginSecurity] Exceeded max login tries: 5
+[02:09:05] [Server thread/INFO]: SunnyyIsHere_ left the game
+[02:09:09] [User Authenticator #14/INFO]: UUID of player SunnyyIsHere_ is ec8b9018-623f-3526-adbf-3b2fb85f38c1
+[02:09:09] [Server thread/INFO]: SunnyyIsHere_ joined the game
+[02:09:09] [Server thread/INFO]: SunnyyIsHere_[/127.9.156.13:55899] logged in with entity id 32891 at ([world]-1.0, 4.0, -44.0)
+[02:09:13] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Sgames81554<--[HERE]
+[02:09:13] [Server thread/INFO]: [RedProtect] Player .Sgames81554 damaged by VOID - Running command:
+ - Command: spawn .Sgames81554
+[02:09:14] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Sgames81554<--[HERE]
+[02:09:14] [Server thread/INFO]: [RedProtect] Player .Sgames81554 damaged by VOID - Running command:
+ - Command: spawn .Sgames81554
+[02:09:14] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Sgames81554<--[HERE]
+[02:09:14] [Server thread/INFO]: [RedProtect] Player .Sgames81554 damaged by VOID - Running command:
+ - Command: spawn .Sgames81554
+[02:09:14] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SakachiRagde3000<--[HERE]
+[02:09:14] [Server thread/INFO]: [RedProtect] Player SakachiRagde3000 damaged by VOID - Running command:
+ - Command: spawn SakachiRagde3000
+[02:09:15] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Sgames81554<--[HERE]
+[02:09:15] [Server thread/INFO]: [RedProtect] Player .Sgames81554 damaged by VOID - Running command:
+ - Command: spawn .Sgames81554
+[02:09:15] [Server thread/INFO]: .Sgames81554 fell out of the world
+[02:09:15] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SakachiRagde3000<--[HERE]
+[02:09:15] [Server thread/INFO]: [RedProtect] Player SakachiRagde3000 damaged by VOID - Running command:
+ - Command: spawn SakachiRagde3000
+[02:09:15] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SakachiRagde3000<--[HERE]
+[02:09:15] [Server thread/INFO]: [RedProtect] Player SakachiRagde3000 damaged by VOID - Running command:
+ - Command: spawn SakachiRagde3000
+[02:09:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SakachiRagde3000<--[HERE]
+[02:09:16] [Server thread/INFO]: [RedProtect] Player SakachiRagde3000 damaged by VOID - Running command:
+ - Command: spawn SakachiRagde3000
+[02:09:16] [Server thread/INFO]: SakachiRagde3000 fell out of the world
+[02:10:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SakachiRagde3000<--[HERE]
+[02:10:27] [Server thread/INFO]: [RedProtect] Player SakachiRagde3000 damaged by VOID - Running command:
+ - Command: spawn SakachiRagde3000
+[02:10:28] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SakachiRagde3000<--[HERE]
+[02:10:28] [Server thread/INFO]: [RedProtect] Player SakachiRagde3000 damaged by VOID - Running command:
+ - Command: spawn SakachiRagde3000
+[02:10:28] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SakachiRagde3000<--[HERE]
+[02:10:28] [Server thread/INFO]: [RedProtect] Player SakachiRagde3000 damaged by VOID - Running command:
+ - Command: spawn SakachiRagde3000
+[02:10:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SakachiRagde3000<--[HERE]
+[02:10:29] [Server thread/INFO]: [RedProtect] Player SakachiRagde3000 damaged by VOID - Running command:
+ - Command: spawn SakachiRagde3000
+[02:10:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SakachiRagde3000<--[HERE]
+[02:10:29] [Server thread/INFO]: [RedProtect] Player SakachiRagde3000 damaged by VOID - Running command:
+ - Command: spawn SakachiRagde3000
+[02:10:29] [Server thread/INFO]: SakachiRagde3000 fell out of the world
+[02:10:43] [Async Chat Thread - #74/INFO]: [Not Secure] <.Sicraft6095> SUNNY
+[02:10:53] [Async Chat Thread - #74/INFO]: [Not Secure] <.Sicraft6095> mIRA ESTO
+[02:10:55] [Server thread/INFO]: [MeteoritesPro] A Fiery Meteorite has been sighted near X:206 Z:48 !
+[02:10:57] [Server thread/INFO]: SunnyyIsHere_ lost connection: Disconnected
+[02:10:57] [Server thread/INFO]: SunnyyIsHere_ left the game
+[02:11:13] [User Authenticator #15/INFO]: UUID of player SunnyyIsHere_ is ec8b9018-623f-3526-adbf-3b2fb85f38c1
+[02:11:13] [Server thread/INFO]: SunnyyIsHere_ joined the game
+[02:11:13] [Server thread/INFO]: SunnyyIsHere_[/127.9.156.13:48409] logged in with entity id 33216 at ([world]-0.9063716902367885, 4.0, -43.02091105797941)
+[02:11:24] [Async Chat Thread - #74/INFO]: [Not Secure] <.Sicraft6095> SUNNY

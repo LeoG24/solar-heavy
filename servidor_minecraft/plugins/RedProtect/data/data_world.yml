@@ -299,7 +299,7 @@ Main:
     fishing: false
     use-potions: true
     lever: false
-    pvp: false
+    pvp: true
     spawn-animals: true
     passives: false
     press-plate: false
