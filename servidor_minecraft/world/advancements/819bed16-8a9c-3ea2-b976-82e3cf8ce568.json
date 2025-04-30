@@ -2405,15 +2405,27 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:55:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:05:56 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:55:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:05:56 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-29 23:57:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-29 23:57:29 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -2429,16 +2441,15 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:55:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:05:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-04-29 23:56:04 +0000",
-      "log_spam_fixer": "2025-04-29 23:55:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:05:56 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
@@ -2470,6 +2481,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-29 23:57:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-29 23:57:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-29 23:22:11 +0000"
@@ -2496,7 +2519,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:55:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:05:56 +0000"
     },
     "done": false
   },
@@ -2508,7 +2531,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:55:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:05:56 +0000"
     },
     "done": false
   },
@@ -2536,6 +2559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-29 23:57:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-04-29 23:22:11 +0000"
@@ -2550,13 +2579,13 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:55:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:05:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:55:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:05:56 +0000"
     },
     "done": false
   },
@@ -2596,9 +2625,15 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-29 23:57:29 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:55:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:05:56 +0000"
     },
     "done": false
   },
@@ -2650,6 +2685,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-29 23:57:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-29 23:42:10 +0000"
@@ -2658,13 +2699,25 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:55:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:05:56 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-29 23:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-29 23:57:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-29 23:57:29 +0000"
     },
     "done": true
   },
@@ -2712,13 +2765,13 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:55:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:05:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:55:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:05:56 +0000"
     },
     "done": false
   },

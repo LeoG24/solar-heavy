@@ -104,6 +104,59 @@ Reglas:
   candelete: true
   canpurge: true
   tppoint: ''
+solarterreno:
+  name: solarterreno
+  lastvisit: 29/04/2025
+  admins: []
+  members: []
+  leaders:
+  - f653a34b-65fd-3e82-b4dc-a5e2f6d581ff@Solarmc24
+  priority: 0
+  welcome: ''
+  world: world
+  maxX: 99
+  maxZ: 74
+  minX: 80
+  minZ: 55
+  maxY: 320
+  minY: -64
+  value: 0.0
+  flags:
+    can-grow: true
+    leaves-decay: false
+    allow-effects: true
+    door: false
+    teleport: true
+    allow-spawner: false
+    mob-loot: false
+    button: false
+    fire: false
+    flow: true
+    iceform-player: true
+    allow-home: false
+    chest: false
+    iceform-world: true
+    smart-door: true
+    fishing: false
+    use-potions: true
+    lever: false
+    pvp: false
+    spawn-animals: true
+    passives: false
+    press-plate: false
+    minecart: false
+    ender-chest: false
+    build: false
+    allow-fly: true
+    gravity: true
+    flow-damage: false
+    spawn-monsters: true
+    allow-potions: true
+    block-transform: true
+    redstone: false
+  candelete: true
+  canpurge: true
+  tppoint: ''
 Spawn:
   name: Spawn
   lastvisit: 28/04/2025
@@ -159,7 +212,7 @@ Spawn:
   tppoint: ''
 Main:
   name: Main
-  lastvisit: 28/04/2025
+  lastvisit: 29/04/2025
   admins: []
   members: []
   leaders:

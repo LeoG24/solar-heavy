@@ -380,13 +380,13 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:56:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:06:56 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:56:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:06:56 +0000"
     },
     "done": false
   },
@@ -422,15 +422,16 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:56:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:06:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:56:56 +0000"
+      "requirement": "2025-04-30 00:07:13 +0000",
+      "log_spam_fixer": "2025-04-30 00:06:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
@@ -444,6 +445,19 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-04-30 00:04:50 +0000",
+      "minecraft:zombie": "2025-04-30 00:07:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-30 00:04:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-04-29 23:32:16 +0000"
@@ -452,13 +466,13 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:56:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:06:56 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:56:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:06:56 +0000"
     },
     "done": false
   },
@@ -476,13 +490,13 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:56:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:06:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:56:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:06:56 +0000"
     },
     "done": false
   },
@@ -500,7 +514,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:56:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:06:56 +0000"
     },
     "done": false
   },
@@ -524,7 +538,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:56:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:06:56 +0000"
     },
     "done": false
   },
@@ -534,15 +548,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-30 00:04:29 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-04-29 23:12:54 +0000"
     },
     "done": false
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-04-30 00:04:50 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:56:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:06:56 +0000"
     },
     "done": false
   },
@@ -554,7 +580,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-29 23:56:56 +0000"
+      "log_spam_fixer": "2025-04-30 00:06:56 +0000"
     },
     "done": false
   },
