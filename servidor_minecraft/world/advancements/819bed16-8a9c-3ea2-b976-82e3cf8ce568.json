@@ -351,17 +351,19 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-04-30 02:23:40 +0000",
       "minecraft:skeleton": "2025-04-27 22:22:52 +0000",
-      "minecraft:piglin": "2025-04-28 21:58:47 +0000",
       "minecraft:zombified_piglin": "2025-04-27 21:46:28 +0000",
+      "minecraft:wither_skeleton": "2025-04-30 02:22:06 +0000",
+      "minecraft:husk": "2025-04-29 00:28:35 +0000",
+      "minecraft:ghast": "2025-04-28 22:01:02 +0000",
+      "minecraft:piglin": "2025-04-28 21:58:47 +0000",
       "minecraft:enderman": "2025-04-27 22:01:32 +0000",
       "minecraft:stray": "2025-04-27 23:39:41 +0000",
       "minecraft:magma_cube": "2025-04-27 22:24:34 +0000",
       "minecraft:spider": "2025-04-27 22:20:38 +0000",
       "minecraft:zombie": "2025-04-27 22:20:45 +0000",
       "minecraft:creeper": "2025-04-28 22:25:00 +0000",
-      "minecraft:husk": "2025-04-29 00:28:35 +0000",
-      "minecraft:ghast": "2025-04-28 22:01:02 +0000",
       "minecraft:slime": "2025-04-27 23:15:47 +0000"
     },
     "done": false
@@ -2429,13 +2431,13 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 02:20:56 +0000"
+      "log_spam_fixer": "2025-04-30 02:30:55 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 02:20:56 +0000"
+      "log_spam_fixer": "2025-04-30 02:30:55 +0000"
     },
     "done": false
   },
@@ -2489,7 +2491,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 02:20:56 +0000"
+      "log_spam_fixer": "2025-04-30 02:30:55 +0000"
     },
     "done": false
   },
@@ -2505,6 +2507,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-30 02:24:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-30 01:42:28 +0000"
@@ -2513,10 +2521,9 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-04-30 02:21:09 +0000",
-      "log_spam_fixer": "2025-04-30 02:20:56 +0000"
+      "log_spam_fixer": "2025-04-30 02:30:55 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
@@ -2610,7 +2617,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 02:20:56 +0000"
+      "log_spam_fixer": "2025-04-30 02:30:55 +0000"
     },
     "done": false
   },
@@ -2634,7 +2641,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 02:20:56 +0000"
+      "log_spam_fixer": "2025-04-30 02:30:55 +0000"
     },
     "done": false
   },
@@ -2694,13 +2701,13 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 02:20:56 +0000"
+      "log_spam_fixer": "2025-04-30 02:30:55 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 02:20:56 +0000"
+      "log_spam_fixer": "2025-04-30 02:30:55 +0000"
     },
     "done": false
   },
@@ -2778,7 +2785,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 02:20:56 +0000"
+      "log_spam_fixer": "2025-04-30 02:30:55 +0000"
     },
     "done": false
   },
@@ -2868,7 +2875,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 02:20:56 +0000"
+      "log_spam_fixer": "2025-04-30 02:30:55 +0000"
     },
     "done": false
   },
@@ -2920,6 +2927,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-30 02:24:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2025-04-30 01:23:51 +0000"
@@ -2958,7 +2971,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 02:20:56 +0000"
+      "log_spam_fixer": "2025-04-30 02:30:55 +0000"
     },
     "done": false
   },
@@ -2976,7 +2989,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 02:20:56 +0000"
+      "log_spam_fixer": "2025-04-30 02:30:55 +0000"
     },
     "done": false
   },
@@ -3055,6 +3068,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-04-30 01:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-30 02:24:01 +0000"
     },
     "done": true
   },
