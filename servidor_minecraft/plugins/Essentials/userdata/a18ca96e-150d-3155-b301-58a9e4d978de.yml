@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1745895498148
+  logout: 1745980433912
   login: 1745968671922
 money: '0'
 last-account-name: .Sicraft6095
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: f2780a57-ca08-479d-b657-a5f87ed065c8
   world-name: world
-  x: 61.69999998807907
-  y: 10.0
-  z: -63.30000001192093
-  yaw: -0.15179443359375
-  pitch: 39.90053939819336
+  x: -3.3295926814846633
+  y: 18.5
+  z: -3.9527093707217205
+  yaw: 136.9492645263672
+  pitch: 12.750005722045898
