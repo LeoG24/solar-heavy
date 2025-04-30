@@ -1880,3 +1880,169 @@ spawn .Monoty2944<--[HERE]
 [01:31:30] [Async Chat Thread - #69/INFO]: [Not Secure] <SakachiRagde3000> si se caen al vacío, cagaron.
 [01:31:31] [Async Chat Thread - #69/INFO]: [Not Secure] <.Sicraft6095> jodel
 [01:31:37] [Server thread/INFO]: .Sicraft6095 has made the advancement [Who is Cutting Onions?]
+[01:31:54] [Async Chat Thread - #68/INFO]: [Not Secure] <.Sicraft6095> Ando full armor pero full tierra
+[01:31:58] [Async Chat Thread - #68/INFO]: [Not Secure] <.Sicraft6095> tengo que construir xd
+[01:31:58] [Async Chat Thread - #68/INFO]: [Not Secure] <.Francozkai29> me faltan cosas
+[01:31:59] [Server thread/INFO]: .Sicraft6095 issued server command: /back
+[01:32:00] [Async Chat Thread - #68/INFO]: [Not Secure] <.Sgames81554> casi me atrapa un chicken joki sin el chicken
+[01:32:06] [Async Chat Thread - #68/INFO]: [Not Secure] <.Sicraft6095> Ah que suerte que tuve el back
+[01:32:07] [Server thread/INFO]: .Jethexis issued server command: /rp tp
+[01:32:07] [Async Chat Thread - #68/INFO]: [Not Secure] <.Sicraft6095> ajlksdjkas
+[01:32:13] [Server thread/INFO]: .Sicraft6095 issued server command: /sethome
+[01:32:13] [Server thread/INFO]: [Essentials] .Sicraft6095 was denied access to command.
+[01:32:18] [Server thread/INFO]: .Francozkai29 has made the advancement [Cover Me with Diamonds]
+[01:32:42] [Server thread/INFO]: .Jethexis issued server command: /rp tp JetStart overworld jethexis
+[01:32:48] [Async Chat Thread - #68/INFO]: [Not Secure] <.Sicraft6095> Traigo agua?
+[01:32:50] [Async Chat Thread - #68/INFO]: [Not Secure] <.Sicraft6095> que necesitan?=
+[01:33:02] [Async Chat Thread - #68/INFO]: [Not Secure] <.Francozkai29> keepinventory
+[01:33:04] [Async Chat Thread - #68/INFO]: [Not Secure] <.Francozkai29> y elytras
+[01:33:08] [Server thread/INFO]: .Jethexis issued server command: /rp tp JetStart overworld Jethexis
+[01:33:08] [Async Chat Thread - #69/INFO]: [Not Secure] <SakachiRagde3000> llamen a cesar
+[01:33:18] [Server thread/INFO]: [Not Secure] [Server] donde
+[01:33:20] [Async Chat Thread - #69/INFO]: [Not Secure] <.Sicraft6095> Lo de keepinventory ta dificil
+[01:33:23] [Async Chat Thread - #69/INFO]: [Not Secure] <.Francozkai29> llamen a dios
+[01:33:25] [Async Chat Thread - #69/INFO]: [Not Secure] <.Sicraft6095> Mejor hagamos cofre de end
+[01:33:34] [Async Chat Thread - #69/INFO]: [Not Secure] <.Francozkai29> ... OHH ESA ES BUENA DE HECHO
+[01:33:39] [Server thread/INFO]: .Jethexis issued server command: /rp tp JetStart overworld .Jethexis
+[01:33:39] [Async Chat Thread - #69/INFO]: [Not Secure] <.Francozkai29> Y la ponemos en el lobby
+[01:33:43] [Async Chat Thread - #69/INFO]: [Not Secure] <.Sicraft6095> sipirili
+[01:33:58] [Server thread/INFO]: Incorrect argument for command
+...tory true world_the_end<--[HERE]
+[01:33:58] [Async Chat Thread - #69/INFO]: [Not Secure] <.Sicraft6095> Esperen guardo esta tierra
+[01:34:00] [Async Chat Thread - #69/INFO]: [Not Secure] <.Francozkai29> igual que flojera, como se hace?
+[01:34:01] [Async Chat Thread - #69/INFO]: [Not Secure] <SakachiRagde3000> estos endermans están nerfeados
+[01:34:08] [Server thread/INFO]: Gamerule keepInventory is now set to: true
+[01:34:13] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Sgames81554 has disconnected from the Java server because of Bedrock client timed out
+[01:34:13] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Sgames81554 disconnected
+[01:34:13] [Server thread/INFO]: .Sgames81554 lost connection: Disconnected
+[01:34:13] [Server thread/INFO]: .Sgames81554 left the game
+[01:34:15] [Async Chat Thread - #69/INFO]: [Not Secure] <.Sicraft6095> se hace con obsidiana y un ojo de end
+[01:34:17] [Server thread/INFO]: [Not Secure] [Server] h
+[01:34:19] [Server thread/INFO]: Sign Spy - Location: x: 144, y: 0, z: -121, world: world
+[01:34:19] [Server thread/INFO]: Player: .Monoty2944
+[01:34:19] [Server thread/INFO]: Lines - 1: -------------- - 2: please don't
+[01:34:19] [Server thread/INFO]: Lines - 3: steal or destroy - 4: --------------
+[01:34:20] [Server thread/INFO]: TheGod_Lospe issued server command: /enderchest
+[01:34:20] [Server thread/INFO]: [Essentials] TheGod_Lospe was denied access to command.
+[01:34:26] [Async Chat Thread - #69/INFO]: [Not Secure] <.Francozkai29> ah que facil hay una banda
+[01:34:31] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Sgames81554
+[01:34:31] [localSession-7-1/INFO]: [Geyser-Spigot] Sgames81554 (logged in as: Sgames81554) has connected to the Java server
+[01:34:31] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Sgames81554 joined (UUID: 00000000-0000-0000-0009-01fce2303120)
+[01:34:31] [Server thread/INFO]: .Sgames81554 joined the game
+[01:34:31] [Server thread/INFO]: .Sgames81554[/127.0.0.1:0] logged in with entity id 28214 at ([world]-1.0, 4.0, -44.0)
+[01:34:31] [Server thread/WARN]: [LoginSecurity] Player was logged in prematurely while still saving location
+[01:34:31] [Server thread/WARN]: .Sgames81554 moved too quickly! 13.337242,13.0,47.69999
+[01:34:31] [Server thread/WARN]: .Sgames81554 moved too quickly! 13.337242,13.0,47.69999
+[01:34:31] [Server thread/WARN]: .Sgames81554 moved too quickly! 13.337242,13.0,47.69999
+[01:34:31] [Server thread/WARN]: .Sgames81554 moved too quickly! 13.337242,13.0,47.69999
+[01:34:31] [Server thread/WARN]: .Sgames81554 moved too quickly! 13.337242,13.0,47.69999
+[01:34:33] [Async Chat Thread - #69/INFO]: [Not Secure] <TheGod_Lospe> uh
+[01:34:38] [Async Chat Thread - #69/INFO]: [Not Secure] <.Jethexis> alguien me puede acceptar tp al overworld no se como usar el comando /rp tp
+[01:34:41] [Async Chat Thread - #69/INFO]: [Not Secure] <TheGod_Lospe> el /enderchest existe B)
+[01:34:51] [Server thread/INFO]: .Francozkai29 issued server command: /enderchest
+[01:34:51] [Server thread/INFO]: [Essentials] .Francozkai29 was denied access to command.
+[01:34:52] [Async Chat Thread - #69/INFO]: [Not Secure] <.Francozkai29> a
+[01:34:56] [Async Chat Thread - #69/INFO]: [Not Secure] <.Sicraft6095> Alguien se queda en el end?
+[01:34:56] [Async Chat Thread - #69/INFO]: [Not Secure] <.Francozkai29> hay enderchest? XD
+[01:34:57] [Async Chat Thread - #68/INFO]: [Not Secure] <.Sicraft6095> ok
+[01:34:59] [Async Chat Thread - #68/INFO]: [Not Secure] <.Francozkai29> yo
+[01:35:02] [Async Chat Thread - #68/INFO]: [Not Secure] <SakachiRagde3000> yo sigo acá
+[01:35:03] [Server thread/INFO]: .Sicraft6095 issued server command: /tpahere .Jethexis
+[01:35:09] [Async Chat Thread - #68/INFO]: [Not Secure] <SakachiRagde3000> estoy viendo qué hay
+[01:35:10] [Server thread/INFO]: .Jethexis issued server command: /tpaccept
+[01:35:11] [Async Chat Thread - #68/INFO]: [Not Secure] <TheGod_Lospe> hay un comando pero nadie tiene permiso a ese comando
+[01:35:28] [Async Chat Thread - #68/INFO]: [Not Secure] <.Francozkai29> mejor hagamos uno casero
+[01:35:38] [Async Chat Thread - #68/INFO]: [Not Secure] <.Francozkai29> sicraft cuanto es de obsidiana?
+[01:35:43] [Async Chat Thread - #68/INFO]: [Not Secure] <.Sicraft6095> 8
+[01:35:52] [Async Chat Thread - #68/INFO]: [Not Secure] <.Jethexis> Gracias bueno me retiro asta mañana (ojala y cesar solucione esto del end no quiero seguir siendo violado por enderman)
+[01:35:57] [Async Chat Thread - #69/INFO]: [Not Secure] <.Sicraft6095> XD
+[01:36:09] [Async Chat Thread - #69/INFO]: [Not Secure] <TheGod_Lospe> Chao
+[01:36:14] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Jethexis disconnected
+[01:36:14] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Jethexis has disconnected from the Java server because of Bedrock client disconnected
+[01:36:14] [Server thread/INFO]: .Jethexis lost connection: Disconnected
+[01:36:14] [Server thread/INFO]: .Jethexis left the game
+[01:36:36] [Async Chat Thread - #69/INFO]: [Not Secure] <TheGod_Lospe> Lag terrible
+[01:36:54] [Async Chat Thread - #69/INFO]: [Not Secure] <.Francozkai29> farmeemos avr si funca
+[01:37:02] [Async Chat Thread - #69/INFO]: [Not Secure] <SakachiRagde3000> estos no dan muchas perlas
+[01:37:06] [Async Chat Thread - #69/INFO]: [Not Secure] <SakachiRagde3000> dan más ojos
+[01:37:12] [Async Chat Thread - #69/INFO]: [Not Secure] <.Francozkai29> por eso
+[01:37:14] [Async Chat Thread - #69/INFO]: [Not Secure] <.Francozkai29> necesitamos ojos
+[01:37:19] [Server thread/INFO]: TheGod_Lospe lost connection: Timed out
+[01:37:19] [Server thread/INFO]: TheGod_Lospe left the game
+[01:37:20] [Async Chat Thread - #69/INFO]: [Not Secure] <.Francozkai29> a mi me quedan las weas de blaze todavia
+[01:37:29] [Async Chat Thread - #69/INFO]: [Not Secure] <.Francozkai29> ah no tengo polvo
+[01:37:38] [Async Chat Thread - #69/INFO]: [Not Secure] <.Sicraft6095> El polvo es con las varas
+[01:37:39] [Async Chat Thread - #69/INFO]: [Not Secure] <.Francozkai29> pero cualquier cosa vamos de vuelta o pedimos al chico de vuelta
+[01:37:48] [Async Chat Thread - #69/INFO]: [Not Secure] <.Francozkai29> a Jethexis luego
+[01:38:03] [Async Chat Thread - #69/INFO]: [Not Secure] <.Monoty2944> sicraft how did you manage to make people not break or place blocks where u do stuff
+[01:38:20] [Async Chat Thread - #68/INFO]: [Not Secure] <.Sicraft6095> Plugins but it wasnt made by me
+[01:38:26] [Async Chat Thread - #68/INFO]: [Not Secure] <.Sicraft6095> this server is hosted by Cesar
+[01:38:41] [Async Chat Thread - #68/INFO]: [Not Secure] <SakachiRagde3000> estás en bedrock?
+[01:38:44] [Async Chat Thread - #68/INFO]: [Not Secure] <.Francozkai29> made in kinemaster
+[01:38:47] [Async Chat Thread - #68/INFO]: [Not Secure] <.Monoty2944> alr
+[01:38:54] [Async Chat Thread - #68/INFO]: [Not Secure] <.Sicraft6095> Yo no
+[01:38:54] [Async Chat Thread - #68/INFO]: [Not Secure] <.Sicraft6095> alr
+[01:39:05] [Async Chat Thread - #68/INFO]: [Not Secure] <SakachiRagde3000> franco, estás en bedrock?
+[01:39:08] [Async Chat Thread - #68/INFO]: [Not Secure] <.Francozkai29> sipi
+[01:39:09] [Async Chat Thread - #68/INFO]: [Not Secure] <.Francozkai29> por?
+[01:39:20] [Async Chat Thread - #68/INFO]: [Not Secure] <SakachiRagde3000> lo decía porque andabas spameando el click
+[01:39:27] [Async Chat Thread - #68/INFO]: [Not Secure] <.Sicraft6095> Me arrepiento haber cambiado mi nick de bedrock
+[01:39:34] [Async Chat Thread - #68/INFO]: [Not Secure] <.Sicraft6095> queria quitarme el Sicraft_Tails
+[01:39:38] [Async Chat Thread - #68/INFO]: [Not Secure] <.Sicraft6095> el tails de ese nick
+[01:39:38] [Async Chat Thread - #68/INFO]: [Not Secure] <.Francozkai29> lol sicraft tu no tienes comprado el juego?
+[01:39:40] [Server thread/INFO]: Sign Spy - Location: x: 144, y: 0, z: -118, world: world
+[01:39:40] [Server thread/INFO]: Player: .Monoty2944
+[01:39:40] [Server thread/INFO]: Lines - 1: -------------- - 2: monoty's
+[01:39:40] [Server thread/INFO]: Lines - 3: house - 4: --------------
+[01:39:50] [Async Chat Thread - #68/INFO]: [Not Secure] <.Sicraft6095> En java no
+[01:39:52] [Async Chat Thread - #68/INFO]: [Not Secure] <.Sicraft6095> en ios si xd
+[01:39:54] [Async Chat Thread - #69/INFO]: [Not Secure] <.Francozkai29> que paja
+[01:40:03] [Async Chat Thread - #69/INFO]: [Not Secure] <.Francozkai29> AAA tu juegas desde movil?
+[01:40:20] [Async Chat Thread - #69/INFO]: [Not Secure] <.Sicraft6095> Si, muchas veces me gusta jugar acostado con un mando
+[01:40:23] [Async Chat Thread - #69/INFO]: [Not Secure] <.Sicraft6095> como si jugara en consola
+[01:40:28] [Server thread/INFO]: Sign Spy - Location: x: 140, y: -1, z: -122, world: world
+[01:40:28] [Server thread/INFO]: Player: .Monoty2944
+[01:40:28] [Server thread/INFO]: Lines - 1: I didn't build it, I - 2: just rebuilt it
+[01:40:28] [Server thread/INFO]: Lines - 3: because it was in - 4: an abandoned sta
+[01:40:33] [Async Chat Thread - #69/INFO]: [Not Secure] <.Francozkai29> has considerado un gamepad?
+[01:40:40] [Async Chat Thread - #69/INFO]: [Not Secure] <.Sicraft6095> Yo tengo mandos
+[01:40:43] [Async Chat Thread - #69/INFO]: [Not Secure] <.Francozkai29> yey
+[01:40:46] [Async Chat Thread - #69/INFO]: [Not Secure] <.Francozkai29> tenemos una
+[01:40:47] [Async Chat Thread - #69/INFO]: [Not Secure] <.Francozkai29> la usamos?
+[01:40:49] [Async Chat Thread - #69/INFO]: [Not Secure] <SakachiRagde3000> y si hacemos un hueco?
+[01:40:53] [Server thread/INFO]: Sign Spy - Location: x: 144, y: 0, z: -121, world: world
+[01:40:53] [Server thread/INFO]: Player: .Monoty2944
+[01:40:53] [Server thread/INFO]: Lines - 1: -------------- - 2: please don't
+[01:40:53] [Server thread/INFO]: Lines - 3: steal or destroy - 4: --------------
+[01:40:55] [Server thread/INFO]: Sign Spy - Location: x: 144, y: 0, z: -121, world: world
+[01:40:55] [Server thread/INFO]: Player: .Monoty2944
+[01:40:55] [Server thread/INFO]: Lines - 1: -------------- - 2: please don't
+[01:40:55] [Server thread/INFO]: Lines - 3: steal or destroy - 4: --------------
+[01:40:55] [Server thread/INFO]: [MeteoritesPro] A Fiery Meteorite has been sighted near X:491 Z:-22 !
+[01:41:14] [Async Chat Thread - #69/INFO]: [Not Secure] <.Francozkai29> tenes espada?
+[01:41:19] [Async Chat Thread - #69/INFO]: [Not Secure] <SakachiRagde3000> nop
+[01:41:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Sicraft6095<--[HERE]
+[01:41:29] [Server thread/INFO]: [RedProtect] Player .Sicraft6095 damaged by VOID - Running command:
+ - Command: spawn .Sicraft6095
+[01:41:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Sicraft6095<--[HERE]
+[01:41:30] [Server thread/INFO]: [RedProtect] Player .Sicraft6095 damaged by VOID - Running command:
+ - Command: spawn .Sicraft6095
+[01:41:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Sicraft6095<--[HERE]
+[01:41:30] [Server thread/INFO]: [RedProtect] Player .Sicraft6095 damaged by VOID - Running command:
+ - Command: spawn .Sicraft6095
+[01:41:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Sicraft6095<--[HERE]
+[01:41:31] [Server thread/INFO]: [RedProtect] Player .Sicraft6095 damaged by VOID - Running command:
+ - Command: spawn .Sicraft6095
+[01:41:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Sicraft6095<--[HERE]
+[01:41:31] [Server thread/INFO]: [RedProtect] Player .Sicraft6095 damaged by VOID - Running command:
+ - Command: spawn .Sicraft6095
+[01:41:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Sicraft6095<--[HERE]
+[01:41:32] [Server thread/INFO]: [RedProtect] Player .Sicraft6095 damaged by VOID - Running command:
+ - Command: spawn .Sicraft6095
+[01:41:32] [Server thread/INFO]: .Sicraft6095 fell out of the world
