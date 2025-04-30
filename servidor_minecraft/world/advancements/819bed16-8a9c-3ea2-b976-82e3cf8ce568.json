@@ -2405,13 +2405,13 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:15:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:30:56 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:15:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:30:56 +0000"
     },
     "done": false
   },
@@ -2439,18 +2439,35 @@
     },
     "done": true
   },
+  "stellarity:story/journeys_end": {
+    "criteria": {
+      "activate_portal": "2025-04-30 01:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-04-30 01:24:30 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:15:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:30:56 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_player_hurt": {
+  "stellarity:story/strengthened_by_fire": {
     "criteria": {
-      "requirement": "2025-04-30 01:15:58 +0000",
-      "log_spam_fixer": "2025-04-30 01:15:56 +0000"
+      "criteria": "2025-04-30 01:24:30 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-30 01:30:56 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
@@ -2520,7 +2537,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:15:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:30:56 +0000"
     },
     "done": false
   },
@@ -2532,7 +2549,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:15:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:30:56 +0000"
     },
     "done": false
   },
@@ -2580,15 +2597,21 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:15:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:30:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:15:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:30:56 +0000"
     },
     "done": false
+  },
+  "stellarity:recipes/slime_ball_from_ender_eye": {
+    "criteria": {
+      "has_item": "2025-04-30 01:24:30 +0000"
+    },
+    "done": true
   },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
@@ -2634,7 +2657,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:15:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:30:56 +0000"
     },
     "done": false
   },
@@ -2700,13 +2723,19 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:15:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:30:56 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-29 23:22:11 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/anger_enderman": {
+    "criteria": {
+      "anger_enderman": "2025-04-30 01:24:17 +0000"
     },
     "done": true
   },
@@ -2740,6 +2769,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-04-30 01:23:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-29 23:42:10 +0000"
@@ -2766,13 +2801,13 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:15:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:30:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:15:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:30:56 +0000"
     },
     "done": false
   },
@@ -2812,9 +2847,39 @@
     },
     "done": true
   },
+  "stellarity:recipes/glass_from_end_stone": {
+    "criteria": {
+      "has_item": "2025-04-30 01:23:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-04-30 01:24:30 +0000"
+    },
+    "done": true
+  },
   "incendium:ash_barrens/root": {
     "criteria": {
       "requirement": "2025-04-29 23:17:10 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/first_time_in_end": {
+    "criteria": {
+      "requirement": "2025-04-30 01:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-30 01:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-04-30 01:23:51 +0000"
     },
     "done": true
   },
