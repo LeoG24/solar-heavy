@@ -2403,6 +2403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-04-30 02:15:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-30 01:41:33 +0000"
@@ -2423,13 +2429,13 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 02:10:56 +0000"
+      "log_spam_fixer": "2025-04-30 02:20:56 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 02:10:56 +0000"
+      "log_spam_fixer": "2025-04-30 02:20:56 +0000"
     },
     "done": false
   },
@@ -2483,7 +2489,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 02:10:56 +0000"
+      "log_spam_fixer": "2025-04-30 02:20:56 +0000"
     },
     "done": false
   },
@@ -2507,9 +2513,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 02:10:56 +0000"
+      "requirement": "2025-04-30 02:21:09 +0000",
+      "log_spam_fixer": "2025-04-30 02:20:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
@@ -2603,7 +2610,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 02:10:56 +0000"
+      "log_spam_fixer": "2025-04-30 02:20:56 +0000"
     },
     "done": false
   },
@@ -2627,7 +2634,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 02:10:56 +0000"
+      "log_spam_fixer": "2025-04-30 02:20:56 +0000"
     },
     "done": false
   },
@@ -2687,13 +2694,13 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 02:10:56 +0000"
+      "log_spam_fixer": "2025-04-30 02:20:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 02:10:56 +0000"
+      "log_spam_fixer": "2025-04-30 02:20:56 +0000"
     },
     "done": false
   },
@@ -2771,7 +2778,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 02:10:56 +0000"
+      "log_spam_fixer": "2025-04-30 02:20:56 +0000"
     },
     "done": false
   },
@@ -2861,7 +2868,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 02:10:56 +0000"
+      "log_spam_fixer": "2025-04-30 02:20:56 +0000"
     },
     "done": false
   },
@@ -2951,7 +2958,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 02:10:56 +0000"
+      "log_spam_fixer": "2025-04-30 02:20:56 +0000"
     },
     "done": false
   },
@@ -2969,7 +2976,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 02:10:56 +0000"
+      "log_spam_fixer": "2025-04-30 02:20:56 +0000"
     },
     "done": false
   },
