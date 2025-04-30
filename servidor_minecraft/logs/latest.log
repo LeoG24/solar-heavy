@@ -2846,3 +2846,77 @@ spawn .SumaMT<--[HERE]
 [02:46:42] [Server thread/INFO]: .Sgames81554 left the game
 [02:49:12] [Server thread/INFO]: .SumaMT has made the advancement [It's Rude to Stare!]
 [02:49:30] [Server thread/INFO]: .SumaMT was slain by Enderman
+[02:55:53] [Server thread/INFO]: .SumaMT was blown up by .SumaMT using [Alien Axe]
+[02:58:17] [Server thread/INFO]: Unknown or incomplete command, see below for error
+sah j<--[HERE]
+[02:58:19] [Server thread/INFO]: [Not Secure] [Server] h
+[02:58:20] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /list 
+[02:58:20] [Server thread/INFO]: There are 2 out of maximum 50 players online.
+[02:58:20] [Server thread/INFO]: default: .SumaMT, SakachiRagde3000
+[02:58:34] [Server thread/INFO]: [Not Secure] [Server] apagando seever chicos, nos vemos mañana
+[02:58:47] [Server thread/INFO]: [Not Secure] [Server] esten pendientes a nuevos cambios
+[02:58:53] [Server thread/INFO]: [Not Secure] [Server] GUARDEN TODO
+[02:58:57] [Server thread/INFO]: [Not Secure] [Server] 5
+[02:58:58] [Server thread/INFO]: [Not Secure] [Server] 4
+[02:59:00] [Server thread/INFO]: [Not Secure] [Server] 3
+[02:59:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+say<--[HERE]
+[02:59:03] [Server thread/INFO]: [Not Secure] [Server] 2
+[02:59:05] [Server thread/INFO]: [Not Secure] [Server] 1
+[02:59:07] [Server thread/INFO]: [Not Secure] [Server] bai
+[02:59:09] [Server thread/INFO]: Stopping the server
+[02:59:10] [Server thread/INFO]: Stopping server
+[02:59:10] [Server thread/INFO]: [RedProtect] Disabling RedProtect v8.1.2-SNAPSHOT
+[02:59:10] [Server thread/INFO]: [RedProtect] Saving world's regions...
+[02:59:10] [Server thread/INFO]: [RedProtect] Saving world_the_end's regions...
+[02:59:10] [Server thread/INFO]: [RedProtect] Saving world_nether's regions...
+[02:59:10] [Server thread/INFO]: [RedProtect] Unregistering listeners...
+[02:59:10] [Server thread/INFO]: [RedProtect] RedProtect v8.1.2-SNAPSHOT turned off...
+[02:59:10] [Server thread/INFO]: [MeteoritesPro] Disabling MeteoritesPro v1.5.3
+[02:59:10] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.7.0-SNAPSHOT
+[02:59:10] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[02:59:10] [Server thread/INFO]: [Geyser-Spigot] Kicking 1 player(s)
+[02:59:10] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .SumaMT disconnected
+[02:59:10] [Server thread/INFO]: [Geyser-Spigot] SumaMT has disconnected from the Java server because of Apagando Geyser Proxy.
+[02:59:10] [Server thread/INFO]: [Geyser-Spigot] Kicked all players!
+[02:59:10] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[02:59:10] [Server thread/INFO]: [ZombieApocalypse] Disabling ZombieApocalypse v1.4.12
+[02:59:10] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.2
+[02:59:10] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.4
+[02:59:10] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[02:59:10] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[02:59:10] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[02:59:10] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.6
+[02:59:10] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[02:59:10] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.6
+[02:59:10] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0
+[02:59:10] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[02:59:10] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.2
+[02:59:10] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
+[02:59:10] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[02:59:10] [Server thread/INFO]: Saving players
+[02:59:10] [Server thread/INFO]: SakachiRagde3000 lost connection: Server closed
+[02:59:10] [Server thread/INFO]: SakachiRagde3000 left the game
+[02:59:10] [Server thread/INFO]: .SumaMT lost connection: Server closed
+[02:59:10] [Server thread/INFO]: .SumaMT left the game
+[02:59:10] [WebSocketConnectReadThread-233/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[02:59:10] [Server thread/INFO]: Saving worlds
+[02:59:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:59:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:59:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:59:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:59:10] [Server thread/INFO]: [ChunkHolderManager] Saved 5 block chunks, 57 entity chunks, 0 poi chunks in world 'world' in 0.05s
+[02:59:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:59:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:59:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:59:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:59:10] [Server thread/INFO]: [ChunkHolderManager] Saved 29 block chunks, 148 entity chunks, 1 poi chunks in world 'world_nether' in 0.08s
+[02:59:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:59:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:59:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:59:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:59:10] [Server thread/INFO]: [ChunkHolderManager] Saved 346 block chunks, 85 entity chunks, 0 poi chunks in world 'world_the_end' in 0.13s
+[02:59:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:59:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:59:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:59:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
