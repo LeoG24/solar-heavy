@@ -1320,6 +1320,18 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:55:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:55:56 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-04-29 23:41:06 +0000"
@@ -1386,6 +1398,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:55:56 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-04-29 23:41:06 +0000"
@@ -1410,6 +1428,13 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-04-29 23:55:59 +0000",
+      "log_spam_fixer": "2025-04-29 23:55:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-04-29 23:26:04 +0000"
@@ -1421,6 +1446,18 @@
       "has_gold_ingot": "2025-04-29 23:41:06 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:55:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:55:56 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
@@ -1458,6 +1495,18 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:55:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:55:56 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-04-29 23:26:04 +0000"
@@ -1475,6 +1524,12 @@
       "lava_bucket": "2025-04-29 23:27:30 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:55:56 +0000"
+    },
+    "done": false
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -1512,6 +1567,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:55:56 +0000"
+    },
+    "done": false
+  },
   "stellarity:adventure/anger_enderman": {
     "criteria": {
       "anger_enderman": "2025-04-29 23:35:15 +0000"
@@ -1542,11 +1603,23 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:55:56 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-04-29 23:26:04 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:55:56 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
@@ -1568,9 +1641,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-04-29 23:56:17 +0000",
       "log_spam_fixer": "2025-04-29 23:13:58 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:ash_barrens/root": {
     "criteria": {

@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1745971182561
   login: 1745970197103
 money: '0'
 last-account-name: armonypixel
+logoutlocation:
+  world: f2780a57-ca08-479d-b657-a5f87ed065c8
+  world-name: world
+  x: -3.6875061531233158
+  y: 18.0
+  z: 1.6528071290366702
+  yaw: -121.65036010742188
+  pitch: 23.84998893737793
