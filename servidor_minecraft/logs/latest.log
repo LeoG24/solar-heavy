@@ -2825,3 +2825,24 @@ spawn .SumaMT<--[HERE]
 [02:36:29] [Server thread/INFO]: SunnyyIsHere_ lost connection: Disconnected
 [02:36:29] [Server thread/INFO]: SunnyyIsHere_ left the game
 [02:40:55] [Server thread/INFO]: [MeteoritesPro] A Fiery Meteorite has been sighted near X:-60 Z:-394 !
+[02:43:32] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Sgames81554 disconnected
+[02:43:32] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Sgames81554 has disconnected from the Java server because of Bedrock client disconnected
+[02:43:32] [Server thread/INFO]: .Sgames81554 lost connection: Disconnected
+[02:43:32] [Server thread/INFO]: .Sgames81554 left the game
+[02:43:49] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Sgames81554
+[02:43:49] [localSession-7-2/INFO]: [Geyser-Spigot] Sgames81554 (logged in as: Sgames81554) has connected to the Java server
+[02:43:49] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Sgames81554 joined (UUID: 00000000-0000-0000-0009-01fce2303120)
+[02:43:49] [Server thread/INFO]: .Sgames81554 joined the game
+[02:43:49] [Server thread/INFO]: .Sgames81554[/127.0.0.1:0] logged in with entity id 37867 at ([world]-1.0, 4.0, -44.0)
+[02:43:49] [Server thread/WARN]: [LoginSecurity] Player was logged in prematurely while still saving location
+[02:43:49] [Server thread/WARN]: .Sgames81554 moved too quickly! 8.99996,13.0,50.000059
+[02:43:49] [Server thread/WARN]: .Sgames81554 moved too quickly! 8.99996,13.0,50.000059
+[02:43:49] [Server thread/WARN]: .Sgames81554 moved too quickly! 8.99996,13.0,50.000059
+[02:43:49] [Server thread/WARN]: .Sgames81554 moved too quickly! 8.99996,13.0,50.000059
+[02:43:49] [Server thread/WARN]: .Sgames81554 moved too quickly! 8.99996,13.0,50.000059
+[02:46:42] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Sgames81554 disconnected
+[02:46:42] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Sgames81554 has disconnected from the Java server because of Bedrock client disconnected
+[02:46:42] [Server thread/INFO]: .Sgames81554 lost connection: Disconnected
+[02:46:42] [Server thread/INFO]: .Sgames81554 left the game
+[02:49:12] [Server thread/INFO]: .SumaMT has made the advancement [It's Rude to Stare!]
+[02:49:30] [Server thread/INFO]: .SumaMT was slain by Enderman
