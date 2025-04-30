@@ -12,6 +12,7 @@
       "minecraft:desert": "2025-04-28 21:20:27 +0000",
       "minecraft:old_growth_pine_taiga": "2025-04-30 00:32:28 +0000",
       "minecraft:sunflower_plains": "2025-04-30 00:22:00 +0000",
+      "minecraft:cherry_grove": "2025-04-30 01:00:52 +0000",
       "minecraft:river": "2025-04-28 21:13:19 +0000",
       "minecraft:lush_caves": "2025-04-30 00:23:24 +0000",
       "minecraft:bamboo_jungle": "2025-04-28 21:09:04 +0000",
@@ -166,7 +167,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "potato": "2025-04-28 21:03:17 +0000"
+      "potato": "2025-04-28 21:03:17 +0000",
+      "chorus_fruit": "2025-04-30 01:03:26 +0000"
     },
     "done": false
   },
@@ -389,6 +391,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:enderman": "2025-04-28 21:20:48 +0000",
+      "minecraft:magma_cube": "2025-04-30 01:09:45 +0000",
       "minecraft:zombie": "2025-04-30 00:24:03 +0000",
       "minecraft:husk": "2025-04-30 00:36:01 +0000",
       "minecraft:slime": "2025-04-28 21:20:07 +0000"
@@ -733,7 +736,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-04-28 21:38:51 +0000"
+      "minecraft:nether_wastes": "2025-04-28 21:38:51 +0000",
+      "minecraft:basalt_deltas": "2025-04-30 01:07:18 +0000"
     },
     "done": false
   },
@@ -1033,74 +1037,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 00:49:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:09:56 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 00:49:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:09:56 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 00:49:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:09:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-04-30 00:50:06 +0000",
-      "log_spam_fixer": "2025-04-30 00:49:56 +0000"
+      "requirement": "2025-04-30 01:10:08 +0000",
+      "log_spam_fixer": "2025-04-30 01:09:56 +0000"
     },
     "done": true
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 00:49:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:09:56 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 00:49:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:09:56 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 00:49:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:09:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 00:49:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:09:56 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 00:49:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:09:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 00:49:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:09:56 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 00:49:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:09:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 00:49:56 +0000"
+      "log_spam_fixer": "2025-04-30 01:09:56 +0000"
     },
     "done": false
   },
@@ -1113,6 +1117,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-04-30 00:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-30 00:59:15 +0000"
     },
     "done": true
   },
@@ -1140,9 +1150,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-30 01:09:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-04-30 00:59:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-04-30 00:39:03 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/strengthened_by_fire": {
+    "criteria": {
+      "criteria": "2025-04-30 00:59:46 +0000"
     },
     "done": true
   },
@@ -1164,9 +1192,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-30 00:59:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-04-30 00:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-04-30 01:02:56 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/slime_ball_from_ender_eye": {
+    "criteria": {
+      "has_item": "2025-04-30 00:59:46 +0000"
+    },
+    "done": true
+  },
+  "stellarity:exploration/discover_all_biomes": {
+    "criteria": {
+      "end_midlands": "2025-04-30 01:01:24 +0000"
+    },
+    "done": false
+  },
+  "stellarity:recipes/chorus_plant_from_fruit": {
+    "criteria": {
+      "has_item": "2025-04-30 01:02:56 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/sugar_from_chorus_fruit": {
+    "criteria": {
+      "has_item": "2025-04-30 01:02:56 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/anger_enderman": {
+    "criteria": {
+      "anger_enderman": "2025-04-30 01:02:41 +0000"
     },
     "done": true
   },
@@ -1185,6 +1255,18 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-04-30 00:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-30 01:09:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-04-30 00:59:46 +0000"
     },
     "done": true
   },
