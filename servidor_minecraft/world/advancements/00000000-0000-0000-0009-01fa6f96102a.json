@@ -2132,81 +2132,63 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "incendium:quartz_flats/root": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:35:56 +0000"
+      "requirement": "2025-04-30 00:48:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "incendium:quartz_flats/floor_is_tears": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:35:56 +0000"
+      "requirement": "2025-04-30 00:48:22 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "stellarity:adventure/anger_enderman": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 01:35:56 +0000"
+      "anger_enderman": "2025-04-30 00:49:16 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 01:35:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 01:35:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 01:35:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 01:35:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 01:35:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 01:35:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 01:35:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 01:35:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 01:35:56 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-04-30 01:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-04-30 01:23:28 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/journeys_end": {
+    "criteria": {
+      "activate_portal": "2025-04-30 01:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-04-30 01:23:51 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/first_time_in_end": {
+    "criteria": {
+      "requirement": "2025-04-30 01:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-04-30 01:23:51 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/glass_from_end_stone": {
+    "criteria": {
+      "has_item": "2025-04-30 01:23:57 +0000"
     },
     "done": true
   },
@@ -2222,65 +2204,83 @@
     },
     "done": true
   },
-  "stellarity:story/journeys_end": {
-    "criteria": {
-      "activate_portal": "2025-04-30 01:23:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2025-04-30 01:23:28 +0000"
-    },
-    "done": true
-  },
-  "incendium:quartz_flats/floor_is_tears": {
-    "criteria": {
-      "requirement": "2025-04-30 00:48:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-04-30 01:24:57 +0000"
     },
     "done": true
   },
-  "incendium:quartz_flats/root": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "requirement": "2025-04-30 00:48:09 +0000"
+      "log_spam_fixer": "2025-04-30 01:47:56 +0000"
     },
-    "done": true
+    "done": false
   },
-  "stellarity:adventure/anger_enderman": {
+  "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "anger_enderman": "2025-04-30 00:49:16 +0000"
+      "log_spam_fixer": "2025-04-30 01:47:56 +0000"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:end/root": {
+  "incendium:technical/feed_ghastling": {
     "criteria": {
-      "entered_end": "2025-04-30 01:23:51 +0000"
+      "log_spam_fixer": "2025-04-30 01:47:56 +0000"
     },
-    "done": true
+    "done": false
   },
-  "stellarity:recipes/glass_from_end_stone": {
+  "incendium:technical/on_player_hurt": {
     "criteria": {
-      "has_item": "2025-04-30 01:23:57 +0000"
+      "log_spam_fixer": "2025-04-30 01:47:56 +0000"
     },
-    "done": true
+    "done": false
   },
-  "stellarity:events/first_time_in_end": {
+  "incendium:technical/firestorm": {
     "criteria": {
-      "requirement": "2025-04-30 01:23:51 +0000"
+      "log_spam_fixer": "2025-04-30 01:47:56 +0000"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:story/enter_the_end": {
+  "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "entered_end": "2025-04-30 01:23:51 +0000"
+      "log_spam_fixer": "2025-04-30 01:47:56 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-30 01:47:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-30 01:47:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-30 01:47:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-30 01:47:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-30 01:47:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-30 01:47:56 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3953
 }
