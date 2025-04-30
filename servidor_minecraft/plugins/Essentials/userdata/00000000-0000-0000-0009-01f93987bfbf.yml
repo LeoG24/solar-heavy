@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1745969067613
+  logout: 1745972238214
   login: 1745969851462
 money: '0'
 last-account-name: .OsagiGX
 logoutlocation:
-  world: f2780a57-ca08-479d-b657-a5f87ed065c8
-  world-name: world
-  x: -11.349104
-  y: 4.0
-  z: -28.785627
-  yaw: 178.29150390625
-  pitch: 19.501678466796875
+  world: 08d32007-7a87-4108-8cda-6ebc960fc9f0
+  world-name: world_nether
+  x: -97.69999
+  y: 39.0
+  z: -79.69999
+  yaw: 16.821670532226562
+  pitch: 53.58940124511719
