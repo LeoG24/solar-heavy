@@ -33,6 +33,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-27 22:55:03 +0000",
+      "minecraft:zombified_piglin": "2025-05-01 22:48:29 +0000",
       "minecraft:enderman": "2025-05-01 22:26:17 +0000",
       "minecraft:zombie": "2025-04-27 22:17:52 +0000"
     },
@@ -1141,6 +1142,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-05-01 22:51:36 +0000",
       "minecraft:basalt_deltas": "2025-05-01 21:52:14 +0000"
     },
     "done": false
@@ -1435,76 +1437,135 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:43:27 +0000"
+      "log_spam_fixer": "2025-05-01 22:53:26 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:43:27 +0000"
+      "log_spam_fixer": "2025-05-01 22:53:26 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:43:27 +0000"
+      "log_spam_fixer": "2025-05-01 22:53:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-05-01 22:43:27 +0000",
-      "log_spam_fixer": "2025-05-01 22:43:27 +0000"
+      "log_spam_fixer": "2025-05-01 22:53:26 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:43:27 +0000"
+      "log_spam_fixer": "2025-05-01 22:53:26 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:43:27 +0000"
+      "log_spam_fixer": "2025-05-01 22:53:26 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:43:27 +0000"
+      "log_spam_fixer": "2025-05-01 22:53:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:43:27 +0000"
+      "log_spam_fixer": "2025-05-01 22:53:26 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:43:27 +0000"
+      "log_spam_fixer": "2025-05-01 22:53:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:43:27 +0000"
+      "log_spam_fixer": "2025-05-01 22:53:26 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:43:27 +0000"
+      "log_spam_fixer": "2025-05-01 22:53:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:43:27 +0000"
+      "log_spam_fixer": "2025-05-01 22:53:26 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-01 22:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:44:15 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3953
 }

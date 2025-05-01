@@ -340,8 +340,10 @@
       "minecraft:skeleton": "2025-04-28 20:49:26 +0000",
       "minecraft:piglin": "2025-04-28 21:19:22 +0000",
       "minecraft:enderman": "2025-04-28 21:17:38 +0000",
+      "minecraft:magma_cube": "2025-05-01 22:43:26 +0000",
       "minecraft:spider": "2025-04-28 21:16:05 +0000",
-      "minecraft:zombie": "2025-04-28 20:49:46 +0000"
+      "minecraft:zombie": "2025-04-28 20:49:46 +0000",
+      "minecraft:slime": "2025-05-01 22:45:46 +0000"
     },
     "done": false
   },
@@ -852,13 +854,13 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:50:26 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:50:26 +0000"
     },
     "done": false
   },
@@ -870,13 +872,13 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:50:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:50:26 +0000"
     },
     "done": false
   },
@@ -900,15 +902,21 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:50:26 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:50:26 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-01 22:46:51 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
@@ -924,13 +932,13 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:50:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:50:26 +0000"
     },
     "done": false
   },
@@ -954,9 +962,15 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:50:26 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-01 22:46:51 +0000"
+    },
+    "done": true
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -978,7 +992,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:50:26 +0000"
     },
     "done": false
   },
@@ -1012,6 +1026,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-01 22:46:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_brick_slab": "2025-05-01 22:33:13 +0000"
@@ -1026,13 +1046,13 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:50:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:50:26 +0000"
     },
     "done": false
   },

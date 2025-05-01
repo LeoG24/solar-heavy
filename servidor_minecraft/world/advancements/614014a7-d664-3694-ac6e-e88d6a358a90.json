@@ -632,15 +632,27 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:50:26 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:50:26 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:48:00 +0000"
+    },
+    "done": true
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
@@ -668,7 +680,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:50:26 +0000"
     },
     "done": false
   },
@@ -692,13 +704,25 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:50:26 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:48:00 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-01 22:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:48:00 +0000"
     },
     "done": true
   },
@@ -728,7 +752,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:50:26 +0000"
     },
     "done": false
   },
@@ -752,7 +776,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:50:26 +0000"
     },
     "done": false
   },
@@ -765,6 +789,12 @@
   "stellarity:story/obtain_an_ender_pearl": {
     "criteria": {
       "criteria": "2025-05-01 22:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:48:00 +0000"
     },
     "done": true
   },
@@ -782,13 +812,13 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:50:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:50:26 +0000"
     },
     "done": false
   },
@@ -828,6 +858,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:48:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-01 22:18:22 +0000"
@@ -842,7 +878,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:50:26 +0000"
     },
     "done": false
   },
@@ -900,6 +936,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:48:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-01 22:18:22 +0000"
@@ -908,13 +950,25 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:50:26 +0000"
     },
     "done": false
   },
   "stellarity:adventure/anger_enderman": {
     "criteria": {
       "anger_enderman": "2025-05-01 22:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:48:00 +0000"
     },
     "done": true
   },
@@ -962,13 +1016,13 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:50:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:50:26 +0000"
     },
     "done": false
   },
