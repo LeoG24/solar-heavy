@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1745887182545
-  login: 1746136875072
+  logout: 1746140971518
+  login: 1746140979010
 money: '0'
 last-account-name: EduardoKeith
 logoutlocation:
   world: f2780a57-ca08-479d-b657-a5f87ed065c8
   world-name: world
-  x: -0.5
-  y: 4.0
-  z: -43.5
-  yaw: 0.0
-  pitch: 0.0
+  x: 3.9971710835132446
+  y: -166.39307996286223
+  z: -7.233290735629909
+  yaw: -16.5382080078125
+  pitch: 4.370213508605957
 lastlocation:
   world: 08d32007-7a87-4108-8cda-6ebc960fc9f0
   world-name: world_nether
