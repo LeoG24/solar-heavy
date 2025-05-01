@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1745876300352
+  logout: 1746142908028
   login: 1746138632473
 money: '0'
 last-account-name: .esporas3072
 logoutlocation:
   world: f2780a57-ca08-479d-b657-a5f87ed065c8
   world-name: world
-  x: -0.5
-  y: 4.0
-  z: -43.5
-  yaw: -1.52587890625E-5
-  pitch: 0.0
+  x: -7.718109
+  y: 5.24919
+  z: -22.429184
+  yaw: 11.621475219726562
+  pitch: 2.353424072265625

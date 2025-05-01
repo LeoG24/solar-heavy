@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2025-05-01 23:47:02 +0000",
       "minecraft:flower_forest": "2025-04-27 22:17:43 +0000",
       "minecraft:snowy_slopes": "2025-04-28 01:19:19 +0000",
       "minecraft:old_growth_pine_taiga": "2025-04-27 22:40:07 +0000",
@@ -19,6 +20,7 @@
       "minecraft:deep_dark": "2025-04-27 22:38:38 +0000",
       "minecraft:ocean": "2025-04-27 22:40:21 +0000",
       "minecraft:cherry_grove": "2025-04-27 22:38:36 +0000",
+      "minecraft:sunflower_plains": "2025-05-01 23:47:13 +0000",
       "minecraft:bamboo_jungle": "2025-04-27 22:18:52 +0000",
       "minecraft:windswept_savanna": "2025-04-27 22:35:24 +0000",
       "minecraft:plains": "2025-04-27 22:24:57 +0000"
@@ -698,6 +700,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-05-01 23:25:17 +0000",
       "minecraft:soul_sand_valley": "2025-05-01 23:15:50 +0000",
       "minecraft:basalt_deltas": "2025-05-01 22:13:48 +0000"
     },
@@ -1294,75 +1297,81 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:24:27 +0000"
+      "log_spam_fixer": "2025-05-01 23:54:26 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:24:27 +0000"
+      "log_spam_fixer": "2025-05-01 23:54:26 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:24:27 +0000"
+      "log_spam_fixer": "2025-05-01 23:54:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:24:27 +0000"
+      "log_spam_fixer": "2025-05-01 23:54:26 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:24:27 +0000"
+      "log_spam_fixer": "2025-05-01 23:54:26 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:24:27 +0000"
+      "log_spam_fixer": "2025-05-01 23:54:26 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:24:27 +0000"
+      "log_spam_fixer": "2025-05-01 23:54:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:24:27 +0000"
+      "log_spam_fixer": "2025-05-01 23:54:26 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:24:27 +0000"
+      "log_spam_fixer": "2025-05-01 23:54:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:24:27 +0000"
+      "log_spam_fixer": "2025-05-01 23:54:26 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:24:27 +0000"
+      "log_spam_fixer": "2025-05-01 23:54:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:24:27 +0000"
+      "log_spam_fixer": "2025-05-01 23:54:26 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-01 23:31:30 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
@@ -1373,6 +1382,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-05-01 23:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-01 23:31:30 +0000"
     },
     "done": true
   },
@@ -1487,6 +1502,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-05-01 23:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-01 23:31:30 +0000"
     },
     "done": true
   },
