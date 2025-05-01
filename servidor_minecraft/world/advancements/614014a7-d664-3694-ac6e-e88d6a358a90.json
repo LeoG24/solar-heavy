@@ -13,6 +13,7 @@
       "minecraft:mushroom_fields": "2025-04-27 23:00:32 +0000",
       "minecraft:mangrove_swamp": "2025-04-28 01:13:55 +0000",
       "minecraft:deep_ocean": "2025-04-27 22:40:20 +0000",
+      "minecraft:river": "2025-05-01 22:19:24 +0000",
       "minecraft:lush_caves": "2025-04-27 22:18:20 +0000",
       "minecraft:desert": "2025-04-27 22:34:55 +0000",
       "minecraft:deep_dark": "2025-04-27 22:38:38 +0000",
@@ -605,45 +606,136 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-01 22:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:18:22 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:10:27 +0000"
+      "log_spam_fixer": "2025-05-01 22:20:27 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:10:27 +0000"
+      "log_spam_fixer": "2025-05-01 22:20:27 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-05-01 22:13:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-05-01 22:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-01 22:13:33 +0000"
+    },
+    "done": true
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:10:27 +0000"
+      "log_spam_fixer": "2025-05-01 22:20:27 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:18:22 +0000"
+    },
+    "done": true
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:10:27 +0000"
+      "requirement": "2025-05-01 22:20:39 +0000",
+      "log_spam_fixer": "2025-05-01 22:20:27 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-05-01 22:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-05-01 22:14:08 +0000"
+    },
+    "done": true
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:10:27 +0000"
+      "log_spam_fixer": "2025-05-01 22:20:27 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-01 22:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-01 22:14:10 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:10:27 +0000"
+      "log_spam_fixer": "2025-05-01 22:20:27 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-05-01 22:17:56 +0000"
+    },
+    "done": true
   },
   "stellarity:story/obtain_an_ender_pearl": {
     "criteria": {
       "criteria": "2025-05-01 22:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-01 22:14:10 +0000"
     },
     "done": true
   },
@@ -655,15 +747,27 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:10:27 +0000"
+      "log_spam_fixer": "2025-05-01 22:20:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:10:27 +0000"
+      "log_spam_fixer": "2025-05-01 22:20:27 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-01 22:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-01 22:14:10 +0000"
+    },
+    "done": true
   },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
@@ -671,9 +775,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-01 22:14:10 +0000"
+    },
+    "done": true
+  },
+  "stellarity:exploration/discover_all_biomes": {
+    "criteria": {
+      "end_midlands": "2025-05-01 22:19:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:18:22 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:10:27 +0000"
+      "log_spam_fixer": "2025-05-01 22:20:27 +0000"
     },
     "done": false
   },
@@ -683,11 +805,53 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_the_recipe": "2025-05-01 22:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-01 22:13:33 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:ash_barrens": "2025-05-01 22:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-05-01 22:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:18:22 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:10:27 +0000"
+      "log_spam_fixer": "2025-05-01 22:20:27 +0000"
     },
     "done": false
+  },
+  "stellarity:adventure/anger_enderman": {
+    "criteria": {
+      "anger_enderman": "2025-05-01 22:20:45 +0000"
+    },
+    "done": true
   },
   "incendium:technical/using/trailblazer": {
     "criteria": {
@@ -701,15 +865,33 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-05-01 22:20:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-05-01 22:14:08 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:10:27 +0000"
+      "log_spam_fixer": "2025-05-01 22:20:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:10:27 +0000"
+      "log_spam_fixer": "2025-05-01 22:20:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:ash_barrens": "2025-05-01 22:13:34 +0000"
     },
     "done": false
   },
@@ -718,6 +900,30 @@
       "log_spam_fixer": "2025-05-01 22:01:15 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:18:22 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-05-01 22:13:34 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/first_time_in_end": {
+    "criteria": {
+      "requirement": "2025-05-01 22:20:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-05-01 22:20:04 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3953
 }

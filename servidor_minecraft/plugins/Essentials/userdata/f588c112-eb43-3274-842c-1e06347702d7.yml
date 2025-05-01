@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1746137550221
+  logout: 1746137734971
   login: 1746137552811
 money: '0'
 last-account-name: iCsar
 logoutlocation:
   world: f2780a57-ca08-479d-b657-a5f87ed065c8
   world-name: world
-  x: 15.5
-  y: 5.957158789586352
-  z: -28.51363980486482
-  yaw: -79.8833999633789
-  pitch: 43.295101165771484
+  x: -7.122696534363694
+  y: 9.36765254983391
+  z: -22.169319627630077
+  yaw: -15.1275634765625
+  pitch: 35.85374450683594
 lastlocation:
   world: f62ca8cd-c950-4a1f-8b8e-5ea25ad7330e
   world-name: world_the_end
