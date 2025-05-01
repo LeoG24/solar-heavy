@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1745977978061
+  logout: 1746136577670
   login: 1746136115447
 money: '0'
 last-account-name: .Jethexis
@@ -26,5 +26,5 @@ logoutlocation:
   x: -0.5
   y: 4.0
   z: -43.5
-  yaw: -1.52587890625E-5
+  yaw: -0.0055084228515625
   pitch: 0.0

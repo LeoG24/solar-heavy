@@ -326,3 +326,406 @@ spawn SunnyyIsHere_<--[HERE]
 [21:54:03] [Async Chat Thread - #2/INFO]: [Not Secure] <.Jethexis> psea ya puso el keepinventory
 [21:54:03] [Server thread/INFO]: .SumaMT was slain by Enderman
 [21:54:12] [Server thread/INFO]: .SumaMT issued server command: /back
+[21:55:09] [Async Chat Thread - #3/INFO]: [Not Secure] <SunnyyIsHere_> m
+[21:55:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SunnyyIsHere_<--[HERE]
+[21:55:10] [Server thread/INFO]: [RedProtect] Player SunnyyIsHere_ damaged by VOID - Running command:
+ - Command: spawn SunnyyIsHere_
+[21:55:10] [Server thread/INFO]: SunnyyIsHere_ fell out of the world
+[21:55:20] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Francozkai29
+[21:55:20] [localSession-7-1/INFO]: [Geyser-Spigot] Francozkai29 (logged in as: Francozkai29) has connected to the Java server
+[21:55:20] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Francozkai29 joined (UUID: 00000000-0000-0000-0009-01f317861bb8)
+[21:55:20] [Server thread/INFO]: .Francozkai29 joined the game
+[21:55:20] [Server thread/INFO]: .Francozkai29[/127.0.0.1:0] logged in with entity id 1295 at ([world]-1.0, 4.0, -44.0)
+[21:56:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Jethexis<--[HERE]
+[21:56:04] [Server thread/INFO]: [RedProtect] Player .Jethexis damaged by VOID - Running command:
+ - Command: spawn .Jethexis
+[21:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Jethexis<--[HERE]
+[21:56:05] [Server thread/INFO]: [RedProtect] Player .Jethexis damaged by VOID - Running command:
+ - Command: spawn .Jethexis
+[21:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Jethexis<--[HERE]
+[21:56:05] [Server thread/INFO]: [RedProtect] Player .Jethexis damaged by VOID - Running command:
+ - Command: spawn .Jethexis
+[21:56:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Jethexis<--[HERE]
+[21:56:06] [Server thread/INFO]: [RedProtect] Player .Jethexis damaged by VOID - Running command:
+ - Command: spawn .Jethexis
+[21:56:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Jethexis<--[HERE]
+[21:56:06] [Server thread/INFO]: [RedProtect] Player .Jethexis damaged by VOID - Running command:
+ - Command: spawn .Jethexis
+[21:56:06] [Server thread/INFO]: .Jethexis fell out of the world
+[21:56:15] [Async Chat Thread - #5/INFO]: [Not Secure] <.Jethexis> vuelvo mas tarde
+[21:56:17] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Jethexis has disconnected from the Java server because of Bedrock client disconnected
+[21:56:17] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Jethexis disconnected
+[21:56:17] [Server thread/INFO]: .Jethexis lost connection: Disconnected
+[21:56:17] [Server thread/INFO]: .Jethexis left the game
+[21:56:17] [Server thread/WARN]: .Francozkai29 moved too quickly! 4.6931775,13.0,46.7804263
+[21:56:17] [Server thread/WARN]: .Francozkai29 moved too quickly! 4.6931775,13.0,46.7804263
+[21:56:17] [Server thread/WARN]: .Francozkai29 moved too quickly! 4.6931775,13.0,46.7804263
+[21:56:17] [Server thread/WARN]: .Francozkai29 moved too quickly! 4.6931775,13.0,46.7804263
+[21:56:20] [Async Chat Thread - #5/INFO]: [Not Secure] <.Francozkai29> NOOOOOOO
+[21:56:26] [Async Chat Thread - #5/INFO]: [Not Secure] <.Francozkai29> SE MURIÓ EN EL END??? XDD
+[21:56:35] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Eduardo12zt disconnected
+[21:56:35] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Eduardo12zt has disconnected from the Java server because of Bedrock client disconnected
+[21:56:35] [Server thread/INFO]: .Eduardo12zt lost connection: Disconnected
+[21:56:35] [Server thread/INFO]: .Eduardo12zt left the game
+[21:56:47] [Async Chat Thread - #5/INFO]: [Not Secure] <.Francozkai29> ola
+[21:56:49] [Async Chat Thread - #5/INFO]: [Not Secure] <SunnyyIsHere_> hi
+[21:56:50] [Async Chat Thread - #5/INFO]: [Not Secure] <.Francozkai29> hacemos trueque?
+[21:56:50] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username SirAlexisz
+[21:56:50] [localSession-7-2/INFO]: [Geyser-Spigot] SirAlexisz (logged in as: SirAlexisz) has connected to the Java server
+[21:56:50] [Server thread/INFO]: [floodgate] Floodgate player logged in as .SirAlexisz joined (UUID: 00000000-0000-0000-0009-01fc351c98fd)
+[21:56:50] [Server thread/INFO]: .SirAlexisz joined the game
+[21:56:50] [Server thread/INFO]: .SirAlexisz[/127.0.0.1:0] logged in with entity id 1472 at ([world]-0.5, 4.0, -43.5)
+[21:56:52] [Async Chat Thread - #5/INFO]: [Not Secure] <.Francozkai29> tenes algo de diamante?
+[21:56:54] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .SirAlexisz disconnected
+[21:56:54] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] SirAlexisz has disconnected from the Java server because of Bedrock client disconnected
+[21:56:54] [Server thread/INFO]: .SirAlexisz lost connection: Disconnected
+[21:56:54] [Server thread/INFO]: .SirAlexisz left the game
+[21:56:55] [User Authenticator #2/INFO]: UUID of player iCsar is f588c112-eb43-3274-842c-1e06347702d7
+[21:56:56] [Async Chat Thread - #5/INFO]: [Not Secure] <SunnyyIsHere_> solo 2
+[21:56:57] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Monoty2944<--[HERE]
+[21:56:57] [Server thread/INFO]: [RedProtect] Player .Monoty2944 damaged by VOID - Running command:
+ - Command: spawn .Monoty2944
+[21:56:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Monoty2944<--[HERE]
+[21:56:58] [Server thread/INFO]: [RedProtect] Player .Monoty2944 damaged by VOID - Running command:
+ - Command: spawn .Monoty2944
+[21:56:58] [Server thread/INFO]: iCsar joined the game
+[21:56:58] [Server thread/INFO]: iCsar[/127.206.2.155:41195] logged in with entity id 1474 at ([world]-1.0, 4.0, -44.0)
+[21:56:58] [Async Chat Thread - #6/INFO]: [Not Secure] <SunnyyIsHere_> te sirve?
+[21:56:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Monoty2944<--[HERE]
+[21:56:59] [Server thread/INFO]: [RedProtect] Player .Monoty2944 damaged by VOID - Running command:
+ - Command: spawn .Monoty2944
+[21:56:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Monoty2944<--[HERE]
+[21:56:59] [Server thread/INFO]: [RedProtect] Player .Monoty2944 damaged by VOID - Running command:
+ - Command: spawn .Monoty2944
+[21:56:59] [Server thread/INFO]: .Monoty2944 fell out of the world
+[21:57:01] [Async Chat Thread - #6/INFO]: [Not Secure] <.Francozkai29> messirve
+[21:57:05] [Async Chat Thread - #6/INFO]: [Not Secure] <.Francozkai29> que quieres a cambio?
+[21:57:05] [User Authenticator #2/INFO]: UUID of player joel_pro is 81c7b1d6-9201-396c-9664-227342306ead
+[21:57:08] [Server thread/INFO]: joel_pro joined the game
+[21:57:08] [Server thread/INFO]: joel_pro[/127.178.96.228:32821] logged in with entity id 1491 at ([world]-1.0, 4.0, -44.0)
+[21:57:08] [Async Chat Thread - #6/INFO]: [Not Secure] <.Francozkai29> o gracias owo
+[21:57:08] [Async Chat Thread - #6/INFO]: [Not Secure] <SunnyyIsHere_> comida
+[21:57:12] [Async Chat Thread - #6/INFO]: [Not Secure] <iCsar> aver chicos
+[21:57:17] [Async Chat Thread - #6/INFO]: [Not Secure] <.Francozkai29> toy cocinando mas
+[21:57:18] [Async Chat Thread - #6/INFO]: [Not Secure] <SunnyyIsHere_> ya gracias
+[21:57:22] [Async Chat Thread - #6/INFO]: [Not Secure] <iCsar> alv
+[21:57:24] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username SirAlexisz
+[21:57:24] [localSession-7-3/INFO]: [Geyser-Spigot] SirAlexisz (logged in as: SirAlexisz) has connected to the Java server
+[21:57:24] [Server thread/INFO]: [floodgate] Floodgate player logged in as .SirAlexisz joined (UUID: 00000000-0000-0000-0009-01fc351c98fd)
+[21:57:24] [Server thread/INFO]: .SirAlexisz joined the game
+[21:57:24] [Server thread/INFO]: .SirAlexisz[/127.0.0.1:0] logged in with entity id 1537 at ([world]-0.5, 4.0, -43.5)
+[21:57:26] [Async Chat Thread - #6/INFO]: [Not Secure] <iCsar> están súper avanzados
+[21:57:36] [Async Chat Thread - #6/INFO]: [Not Secure] <.Francozkai29> ojala
+[21:57:36] [Async Chat Thread - #6/INFO]: [Not Secure] <iCsar> quienes están en el end?
+[21:57:39] [Async Chat Thread - #6/INFO]: [Not Secure] <.Francozkai29> a mi me faltan diamantes
+[21:57:41] [Async Chat Thread - #6/INFO]: [Not Secure] <joel_pro> hola chicos
+[21:57:47] [Async Chat Thread - #6/INFO]: [Not Secure] <SunnyyIsHere_> cesar yo no tengo nada
+[21:57:51] [Async Chat Thread - #6/INFO]: [Not Secure] <joel_pro> perdon por la demora
+[21:57:52] [Async Chat Thread - #6/INFO]: [Not Secure] <SunnyyIsHere_> que avanzados dices
+[21:57:54] [Server thread/WARN]: .SirAlexisz moved wrongly!
+[21:57:54] [Server thread/WARN]: .SirAlexisz moved wrongly!
+[21:57:55] [Server thread/WARN]: .SirAlexisz moved wrongly!
+[21:58:03] [Async Chat Thread - #6/INFO]: [Not Secure] <.Francozkai29> sunnyy sabes lo que te falta a ti?
+[21:58:11] [Async Chat Thread - #6/INFO]: [Not Secure] <.Monoty2944> hei cesar
+[21:58:12] [Async Chat Thread - #6/INFO]: [Not Secure] <SunnyyIsHere_> el smp
+[21:58:16] [Async Chat Thread - #6/INFO]: [Not Secure] <.Monoty2944> im not monica
+[21:58:16] [Async Chat Thread - #6/INFO]: [Not Secure] <iCsar> hi
+[21:58:18] [Async Chat Thread - #6/INFO]: [Not Secure] <.Francozkai29> tambien, pero sabes que mas?
+[21:58:24] [Server thread/INFO]: iCsar issued server command: /tp SunnyyIsHere_
+[21:58:25] [Async Chat Thread - #6/INFO]: [Not Secure] <SunnyyIsHere_> jugar survival de verdad
+[21:58:25] [Async Chat Thread - #6/INFO]: [Not Secure] <.Francozkai29> un herobrine respawneando en tu cara
+[21:58:26] [Async Chat Thread - #6/INFO]: [Not Secure] <joel_pro> me dio update en tlauncher
+[21:58:29] [Async Chat Thread - #6/INFO]: [Not Secure] <.Francozkai29> ahi lo tendras todo de verdad
+[21:58:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .SirAlexisz<--[HERE]
+[21:58:32] [Server thread/INFO]: [RedProtect] Player .SirAlexisz damaged by VOID - Running command:
+ - Command: spawn .SirAlexisz
+[21:58:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .SirAlexisz<--[HERE]
+[21:58:33] [Server thread/INFO]: [RedProtect] Player .SirAlexisz damaged by VOID - Running command:
+ - Command: spawn .SirAlexisz
+[21:58:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .SirAlexisz<--[HERE]
+[21:58:33] [Server thread/INFO]: [RedProtect] Player .SirAlexisz damaged by VOID - Running command:
+ - Command: spawn .SirAlexisz
+[21:58:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .SirAlexisz<--[HERE]
+[21:58:34] [Server thread/INFO]: [RedProtect] Player .SirAlexisz damaged by VOID - Running command:
+ - Command: spawn .SirAlexisz
+[21:58:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .SirAlexisz<--[HERE]
+[21:58:34] [Server thread/INFO]: [RedProtect] Player .SirAlexisz damaged by VOID - Running command:
+ - Command: spawn .SirAlexisz
+[21:58:34] [Server thread/INFO]: .SirAlexisz fell out of the world
+[21:58:50] [Server thread/INFO]: Sign Spy - Location: x: -19, y: 4, z: -17, world: world
+[21:58:50] [Server thread/INFO]: Player: SunnyyIsHere_
+[21:58:50] [Server thread/INFO]: Lines - 1: pene - 2: 
+[21:58:50] [Server thread/INFO]: Lines - 3:  - 4: 
+[21:58:53] [Server thread/INFO]: iCsar has reached the goal [Sky's the Limit]
+[21:58:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Monoty2944<--[HERE]
+[21:58:59] [Server thread/INFO]: [RedProtect] Player .Monoty2944 damaged by VOID - Running command:
+ - Command: spawn .Monoty2944
+[21:59:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Monoty2944<--[HERE]
+[21:59:00] [Server thread/INFO]: [RedProtect] Player .Monoty2944 damaged by VOID - Running command:
+ - Command: spawn .Monoty2944
+[21:59:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Monoty2944<--[HERE]
+[21:59:00] [Server thread/INFO]: [RedProtect] Player .Monoty2944 damaged by VOID - Running command:
+ - Command: spawn .Monoty2944
+[21:59:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Monoty2944<--[HERE]
+[21:59:01] [Server thread/INFO]: [RedProtect] Player .Monoty2944 damaged by VOID - Running command:
+ - Command: spawn .Monoty2944
+[21:59:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Monoty2944<--[HERE]
+[21:59:01] [Server thread/INFO]: [RedProtect] Player .Monoty2944 damaged by VOID - Running command:
+ - Command: spawn .Monoty2944
+[21:59:01] [Server thread/INFO]: .Monoty2944 fell out of the world
+[21:59:08] [Server thread/INFO]: iCsar lost connection: Disconnected
+[21:59:08] [Server thread/INFO]: iCsar left the game
+[21:59:13] [User Authenticator #3/INFO]: UUID of player iCsar is f588c112-eb43-3274-842c-1e06347702d7
+[21:59:14] [Server thread/INFO]: iCsar joined the game
+[21:59:14] [Server thread/INFO]: iCsar[/127.206.2.155:47575] logged in with entity id 1971 at ([world]-1.0, 4.0, -44.0)
+[21:59:14] [Server thread/WARN]: [LoginSecurity] Player was logged in prematurely while still saving location
+[21:59:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .SirAlexisz<--[HERE]
+[21:59:38] [Server thread/INFO]: [RedProtect] Player .SirAlexisz damaged by VOID - Running command:
+ - Command: spawn .SirAlexisz
+[21:59:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .SirAlexisz<--[HERE]
+[21:59:39] [Server thread/INFO]: [RedProtect] Player .SirAlexisz damaged by VOID - Running command:
+ - Command: spawn .SirAlexisz
+[21:59:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .SirAlexisz<--[HERE]
+[21:59:39] [Server thread/INFO]: [RedProtect] Player .SirAlexisz damaged by VOID - Running command:
+ - Command: spawn .SirAlexisz
+[21:59:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .SirAlexisz<--[HERE]
+[21:59:40] [Server thread/INFO]: [RedProtect] Player .SirAlexisz damaged by VOID - Running command:
+ - Command: spawn .SirAlexisz
+[21:59:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .SirAlexisz<--[HERE]
+[21:59:40] [Server thread/INFO]: [RedProtect] Player .SirAlexisz damaged by VOID - Running command:
+ - Command: spawn .SirAlexisz
+[21:59:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .SirAlexisz<--[HERE]
+[21:59:41] [Server thread/INFO]: [RedProtect] Player .SirAlexisz damaged by VOID - Running command:
+ - Command: spawn .SirAlexisz
+[21:59:41] [Server thread/INFO]: .SirAlexisz fell out of the world
+[21:59:47] [Server thread/INFO]: iCsar has made the advancement [The End?]
+[21:59:52] [Server thread/INFO]: Sign Spy - Location: x: 10, y: 5, z: -39, world: world
+[21:59:52] [Server thread/INFO]: Player: .Monoty2944
+[21:59:52] [Server thread/INFO]: Lines - 1: dear Cesar - 2: I realized that
+[21:59:52] [Server thread/INFO]: Lines - 3: Monica skin suck - 4: -monoty
+[22:00:00] [Server thread/INFO]: Sign Spy - Location: x: 1, y: 18, z: -2, world: world
+[22:00:00] [Server thread/INFO]: Player: .Francozkai29
+[22:00:00] [Server thread/INFO]: Lines - 1: ¡GRATIFERIA! - 2: Deja tus cosas
+[22:00:00] [Server thread/INFO]: Lines - 3: mas inutiles aca - 4: 
+[22:00:04] [Server thread/INFO]: iCsar issued server command: /gamerule keepInventory true
+[22:00:09] [Async Chat Thread - #7/INFO]: [Not Secure] <iCsar> LISTO YA HAY KEEP EN EL END
+[22:00:10] [Server thread/INFO]: Sign Spy - Location: x: 1, y: 19, z: -2, world: world
+[22:00:10] [Server thread/INFO]: Player: .Francozkai29
+[22:00:10] [Server thread/INFO]: Lines - 1: Y AGARRA LAS - 2: QUE TE SIRVAN!
+[22:00:10] [Server thread/INFO]: Lines - 3: :D - 4: 
+[22:00:18] [Async Chat Thread - #7/INFO]: [Not Secure] <.Francozkai29> LETS GOOO
+[22:00:29] [Async Chat Thread - #8/INFO]: [Not Secure] <iCsar> already there is keep i'm the end
+[22:00:32] [Server thread/WARN]: .Francozkai29 moved wrongly!
+[22:00:33] [Async Chat Thread - #7/INFO]: [Not Secure] <iCsar> i'm
+[22:00:36] [Async Chat Thread - #7/INFO]: [Not Secure] <joel_pro> no tengo armadura y espada de diamantes
+[22:00:37] [Async Chat Thread - #7/INFO]: [Not Secure] <iCsar> i'm*
+[22:00:40] [Async Chat Thread - #7/INFO]: [Not Secure] <iCsar> Jwjhsjsjw
+[22:00:42] [Async Chat Thread - #7/INFO]: [Not Secure] <iCsar> in*
+[22:00:47] [Server thread/INFO]: iCsar issued server command: /tp .Monoty2944
+[22:00:50] [Server thread/INFO]: joel_pro has made the advancement [Acquire Hardware]
+[22:00:55] [Async Chat Thread - #7/INFO]: [Not Secure] <iCsar> hey
+[22:01:00] [Async Chat Thread - #7/INFO]: [Not Secure] <.Francozkai29> Tienes piedra Joel?
+[22:01:03] [Async Chat Thread - #7/INFO]: [Not Secure] <SunnyyIsHere_> que follan aqui
+[22:01:04] [Async Chat Thread - #7/INFO]: [Not Secure] <.Monoty2944> hei
+[22:01:06] [Async Chat Thread - #7/INFO]: [Not Secure] <SunnyyIsHere_> vayanse a otro lado
+[22:01:10] [Async Chat Thread - #7/INFO]: [Not Secure] <joel_pro> ay no tnego
+[22:01:12] [User Authenticator #4/INFO]: UUID of player EduardoKeith is 614014a7-d664-3694-ac6e-e88d6a358a90
+[22:01:15] [Server thread/INFO]: EduardoKeith joined the game
+[22:01:15] [Server thread/INFO]: EduardoKeith has reached the goal [Eye of Darkness]
+[22:01:15] [Server thread/INFO]: EduardoKeith[/127.130.30.118:35283] logged in with entity id 2920 at ([world]-1.0, 4.0, -44.0)
+[22:01:15] [Server thread/INFO]: .Monoty2944 has made the advancement [Suit Up]
+[22:01:17] [Server thread/INFO]: .Monoty2944 has made the advancement [Cover Me with Diamonds]
+[22:01:18] [Async Chat Thread - #7/INFO]: [Not Secure] <.Francozkai29> Busca piedra y te la tradeamos por hierro asi te haces cosas
+[22:01:20] [Async Chat Thread - #7/INFO]: [Not Secure] <.Francozkai29> yo te echo una mano
+[22:01:22] [Async Chat Thread - #7/INFO]: [Not Secure] <SunnyyIsHere_> ese favoritismo
+[22:01:23] [Async Chat Thread - #7/INFO]: [Not Secure] <.Monoty2944> :o
+[22:01:27] [Async Chat Thread - #7/INFO]: [Not Secure] <.Monoty2944> ty
+[22:01:28] [Server thread/INFO]: .Monoty2944 has made the advancement [Isn't It Iron Pick]
+[22:01:28] [Async Chat Thread - #7/INFO]: [Not Secure] <EduardoKeith> hola
+[22:01:28] [Async Chat Thread - #7/INFO]: [Not Secure] <joel_pro> ok donde busco
+[22:01:32] [Async Chat Thread - #7/INFO]: [Not Secure] <.Francozkai29> tipo la picamos y luego hay que cocinarla
+[22:01:34] [Async Chat Thread - #7/INFO]: [Not Secure] <.Francozkai29> sigueme
+[22:01:39] [Async Chat Thread - #8/INFO]: [Not Secure] <joel_pro> ok
+[22:01:44] [Server thread/INFO]: joel_pro has made the advancement [Getting an Upgrade]
+[22:01:47] [Server thread/INFO]: .Monoty2944 has made the advancement [Acquire Hardware]
+[22:01:53] [Async Chat Thread - #8/INFO]: [Not Secure] <iCsar> a
+[22:01:54] [Async Chat Thread - #7/INFO]: [Not Secure] <SunnyyIsHere_> buuuu
+[22:01:58] [Async Chat Thread - #7/INFO]: [Not Secure] <iCsar> que haces viendo
+[22:02:03] [Async Chat Thread - #7/INFO]: [Not Secure] <iCsar> shh
+[22:02:04] [Async Chat Thread - #7/INFO]: [Not Secure] <SunnyyIsHere_> estoy aca desde hace rato
+[22:02:22] [Async Chat Thread - #7/INFO]: [Not Secure] <iCsar> sshh
+[22:02:31] [Async Chat Thread - #7/INFO]: [Not Secure] <SunnyyIsHere_> es muy poco por mi silencio
+[22:02:39] [Server thread/INFO]: Sign Spy - Location: x: -20, y: 4, z: -18, world: world
+[22:02:39] [Server thread/INFO]: Player: iCsar
+[22:02:39] [Server thread/INFO]: Lines - 1: ssshhh sunny - 2: 
+[22:02:39] [Server thread/INFO]: Lines - 3:  - 4: 
+[22:02:44] [Async Chat Thread - #7/INFO]: [Not Secure] <.Francozkai29> aca hay
+[22:02:47] [Async Chat Thread - #7/INFO]: [Not Secure] <.Francozkai29> hay que picar esto
+[22:02:49] [Server thread/INFO]: SunnyyIsHere_ has made the advancement [Hidden in the Depths]
+[22:02:56] [Async Chat Thread - #7/INFO]: [Not Secure] <iCsar> sshhh
+[22:03:00] [Async Chat Thread - #7/INFO]: [Not Secure] <SunnyyIsHere_> ok
+[22:03:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .SirAlexisz<--[HERE]
+[22:03:05] [Server thread/INFO]: [RedProtect] Player .SirAlexisz damaged by VOID - Running command:
+ - Command: spawn .SirAlexisz
+[22:03:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .SirAlexisz<--[HERE]
+[22:03:06] [Server thread/INFO]: [RedProtect] Player .SirAlexisz damaged by VOID - Running command:
+ - Command: spawn .SirAlexisz
+[22:03:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .SirAlexisz<--[HERE]
+[22:03:06] [Server thread/INFO]: [RedProtect] Player .SirAlexisz damaged by VOID - Running command:
+ - Command: spawn .SirAlexisz
+[22:03:06] [Server thread/INFO]: .SirAlexisz fell out of the world
+[22:03:09] [Async Chat Thread - #7/INFO]: [Not Secure] <EduardoKeith> oye qur
+[22:03:10] [Server thread/INFO]: SunnyyIsHere_ was slain by iCsar
+[22:03:14] [Async Chat Thread - #7/INFO]: [Not Secure] <SunnyyIsHere_> when
+[22:03:30] [Async Chat Thread - #7/INFO]: [Not Secure] <iCsar> en la noche spawneamos a herobrine
+[22:03:31] [Server thread/INFO]: EduardoKeith was slain by SunnyyIsHere_
+[22:03:38] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] SirAlexisz has disconnected from the Java server because of Bedrock client disconnected
+[22:03:38] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .SirAlexisz disconnected
+[22:03:38] [Server thread/INFO]: .SirAlexisz lost connection: Disconnected
+[22:03:38] [Server thread/INFO]: .SirAlexisz left the game
+[22:03:40] [Async Chat Thread - #7/INFO]: [Not Secure] <iCsar> the final battle
+[22:03:41] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Stivepro7776016
+[22:03:41] [localSession-7-4/INFO]: [Geyser-Spigot] Stivepro7776016 (logged in as: Stivepro7776016) has connected to the Java server
+[22:03:42] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Stivepro7776016 joined (UUID: 00000000-0000-0000-0009-01ff295e87a3)
+[22:03:42] [Server thread/INFO]: .Stivepro7776016 joined the game
+[22:03:42] [Server thread/INFO]: .Stivepro7776016[/127.0.0.1:0] logged in with entity id 3334 at ([world]-0.5, 4.0, -43.5)
+[22:03:53] [Server thread/WARN]: .Francozkai29 moved wrongly!
+[22:03:54] [Async Chat Thread - #7/INFO]: [Not Secure] <joel_pro> franco
+[22:03:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn EduardoKeith<--[HERE]
+[22:03:59] [Server thread/INFO]: [RedProtect] Player EduardoKeith damaged by VOID - Running command:
+ - Command: spawn EduardoKeith
+[22:03:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn EduardoKeith<--[HERE]
+[22:03:59] [Server thread/INFO]: [RedProtect] Player EduardoKeith damaged by VOID - Running command:
+ - Command: spawn EduardoKeith
+[22:04:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SunnyyIsHere_<--[HERE]
+[22:04:00] [Server thread/INFO]: [RedProtect] Player SunnyyIsHere_ damaged by VOID - Running command:
+ - Command: spawn SunnyyIsHere_
+[22:04:00] [Server thread/INFO]: SunnyyIsHere_ fell out of the world
+[22:04:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn EduardoKeith<--[HERE]
+[22:04:00] [Server thread/INFO]: [RedProtect] Player EduardoKeith damaged by VOID - Running command:
+ - Command: spawn EduardoKeith
+[22:04:00] [Server thread/INFO]: EduardoKeith fell out of the world
+[22:04:04] [Async Chat Thread - #7/INFO]: [Not Secure] <.Francozkai29> voy estoy picando
+[22:04:04] [User Authenticator #5/INFO]: UUID of player uncrid is ae096b60-1fd0-3454-aa6c-de002eef48a4
+[22:04:06] [Server thread/INFO]: uncrid joined the game
+[22:04:06] [Server thread/INFO]: uncrid[/127.104.36.218:47163] logged in with entity id 3406 at ([world]-1.0, 4.0, -44.0)
+[22:04:07] [Async Chat Thread - #7/INFO]: [Not Secure] <.Francozkai29> ya casi consigo tu stack
+[22:04:10] [Async Chat Thread - #7/INFO]: [Not Secure] <iCsar> ese crid
+[22:04:11] [Server thread/INFO]: joel_pro was slain by EduardoKeith
+[22:04:14] [Async Chat Thread - #7/INFO]: [Not Secure] <uncrid> lagtest
+[22:04:15] [Async Chat Thread - #7/INFO]: [Not Secure] <uncrid> AVBASDHJXFGKJDSA
+[22:04:16] [Server thread/INFO]: .Stivepro7776016 issued server command: /regiter isai092012
+[22:04:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn uncrid<--[HERE]
+[22:04:16] [Server thread/INFO]: [RedProtect] Player uncrid damaged by VOID - Running command:
+ - Command: spawn uncrid
+[22:04:17] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn uncrid<--[HERE]
+[22:04:17] [Server thread/INFO]: [RedProtect] Player uncrid damaged by VOID - Running command:
+ - Command: spawn uncrid
+[22:04:17] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn uncrid<--[HERE]
+[22:04:17] [Server thread/INFO]: [RedProtect] Player uncrid damaged by VOID - Running command:
+ - Command: spawn uncrid
+[22:04:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn uncrid<--[HERE]
+[22:04:18] [Server thread/INFO]: [RedProtect] Player uncrid damaged by VOID - Running command:
+ - Command: spawn uncrid
+[22:04:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn uncrid<--[HERE]
+[22:04:18] [Server thread/INFO]: [RedProtect] Player uncrid damaged by VOID - Running command:
+ - Command: spawn uncrid
+[22:04:18] [Server thread/INFO]: uncrid fell out of the world
+[22:04:19] [Async Chat Thread - #7/INFO]: [Not Secure] <SunnyyIsHere_> XDDDD
+[22:04:23] [Async Chat Thread - #7/INFO]: [Not Secure] <iCsar> XD
+[22:04:24] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn joel_pro<--[HERE]
+[22:04:24] [Server thread/INFO]: [RedProtect] Player joel_pro damaged by VOID - Running command:
+ - Command: spawn joel_pro
+[22:04:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn joel_pro<--[HERE]
+[22:04:25] [Server thread/INFO]: [RedProtect] Player joel_pro damaged by VOID - Running command:
+ - Command: spawn joel_pro
+[22:04:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn joel_pro<--[HERE]
+[22:04:25] [Server thread/INFO]: [RedProtect] Player joel_pro damaged by VOID - Running command:
+ - Command: spawn joel_pro
+[22:04:25] [Async Chat Thread - #7/INFO]: [Not Secure] <uncrid> por que me caí
+[22:04:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn joel_pro<--[HERE]
+[22:04:26] [Server thread/INFO]: [RedProtect] Player joel_pro damaged by VOID - Running command:
+ - Command: spawn joel_pro
+[22:04:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Monoty2944<--[HERE]
+[22:04:26] [Server thread/INFO]: [RedProtect] Player .Monoty2944 damaged by VOID - Running command:
+ - Command: spawn .Monoty2944
+[22:04:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn joel_pro<--[HERE]
+[22:04:26] [Server thread/INFO]: [RedProtect] Player joel_pro damaged by VOID - Running command:
+ - Command: spawn joel_pro
+[22:04:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Monoty2944<--[HERE]
+[22:04:26] [Server thread/INFO]: [RedProtect] Player .Monoty2944 damaged by VOID - Running command:
+ - Command: spawn .Monoty2944
+[22:04:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn joel_pro<--[HERE]
+[22:04:27] [Server thread/INFO]: [RedProtect] Player joel_pro damaged by VOID - Running command:
+ - Command: spawn joel_pro
+[22:04:27] [Server thread/INFO]: joel_pro fell out of the world
+[22:04:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Monoty2944<--[HERE]
+[22:04:27] [Server thread/INFO]: [RedProtect] Player .Monoty2944 damaged by VOID - Running command:
+ - Command: spawn .Monoty2944
+[22:04:27] [Async Chat Thread - #7/INFO]: [Not Secure] <iCsar> ven crid
+[22:04:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Monoty2944<--[HERE]
+[22:04:27] [Server thread/INFO]: [RedProtect] Player .Monoty2944 damaged by VOID - Running command:
+ - Command: spawn .Monoty2944
+[22:04:28] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Monoty2944<--[HERE]
+[22:04:28] [Server thread/INFO]: [RedProtect] Player .Monoty2944 damaged by VOID - Running command:
+ - Command: spawn .Monoty2944
+[22:04:28] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn .Monoty2944<--[HERE]
+[22:04:28] [Server thread/INFO]: [RedProtect] Player .Monoty2944 damaged by VOID - Running command:
+ - Command: spawn .Monoty2944
+[22:04:28] [Server thread/INFO]: .Monoty2944 fell out of the world
+[22:04:30] [Async Chat Thread - #7/INFO]: [Not Secure] <EduardoKeith> bro respeta
+[22:04:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn EduardoKeith<--[HERE]
+[22:04:39] [Server thread/INFO]: [RedProtect] Player EduardoKeith damaged by VOID - Running command:
+ - Command: spawn EduardoKeith
+[22:04:39] [Server thread/INFO]: EduardoKeith fell out of the world
