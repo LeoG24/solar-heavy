@@ -28,3 +28,11 @@ logoutlocation:
   z: -43.5
   yaw: 0.0
   pitch: 0.0
+lastlocation:
+  world: 08d32007-7a87-4108-8cda-6ebc960fc9f0
+  world-name: world_nether
+  x: -54.71229338734596
+  y: 34.0
+  z: 45.207968467214606
+  yaw: 90.50244140625
+  pitch: 21.249956130981445

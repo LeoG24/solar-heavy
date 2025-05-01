@@ -16,15 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1745981950165
+  logout: 1746137434625
   login: 1746136310734
 money: '0'
 last-account-name: .SumaMT
 logoutlocation:
+  world: f2780a57-ca08-479d-b657-a5f87ed065c8
+  world-name: world
+  x: -0.7423084
+  y: 3.9375
+  z: -42.489353
+  yaw: -5.5521087646484375
+  pitch: 35.66722106933594
+lastlocation:
   world: f62ca8cd-c950-4a1f-8b8e-5ea25ad7330e
   world-name: world_the_end
-  x: -13.860846
-  y: 96.0
-  z: -58.737564
-  yaw: 15.736602783203125
-  pitch: 23.8763427734375
+  x: 102.69999
+  y: 49.0
+  z: -1.6999900000000001
+  yaw: 42.989593505859375
+  pitch: 44.69557189941406

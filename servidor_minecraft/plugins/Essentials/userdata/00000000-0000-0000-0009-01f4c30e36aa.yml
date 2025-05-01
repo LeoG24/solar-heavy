@@ -17,7 +17,7 @@ timestamps:
   jail: 0
   onlinejail: 0
   logout: 1745969749660
-  login: 1745968789458
+  login: 1746137465978
 money: '0'
 last-account-name: .Zoula_zupto
 logoutlocation:
@@ -28,3 +28,11 @@ logoutlocation:
   z: -43.5
   yaw: -0.0055084228515625
   pitch: 0.0
+lastlocation:
+  world: f2780a57-ca08-479d-b657-a5f87ed065c8
+  world-name: world
+  x: 4.330163
+  y: 4.5
+  z: -32.536537
+  yaw: 28.191207885742188
+  pitch: 16.83050537109375

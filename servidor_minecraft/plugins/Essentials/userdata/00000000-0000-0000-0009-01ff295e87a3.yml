@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1746137274472
   login: 1746137022324
 money: '0'
 last-account-name: .Stivepro7776016
+logoutlocation:
+  world: f2780a57-ca08-479d-b657-a5f87ed065c8
+  world-name: world
+  x: -14.797646
+  y: 4.0
+  z: -37.103947
+  yaw: -87.03250885009766
+  pitch: 15.326492309570312
