@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1745974808210
-  login: 1745971696659
+  logout: 1746136321172
+  login: 1746136353519
 money: '0'
 last-account-name: .Eduardo12zt
 logoutlocation:
   world: f2780a57-ca08-479d-b657-a5f87ed065c8
   world-name: world
-  x: 57.21969
-  y: 2.0
-  z: -39.787994
-  yaw: -0.8794097900390625
-  pitch: 23.232101440429688
+  x: -1.0
+  y: 4.0
+  z: -44.0
+  yaw: -22.022109985351562
+  pitch: 10.54705810546875
