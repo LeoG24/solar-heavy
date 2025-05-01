@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1746136431426
+  logout: 1746138847074
   login: 1746136520936
 money: '0'
 last-account-name: .Francozkai29
 logoutlocation:
   world: f2780a57-ca08-479d-b657-a5f87ed065c8
   world-name: world
-  x: 3.6931775
-  y: 17.0
-  z: 2.7804263
-  yaw: -12.5723876953125
-  pitch: 26.090164184570312
+  x: -7.69999
+  y: 10.0
+  z: -71.90345
+  yaw: 93.973388671875
+  pitch: 14.473892211914062
 lastlocation:
   world: f2780a57-ca08-479d-b657-a5f87ed065c8
   world-name: world

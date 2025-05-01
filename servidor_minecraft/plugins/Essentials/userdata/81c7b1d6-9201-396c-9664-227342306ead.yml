@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1745971508262
+  logout: 1746138878572
   login: 1746136628221
 money: '0'
 last-account-name: joel_pro
 logoutlocation:
   world: f2780a57-ca08-479d-b657-a5f87ed065c8
   world-name: world
-  x: 3.7946333252243005
-  y: 18.0
-  z: -24.30000001192093
-  yaw: -0.5999994277954102
-  pitch: 13.499999046325684
+  x: -11.44392168841135
+  y: 14.0
+  z: -72.46429425466333
+  yaw: -64.94952392578125
+  pitch: 53.70000457763672
 lastlocation:
   world: f2780a57-ca08-479d-b657-a5f87ed065c8
   world-name: world
