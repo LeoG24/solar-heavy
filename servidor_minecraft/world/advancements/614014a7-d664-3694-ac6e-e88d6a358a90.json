@@ -369,14 +369,17 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-05-01 23:15:58 +0000",
       "minecraft:skeleton": "2025-04-28 01:13:40 +0000",
       "minecraft:piglin": "2025-05-01 23:14:12 +0000",
       "minecraft:zombified_piglin": "2025-05-01 23:11:30 +0000",
       "minecraft:enderman": "2025-04-29 00:35:14 +0000",
       "minecraft:magma_cube": "2025-05-01 23:14:25 +0000",
       "minecraft:spider": "2025-04-29 00:31:10 +0000",
+      "minecraft:wither_skeleton": "2025-05-01 23:16:16 +0000",
       "minecraft:zombie": "2025-04-27 22:51:40 +0000",
       "minecraft:creeper": "2025-04-27 22:54:41 +0000",
+      "minecraft:ghast": "2025-05-01 23:23:19 +0000",
       "minecraft:slime": "2025-04-29 00:35:44 +0000"
     },
     "done": false
@@ -695,6 +698,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:soul_sand_valley": "2025-05-01 23:15:50 +0000",
       "minecraft:basalt_deltas": "2025-05-01 22:13:48 +0000"
     },
     "done": false
@@ -1290,73 +1294,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:14:26 +0000"
+      "log_spam_fixer": "2025-05-01 23:24:27 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:14:26 +0000"
+      "log_spam_fixer": "2025-05-01 23:24:27 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:14:26 +0000"
+      "log_spam_fixer": "2025-05-01 23:24:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:14:26 +0000"
+      "log_spam_fixer": "2025-05-01 23:24:27 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:14:26 +0000"
+      "log_spam_fixer": "2025-05-01 23:24:27 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:14:26 +0000"
+      "log_spam_fixer": "2025-05-01 23:24:27 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:14:26 +0000"
+      "log_spam_fixer": "2025-05-01 23:24:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:14:26 +0000"
+      "log_spam_fixer": "2025-05-01 23:24:27 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:14:26 +0000"
+      "log_spam_fixer": "2025-05-01 23:24:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:14:26 +0000"
+      "log_spam_fixer": "2025-05-01 23:24:27 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:14:26 +0000"
+      "log_spam_fixer": "2025-05-01 23:24:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:14:26 +0000"
+      "log_spam_fixer": "2025-05-01 23:24:27 +0000"
     },
     "done": false
   },
@@ -1402,15 +1406,51 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-01 23:15:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-05-01 23:14:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:15:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-05-01 23:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-01 23:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-05-01 23:16:16 +0000"
     },
     "done": true
   },
@@ -1426,9 +1466,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:15:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2025-05-01 23:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-01 23:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-01 23:17:22 +0000"
     },
     "done": true
   },
@@ -1444,9 +1514,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-01 23:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:15:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-05-01 23:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-01 23:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-01 23:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-01 23:15:59 +0000"
     },
     "done": true
   },

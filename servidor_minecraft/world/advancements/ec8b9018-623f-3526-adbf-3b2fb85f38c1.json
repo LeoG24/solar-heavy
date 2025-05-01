@@ -12,6 +12,7 @@
       "minecraft:snowy_slopes": "2025-04-27 22:32:02 +0000",
       "minecraft:old_growth_pine_taiga": "2025-04-27 22:35:58 +0000",
       "minecraft:mushroom_fields": "2025-05-01 22:59:48 +0000",
+      "minecraft:mangrove_swamp": "2025-05-01 23:22:19 +0000",
       "minecraft:deep_ocean": "2025-04-27 23:11:40 +0000",
       "minecraft:river": "2025-04-28 00:48:06 +0000",
       "minecraft:lush_caves": "2025-04-27 22:15:49 +0000",
@@ -38,7 +39,9 @@
       "minecraft:zombified_piglin": "2025-05-01 22:48:29 +0000",
       "minecraft:enderman": "2025-05-01 22:26:17 +0000",
       "minecraft:magma_cube": "2025-05-01 23:10:44 +0000",
-      "minecraft:zombie": "2025-04-27 22:17:52 +0000"
+      "minecraft:zombie": "2025-04-27 22:17:52 +0000",
+      "minecraft:creeper": "2025-05-01 23:21:55 +0000",
+      "minecraft:slime": "2025-05-01 23:15:22 +0000"
     },
     "done": false
   },
@@ -1442,75 +1445,81 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:13:26 +0000"
+      "log_spam_fixer": "2025-05-01 23:23:27 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:13:26 +0000"
+      "log_spam_fixer": "2025-05-01 23:23:27 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:13:26 +0000"
+      "log_spam_fixer": "2025-05-01 23:23:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:13:26 +0000"
+      "log_spam_fixer": "2025-05-01 23:23:27 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:13:26 +0000"
+      "log_spam_fixer": "2025-05-01 23:23:27 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:13:26 +0000"
+      "log_spam_fixer": "2025-05-01 23:23:27 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:13:26 +0000"
+      "log_spam_fixer": "2025-05-01 23:23:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:13:26 +0000"
+      "log_spam_fixer": "2025-05-01 23:23:27 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:13:26 +0000"
+      "log_spam_fixer": "2025-05-01 23:23:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:13:26 +0000"
+      "log_spam_fixer": "2025-05-01 23:23:27 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:13:26 +0000"
+      "log_spam_fixer": "2025-05-01 23:23:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 23:13:26 +0000"
+      "log_spam_fixer": "2025-05-01 23:23:27 +0000"
     },
     "done": false
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-01 23:18:06 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
@@ -1539,6 +1548,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-05-01 22:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-01 23:14:11 +0000"
     },
     "done": true
   },
