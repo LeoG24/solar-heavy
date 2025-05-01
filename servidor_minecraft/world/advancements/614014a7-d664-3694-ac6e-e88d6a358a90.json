@@ -632,13 +632,13 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:30:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:30:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
     },
     "done": false
   },
@@ -668,7 +668,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:30:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
     },
     "done": false
   },
@@ -692,10 +692,9 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-05-01 22:30:47 +0000",
-      "log_spam_fixer": "2025-05-01 22:30:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
@@ -729,7 +728,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:30:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
     },
     "done": false
   },
@@ -753,7 +752,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:30:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
     },
     "done": false
   },
@@ -783,13 +782,13 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:30:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:30:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
     },
     "done": false
   },
@@ -843,7 +842,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:30:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
     },
     "done": false
   },
@@ -909,7 +908,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:30:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
     },
     "done": false
   },
@@ -922,6 +921,12 @@
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-05-01 22:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-05-01 22:32:13 +0000"
     },
     "done": true
   },
@@ -957,13 +962,13 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:30:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 22:30:26 +0000"
+      "log_spam_fixer": "2025-05-01 22:40:26 +0000"
     },
     "done": false
   },

@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1745882041445
+  logout: 1746139269274
   login: 1746138817216
 money: '0'
 last-account-name: .logherfox
 logoutlocation:
   world: f2780a57-ca08-479d-b657-a5f87ed065c8
   world-name: world
-  x: 104.48999
-  y: -18.0
-  z: 1.770797
-  yaw: -125.12242889404297
-  pitch: 89.89999389648438
+  x: -11.809443
+  y: 11.0
+  z: 106.48406
+  yaw: -107.20553588867188
+  pitch: 19.33270263671875
 lastlocation:
   world: cad49fbf-7f3d-4d34-8b9b-0750e45c4548
   world-name: world_nether

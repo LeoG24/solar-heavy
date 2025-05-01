@@ -2055,3 +2055,74 @@ spawn .Zoula_zupto<--[HERE]
 [22:34:53] [Server thread/WARN]: .logherfox moved too quickly! 105.41744980940095,-22.0,45.702698817056266
 [22:34:53] [Server thread/WARN]: .logherfox moved too quickly! 105.41744980940095,-22.0,45.702698817056266
 [22:34:53] [Server thread/WARN]: .logherfox moved too quickly! 105.41744980940095,-22.0,45.702698817056266
+[22:35:18] [Server thread/INFO]: DarknessXD748 has made the advancement [Stone Age]
+[22:35:49] [Server thread/INFO]: EduardoKeith was slain by Zombie
+[22:36:02] [Server thread/INFO]: .Zoula_zupto tried to swim in lava
+[22:36:22] [Server thread/INFO]: DarknessXD748 has made the advancement [Getting an Upgrade]
+[22:36:50] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Monoty2944
+[22:36:50] [localSession-7-4/INFO]: [Geyser-Spigot] Monoty2944 (logged in as: Monoty2944) has connected to the Java server
+[22:36:51] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Monoty2944 joined (UUID: 00000000-0000-0000-0009-01fda4f36efb)
+[22:36:51] [Server thread/INFO]: .Monoty2944 joined the game
+[22:36:51] [Server thread/INFO]: .Monoty2944[/127.0.0.1:0] logged in with entity id 8931 at ([world]-1.0, 4.0, -44.0)
+[22:37:25] [Async Chat Thread - #18/INFO]: [Not Secure] <.logherfox> e admin ya no tengo mis 11 llaves
+[22:37:28] [Async Chat Thread - #18/INFO]: [Not Secure] <.logherfox> :'v
+[22:37:59] [Server thread/INFO]: DarknessXD748 lost connection: Disconnected
+[22:37:59] [Server thread/INFO]: DarknessXD748 left the game
+[22:38:13] [User Authenticator #8/INFO]: UUID of player DarknessXD748 is 16be9ab7-6c99-39ec-8d30-ba853b016ca3
+[22:38:13] [Server thread/INFO]: DarknessXD748 joined the game
+[22:38:13] [Server thread/INFO]: DarknessXD748[/127.166.24.139:49825] logged in with entity id 9097 at ([world]-1.0, 4.0, -44.0)
+[22:38:25] [Server thread/WARN]: .Monoty2944 moved wrongly!
+[22:38:47] [Server thread/INFO]: DarknessXD748 issued server command: /tpablock DarknessXD748
+[22:38:50] [User Authenticator #8/INFO]: UUID of player SunnyyIsHere_ is ec8b9018-623f-3526-adbf-3b2fb85f38c1
+[22:38:51] [Server thread/INFO]: SunnyyIsHere_ joined the game
+[22:38:51] [Server thread/INFO]: SunnyyIsHere_[/127.9.156.13:58817] logged in with entity id 9132 at ([world]-1.0, 4.0, -44.0)
+[22:39:09] [Server thread/INFO]: DarknessXD748 issued server command: /tpahere DarknessXD748
+[22:39:20] [Server thread/INFO]: .esporas3072 tried to swim in lava to escape Magma Cube
+[22:39:30] [Server thread/INFO]: DarknessXD748 lost connection: Disconnected
+[22:39:30] [Server thread/INFO]: DarknessXD748 left the game
+[22:39:45] [Async Chat Thread - #20/INFO]: [Not Secure] <.Monoty2944> where's the tree i planted here
+[22:39:59] [Server thread/INFO]: .esporas3072 has made the advancement [Ice Bucket Challenge]
+[22:40:16] [Async Chat Thread - #20/INFO]: [Not Secure] <.logherfox> ewe
+[22:40:21] [Async Chat Thread - #20/INFO]: [Not Secure] <.logherfox> propiedad ajena
+[22:40:25] [Async Chat Thread - #20/INFO]: [Not Secure] <.logherfox> zoula
+[22:40:35] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Zoula_zupto disconnected
+[22:40:35] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Zoula zupto has disconnected from the Java server because of Bedrock client disconnected
+[22:40:35] [Server thread/INFO]: .Zoula_zupto lost connection: Disconnected
+[22:40:35] [Server thread/INFO]: .Zoula_zupto left the game
+[22:41:09] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] logherfox has disconnected from the Java server because of Bedrock client disconnected
+[22:41:09] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .logherfox disconnected
+[22:41:09] [Server thread/INFO]: .logherfox lost connection: Disconnected
+[22:41:09] [Server thread/INFO]: .logherfox left the game
+[22:41:24] [Server thread/INFO]: EduardoKeith was slain by Slime
+[22:42:09] [Server thread/INFO]: .esporas3072 was slain by Piglin
+[22:42:43] [Server thread/INFO]: [Not Secure] [Server] h
+[22:42:47] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /list 
+[22:42:47] [Server thread/INFO]: There are 4 out of maximum 50 players online.
+[22:42:47] [Server thread/INFO]: default: .esporas3072, .Monoty2944, EduardoKeith, SunnyyIsHere_
+[22:43:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SunnyyIsHere_<--[HERE]
+[22:43:32] [Server thread/INFO]: [RedProtect] Player SunnyyIsHere_ damaged by VOID - Running command:
+ - Command: spawn SunnyyIsHere_
+[22:43:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SunnyyIsHere_<--[HERE]
+[22:43:32] [Server thread/INFO]: [RedProtect] Player SunnyyIsHere_ damaged by VOID - Running command:
+ - Command: spawn SunnyyIsHere_
+[22:43:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SunnyyIsHere_<--[HERE]
+[22:43:33] [Server thread/INFO]: [RedProtect] Player SunnyyIsHere_ damaged by VOID - Running command:
+ - Command: spawn SunnyyIsHere_
+[22:43:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+spawn SunnyyIsHere_<--[HERE]
+[22:43:33] [Server thread/INFO]: [RedProtect] Player SunnyyIsHere_ damaged by VOID - Running command:
+ - Command: spawn SunnyyIsHere_
+[22:43:33] [Server thread/INFO]: SunnyyIsHere_ fell out of the world
+[22:44:13] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /list 
+[22:44:13] [Server thread/INFO]: There are 4 out of maximum 50 players online.
+[22:44:13] [Server thread/INFO]: default: .esporas3072, .Monoty2944, EduardoKeith, SunnyyIsHere_
+[22:44:15] [Server thread/INFO]: SunnyyIsHere_ has made the advancement [What a Deal!]
+[22:44:16] [Server thread/INFO]: .esporas3072 tried to swim in lava
+[22:44:39] [Server thread/INFO]: [Not Secure] [Server] sunny como que estas haciendo spawnkill
+[22:44:45] [Async Chat Thread - #23/INFO]: [Not Secure] <SunnyyIsHere_> q
+[22:44:54] [Async Chat Thread - #23/INFO]: [Not Secure] <SunnyyIsHere_> si andaba en el end
+[22:44:56] [Async Chat Thread - #23/INFO]: [Not Secure] <SunnyyIsHere_> xdd
+[22:45:09] [Server thread/INFO]: [Not Secure] [Server] andan diciendo que estabas haciendo spawnkill

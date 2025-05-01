@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
-  login: 1746137202421
+  logout: 1746139170325
+  login: 1746139093164
 money: '0'
 last-account-name: DarknessXD748
 lastlocation:
@@ -28,3 +28,11 @@ lastlocation:
   z: -45.05329459913991
   yaw: 47.8497314453125
   pitch: 23.399932861328125
+logoutlocation:
+  world: f2780a57-ca08-479d-b657-a5f87ed065c8
+  world-name: world
+  x: 13.939572861877274
+  y: -1.0
+  z: -116.60718337837488
+  yaw: 3.6500537395477295
+  pitch: -10.449999809265137
