@@ -7178,3 +7178,8 @@ spawn uncrid<--[HERE]
 [19:57:42] [Async Chat Thread - #14/INFO]: [Not Secure] <iLeola_> cómo decoras un parkour
 [19:57:53] [Async Chat Thread - #14/INFO]: [Not Secure] <iCsar> sob
 [19:58:03] [Async Chat Thread - #14/INFO]: [Not Secure] <iCsar> pensaba que decorado se vería profesional!
+[20:01:15] [Server thread/INFO]: iLeola_ issued server command: /team modify noColision friendlyFire false
+[20:01:20] [Server thread/INFO]: [MeteoritesPro] A Fiery Meteorite has been sighted near X:-263 Z:-272 !
+[20:05:14] [Server thread/INFO]: iLeola_ issued server command: /team modify noColision seeFriendlyInvisibles
+[20:05:48] [Server thread/INFO]: iLeola_ issued server command: /team modify noColision nametagVisibility never
+[20:06:46] [Server thread/INFO]: iLeola_ issued server command: /team leave @a
