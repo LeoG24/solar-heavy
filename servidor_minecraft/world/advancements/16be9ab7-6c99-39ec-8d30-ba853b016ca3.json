@@ -91,6 +91,7 @@
       "minecraft:piglin": "2025-05-01 23:32:25 +0000",
       "minecraft:enderman": "2025-05-01 23:07:11 +0000",
       "minecraft:magma_cube": "2025-05-01 23:31:28 +0000",
+      "minecraft:spider": "2025-05-02 01:07:28 +0000",
       "minecraft:zombie": "2025-05-01 22:21:19 +0000",
       "minecraft:creeper": "2025-05-01 23:49:45 +0000",
       "minecraft:slime": "2025-05-01 22:20:30 +0000"
@@ -471,73 +472,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 01:04:26 +0000"
+      "log_spam_fixer": "2025-05-02 01:07:26 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 01:04:26 +0000"
+      "log_spam_fixer": "2025-05-02 01:07:26 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 01:04:26 +0000"
+      "log_spam_fixer": "2025-05-02 01:07:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 01:04:26 +0000"
+      "log_spam_fixer": "2025-05-02 01:07:26 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 01:04:26 +0000"
+      "log_spam_fixer": "2025-05-02 01:07:26 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 01:04:26 +0000"
+      "log_spam_fixer": "2025-05-02 01:07:26 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 01:04:26 +0000"
+      "log_spam_fixer": "2025-05-02 01:07:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 01:04:26 +0000"
+      "log_spam_fixer": "2025-05-02 01:07:26 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 01:04:26 +0000"
+      "log_spam_fixer": "2025-05-02 01:07:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 01:04:26 +0000"
+      "log_spam_fixer": "2025-05-02 01:07:26 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 01:04:26 +0000"
+      "log_spam_fixer": "2025-05-02 01:07:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 01:04:26 +0000"
+      "log_spam_fixer": "2025-05-02 01:07:26 +0000"
     },
     "done": false
   },
@@ -559,9 +560,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-02 01:07:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-02 00:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-02 01:07:20 +0000"
     },
     "done": true
   },
@@ -628,6 +641,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-05-02 00:38:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-05-02 01:04:53 +0000"
     },
     "done": true
   },
@@ -718,6 +737,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-02 00:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-02 01:07:20 +0000"
     },
     "done": true
   },
@@ -892,6 +917,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-05-02 00:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-02 01:07:20 +0000"
     },
     "done": true
   },
@@ -1207,6 +1238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-02 01:07:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-05-02 00:33:11 +0000"
@@ -1378,6 +1415,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-05-02 00:17:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-02 01:07:20 +0000"
     },
     "done": true
   },

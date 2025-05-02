@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1745981950157
+  logout: 1746148137066
   login: 1746145107626
 money: '0'
 last-account-name: SakachiRagde3000
 logoutlocation:
   world: f2780a57-ca08-479d-b657-a5f87ed065c8
   world-name: world
-  x: 33.50747653581958
+  x: 25.30000001192093
   y: 19.0
-  z: 119.14067476375203
-  yaw: -1.6509507894515991
-  pitch: 8.549982070922852
+  z: 117.49701047898955
+  yaw: 90.62454223632812
+  pitch: 4.05480432510376

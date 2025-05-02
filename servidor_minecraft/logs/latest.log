@@ -1114,3 +1114,73 @@ spawn SunnyyIsHere_<--[HERE]
 [01:05:47] [Async Chat Thread - #98/INFO]: [Not Secure] <EduardoKeith> r
 [01:06:02] [Server thread/INFO]: SunnyyIsHere_ lost connection: Disconnected
 [01:06:02] [Server thread/INFO]: SunnyyIsHere_ left the game
+[01:07:43] [Server thread/INFO]: [Not Secure] [Server] h
+[01:07:46] [Async Chat Thread - #101/INFO]: [Not Secure] <EduardoKeith> p
+[01:08:00] [Server thread/INFO]: DarknessXD748 lost connection: Disconnected
+[01:08:00] [Server thread/INFO]: DarknessXD748 left the game
+[01:08:00] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /list 
+[01:08:00] [Server thread/INFO]: There are 2 out of maximum 50 players online.
+[01:08:00] [Server thread/INFO]: default: EduardoKeith, SakachiRagde3000
+[01:08:12] [Server thread/INFO]: EduardoKeith lost connection: Disconnected
+[01:08:12] [Server thread/INFO]: EduardoKeith left the game
+[01:08:25] [Server thread/INFO]: [Not Secure] [Server] APAGANDO SERVIDOR, GUARDEN TODO
+[01:08:38] [Async Chat Thread - #101/INFO]: [Not Secure] <SakachiRagde3000> tan temprano?
+[01:08:41] [Async Chat Thread - #101/INFO]: [Not Secure] <SakachiRagde3000> buuuuuuu
+[01:08:49] [Async Chat Thread - #101/INFO]: [Not Secure] <SakachiRagde3000> bue
+[01:08:50] [Async Chat Thread - #101/INFO]: [Not Secure] <SakachiRagde3000> chau
+[01:08:50] [Server thread/INFO]: [Not Secure] [Server] si, estare preparando el evento de mañana
+[01:08:55] [Server thread/INFO]: [Not Secure] [Server] aadios
+[01:08:55] [Async Chat Thread - #101/INFO]: [Not Secure] <SakachiRagde3000> ojo
+[01:08:56] [Server thread/INFO]: [Not Secure] [Server] 5
+[01:08:57] [Server thread/INFO]: SakachiRagde3000 lost connection: Disconnected
+[01:08:57] [Server thread/INFO]: SakachiRagde3000 left the game
+[01:08:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
+aay 6<--[HERE]
+[01:09:00] [Server thread/INFO]: Stopping the server
+[01:09:00] [Server thread/INFO]: Stopping server
+[01:09:00] [Server thread/INFO]: [RedProtect] Disabling RedProtect v8.1.2-SNAPSHOT
+[01:09:00] [Server thread/INFO]: [RedProtect] Saving world's regions...
+[01:09:00] [Server thread/INFO]: [RedProtect] Saving world_the_end's regions...
+[01:09:00] [Server thread/INFO]: [RedProtect] Saving world_nether's regions...
+[01:09:00] [Server thread/INFO]: [RedProtect] Unregistering listeners...
+[01:09:00] [Server thread/INFO]: [RedProtect] RedProtect v8.1.2-SNAPSHOT turned off...
+[01:09:00] [Server thread/INFO]: [MeteoritesPro] Disabling MeteoritesPro v1.5.3
+[01:09:00] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.7.0-SNAPSHOT
+[01:09:00] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[01:09:00] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[01:09:00] [Server thread/INFO]: [ZombieApocalypse] Disabling ZombieApocalypse v1.4.12
+[01:09:00] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.2
+[01:09:00] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.4
+[01:09:00] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[01:09:00] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[01:09:00] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[01:09:00] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.6
+[01:09:00] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[01:09:00] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.6
+[01:09:00] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0
+[01:09:00] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[01:09:00] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.2
+[01:09:00] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
+[01:09:00] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[01:09:00] [Server thread/INFO]: Saving players
+[01:09:00] [WebSocketConnectReadThread-277/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[01:09:00] [Server thread/INFO]: Saving worlds
+[01:09:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:09:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:09:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:09:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[01:09:00] [Server thread/INFO]: [ChunkHolderManager] Saved 118 block chunks, 84 entity chunks, 0 poi chunks in world 'world' in 0.09s
+[01:09:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:09:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:09:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:09:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[01:09:00] [Server thread/INFO]: [ChunkHolderManager] Saved 175 block chunks, 263 entity chunks, 0 poi chunks in world 'world_nether' in 0.27s
+[01:09:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:09:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:09:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:09:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[01:09:00] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 60 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
+[01:09:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:09:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:09:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:09:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
