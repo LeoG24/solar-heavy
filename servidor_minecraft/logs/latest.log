@@ -226,3 +226,23 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.E
 [03:33:02] [User Authenticator #1/INFO]: UUID of player SunnyyIsHere_ is ec8b9018-623f-3526-adbf-3b2fb85f38c1
 [03:33:02] [Server thread/INFO]: Disconnecting SunnyyIsHere_ (/127.9.156.13:39933): You are not whitelisted on this server!
 [03:33:02] [Server thread/INFO]: SunnyyIsHere_ (/127.9.156.13:39933) lost connection: You are not whitelisted on this server!
+[03:41:14] [Server thread/INFO]: iLeola_ lost connection: Disconnected
+[03:41:14] [Server thread/INFO]: iLeola_ left the game
+[03:41:20] [User Authenticator #2/INFO]: UUID of player iLeola_ is 04c6568a-80d6-38d1-9c7e-efc90999a73c
+[03:41:22] [Server thread/INFO]: iLeola_ joined the game
+[03:41:22] [Server thread/INFO]: iLeola_[/127.143.225.237:36805] logged in with entity id 1238 at ([world]-1.0, 4.0, -44.0)
+[03:41:22] [Server thread/WARN]: [LoginSecurity] Player was logged in prematurely while still saving location
+[03:41:31] [Server thread/INFO]: iLeola_ lost connection: Disconnected
+[03:41:31] [Server thread/INFO]: iLeola_ left the game
+[03:42:10] [User Authenticator #2/INFO]: UUID of player iCsar is f588c112-eb43-3274-842c-1e06347702d7
+[03:42:14] [Server thread/INFO]: iCsar joined the game
+[03:42:14] [Server thread/INFO]: iCsar[/127.206.2.155:40951] logged in with entity id 1246 at ([world]-1.0, 4.0, -44.0)
+[03:42:25] [Async Chat Thread - #2/INFO]: [Not Secure] <iCsar> pero leo
+[03:42:33] [Server thread/INFO]: iCsar lost connection: Disconnected
+[03:42:33] [Server thread/INFO]: iCsar left the game
+[03:42:40] [User Authenticator #2/INFO]: UUID of player iCsar is f588c112-eb43-3274-842c-1e06347702d7
+[03:42:40] [Server thread/INFO]: iCsar joined the game
+[03:42:40] [Server thread/INFO]: iCsar[/127.206.2.155:56929] logged in with entity id 1254 at ([world]-1.0, 4.0, -44.0)
+[03:42:41] [Server thread/WARN]: [LoginSecurity] Player was logged in prematurely while still saving location
+[03:44:41] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[03:44:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7338ms or 146 ticks behind
