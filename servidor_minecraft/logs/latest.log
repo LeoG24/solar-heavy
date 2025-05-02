@@ -218,3 +218,7 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.E
 [03:07:03] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .SuperManuYT9361 disconnected
 [03:07:03] [Server thread/INFO]: /127.0.0.1:0 lost connection: You are not whitelisted on this server!
 [03:14:17] [Server thread/INFO]: [Not Secure] [Server] c
+[03:23:24] [User Authenticator #0/INFO]: UUID of player iLeola_ is 04c6568a-80d6-38d1-9c7e-efc90999a73c
+[03:23:28] [Server thread/INFO]: iLeola_ joined the game
+[03:23:28] [Server thread/INFO]: iLeola_[/127.143.225.237:49843] logged in with entity id 72 at ([world]-1.0, 4.0, -44.0)
+[03:26:36] [Server thread/INFO]: iLeola_ issued server command: /skin update
