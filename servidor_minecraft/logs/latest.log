@@ -7412,3 +7412,37 @@ say<--[HERE]
 [21:40:19] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .SharpGuide18245 disconnected
 [21:40:19] [localSession-7-4/INFO]: [Geyser-Spigot] SharpGuide18245 has disconnected from the Java server because of You are not whitelisted on this server!
 [21:40:19] [Server thread/INFO]: /127.0.0.1:0 lost connection: You are not whitelisted on this server!
+[21:41:43] [Async Chat Thread - #41/INFO]: [Not Secure] <iCsar> yo creo que hacer camino directo = más rapido
+[21:41:51] [Async Chat Thread - #41/INFO]: [Not Secure] <iLeola_> preferiblemente
+[21:41:54] [Async Chat Thread - #41/INFO]: [Not Secure] <iCsar> ando haciendo una subida pero más me estoy complicando
+[21:42:22] [User Authenticator #20/INFO]: UUID of player DarknessXD748 is 16be9ab7-6c99-39ec-8d30-ba853b016ca3
+[21:42:22] [Server thread/INFO]: Disconnecting DarknessXD748 (/127.166.24.139:43595): You are not whitelisted on this server!
+[21:42:22] [Server thread/INFO]: DarknessXD748 (/127.166.24.139:43595) lost connection: You are not whitelisted on this server!
+[21:46:41] [Async Chat Thread - #43/INFO]: [Not Secure] <iCsar> que bueno es que te intenté hacer videollamada y que tengas la camara jodida
+[21:46:47] [Async Chat Thread - #43/INFO]: [Not Secure] <iCsar> intenten*
+[21:47:28] [Async Chat Thread - #43/INFO]: [Not Secure] <iCsar> si puedes ven
+[21:47:35] [Async Chat Thread - #43/INFO]: [Not Secure] <iCsar> y vas continuando el camino de acá mira
+[21:47:40] [Async Chat Thread - #43/INFO]: [Not Secure] <iCsar> y yo lo voy acomodando
+[21:48:04] [Server thread/INFO]: iCsar issued server command: /time set day
+[21:48:17] [Async Chat Thread - #43/INFO]: [Not Secure] <iCsar> este
+[21:48:31] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Eduardo12zt
+[21:48:31] [localSession-7-1/INFO]: [Geyser-Spigot] Eduardo12zt (logged in as: Eduardo12zt) has connected to the Java server
+[21:48:31] [Server thread/INFO]: Disconnecting /127.0.0.1:0: You are not whitelisted on this server!
+[21:48:31] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Eduardo12zt disconnected
+[21:48:31] [localSession-7-1/INFO]: [Geyser-Spigot] Eduardo12zt has disconnected from the Java server because of You are not whitelisted on this server!
+[21:48:31] [Server thread/INFO]: /127.0.0.1:0 lost connection: You are not whitelisted on this server!
+[21:48:32] [Async Chat Thread - #43/INFO]: [Not Secure] <iCsar> o yo voy haciendo el camino y tú lo acomodas
+[21:48:44] [Async Chat Thread - #43/INFO]: [Not Secure] <iLeola_> mejor hago yo el camino y lo acomodas tú
+[21:48:48] [Async Chat Thread - #43/INFO]: [Not Secure] <iCsar> va
+[21:49:09] [Async Chat Thread - #43/INFO]: [Not Secure] <iCsar> trata de que haga de puente pasando ese arbol
+[21:49:16] [Server thread/INFO]: iLeola_ issued server command: /flyspeed 1.25
+[21:49:24] [Server thread/INFO]: iLeola_ issued server command: /flyspeed 0.75
+[21:49:29] [Server thread/INFO]: iLeola_ issued server command: /flyspeed 0.1
+[21:50:05] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Francozkai29
+[21:50:05] [localSession-7-2/INFO]: [Geyser-Spigot] Francozkai29 (logged in as: Francozkai29) has connected to the Java server
+[21:50:05] [Server thread/INFO]: Disconnecting /127.0.0.1:0: You are not whitelisted on this server!
+[21:50:05] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Francozkai29 disconnected
+[21:50:05] [localSession-7-2/INFO]: [Geyser-Spigot] Francozkai29 has disconnected from the Java server because of You are not whitelisted on this server!
+[21:50:05] [Server thread/INFO]: /127.0.0.1:0 lost connection: You are not whitelisted on this server!
+[21:50:34] [Server thread/INFO]: iLeola_ issued server command: /flyspeed 0.2
+[21:50:36] [Server thread/INFO]: iLeola_ issued server command: /flyspeed 0.5
