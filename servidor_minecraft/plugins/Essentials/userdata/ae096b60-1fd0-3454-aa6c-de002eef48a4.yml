@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1746214429344
+  logout: 1746215563996
   login: 1746215330566
 money: '0'
 last-account-name: uncrid
 logoutlocation:
   world: f2780a57-ca08-479d-b657-a5f87ed065c8
   world-name: world
-  x: -117.6171992510853
-  y: 16.53290590058548
-  z: -145.1448430256367
-  yaw: 133.63912963867188
-  pitch: 54.479740142822266
+  x: -123.4901172354299
+  y: 17.493842789664726
+  z: -151.56128928799055
+  yaw: -0.23638916015625
+  pitch: 64.4453125
 lastlocation:
   world: f2780a57-ca08-479d-b657-a5f87ed065c8
   world-name: world

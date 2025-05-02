@@ -9,15 +9,17 @@
     "criteria": {
       "minecraft:flower_forest": "2025-04-27 21:04:27 +0000",
       "minecraft:snowy_slopes": "2025-05-01 22:06:40 +0000",
-      "minecraft:desert": "2025-05-02 19:08:51 +0000",
       "minecraft:old_growth_pine_taiga": "2025-04-27 21:05:29 +0000",
       "minecraft:mushroom_fields": "2025-05-01 22:17:48 +0000",
       "minecraft:mangrove_swamp": "2025-05-02 19:10:09 +0000",
+      "minecraft:river": "2025-05-02 19:50:17 +0000",
+      "minecraft:lush_caves": "2025-05-01 22:14:10 +0000",
+      "minecraft:desert": "2025-05-02 19:08:51 +0000",
       "minecraft:deep_dark": "2025-05-01 22:20:43 +0000",
       "minecraft:ocean": "2025-05-02 19:09:16 +0000",
       "minecraft:cherry_grove": "2025-05-01 22:20:42 +0000",
-      "minecraft:lush_caves": "2025-05-01 22:14:10 +0000",
       "minecraft:bamboo_jungle": "2025-05-01 22:13:35 +0000",
+      "minecraft:windswept_savanna": "2025-05-02 19:50:51 +0000",
       "minecraft:plains": "2025-04-27 21:05:22 +0000"
     },
     "done": false
@@ -1241,93 +1243,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "stellarity:exploration/discover_all_biomes": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 19:33:14 +0000"
+      "end_midlands": "2025-05-02 19:09:33 +0000"
     },
     "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 19:33:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 19:33:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 19:33:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 19:33:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 19:33:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 19:33:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 19:33:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 19:33:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 19:33:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 19:33:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-02 19:33:14 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-05-02 19:32:09 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-05-02 19:11:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2025-05-02 19:32:09 +0000"
     },
     "done": true
   },
@@ -1337,21 +1261,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2025-05-02 19:11:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-05-02 19:11:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
+  "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
-      "has_chorus_fruit": "2025-05-02 19:31:49 +0000"
+      "has_netherite_scrap": "2025-05-02 19:11:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-02 19:11:30 +0000"
     },
     "done": true
   },
@@ -1361,15 +1285,39 @@
     },
     "done": true
   },
-  "stellarity:exploration/discover_all_biomes": {
+  "minecraft:end/root": {
     "criteria": {
-      "end_midlands": "2025-05-02 19:09:33 +0000"
+      "entered_end": "2025-05-02 19:17:49 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "stellarity:events/first_time_in_end": {
+    "criteria": {
+      "requirement": "2025-05-02 19:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-05-02 19:17:49 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-02 19:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-02 19:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-05-02 19:31:49 +0000"
     },
     "done": true
   },
@@ -1385,21 +1333,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-05-02 19:32:09 +0000"
     },
     "done": true
   },
-  "minecraft:end/root": {
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
-      "entered_end": "2025-05-02 19:17:49 +0000"
+      "has_end_stone": "2025-05-02 19:32:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_stained_glass_pane": {
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
-      "has_glass": "2025-05-02 19:29:55 +0000"
+      "has_end_stone": "2025-05-02 19:32:09 +0000"
     },
     "done": true
   },
@@ -1421,21 +1369,93 @@
     },
     "done": true
   },
-  "stellarity:events/first_time_in_end": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "requirement": "2025-05-02 19:17:49 +0000"
+      "log_spam_fixer": "2025-05-02 19:52:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 19:52:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 19:52:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 19:52:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 19:52:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 19:52:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 19:52:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 19:52:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 19:52:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 19:52:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 19:52:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-02 19:52:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2025-05-02 19:51:22 +0000"
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
+  "minecraft:recipes/decorations/lime_carpet": {
     "criteria": {
-      "entered_end": "2025-05-02 19:17:49 +0000"
+      "has_lime_wool": "2025-05-02 19:51:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "minecraft:recipes/decorations/lime_banner": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-05-02 19:11:30 +0000"
+      "has_lime_wool": "2025-05-02 19:51:22 +0000"
     },
     "done": true
   },

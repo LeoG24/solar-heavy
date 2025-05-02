@@ -7132,3 +7132,49 @@ spawn uncrid<--[HERE]
 [19:50:42] [Async Chat Thread - #12/INFO]: [Not Secure] <uncrid> pero este es el inicio
 [19:50:44] [Async Chat Thread - #12/INFO]: [Not Secure] <iCsar> ahí no
 [19:50:44] [Server thread/INFO]: uncrid issued server command: /gamemode spectator
+[19:51:04] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[19:51:08] [Async Chat Thread - #13/INFO]: [Not Secure] <uncrid> lagetst
+[19:51:11] [Async Chat Thread - #13/INFO]: [Not Secure] <uncrid> murio
+[19:51:11] [Async Chat Thread - #13/INFO]: [Not Secure] <iCsar> aaui
+[19:51:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7337ms or 146 ticks behind
+[19:51:12] [Server thread/INFO]: uncrid issued server command: /gamemode creative
+[19:51:12] [Server thread/WARN]: iCsar moved too quickly! 15.103702472366685,1.75140962900762,-32.55570179368081
+[19:51:12] [Server thread/INFO]: uncrid issued server command: /gamemode creative
+[19:51:13] [Async Chat Thread - #13/INFO]: [Not Secure] <iCsar> aaui
+[19:51:13] [Async Chat Thread - #13/INFO]: [Not Secure] <uncrid> XD
+[19:51:15] [Async Chat Thread - #13/INFO]: [Not Secure] <iCsar> q
+[19:51:15] [Async Chat Thread - #13/INFO]: [Not Secure] <iLeola_> c
+[19:51:18] [Async Chat Thread - #13/INFO]: [Not Secure] <uncrid> se re lageo
+[19:51:27] [Server thread/INFO]: iLeola_ issued server command: /team add noColision
+[19:51:31] [Server thread/INFO]: uncrid issued server command: /minecraft:tp -125 16 -150
+[19:51:33] [Server thread/INFO]: iLeola_ issued server command: /team join noColision @a
+[19:51:50] [Server thread/INFO]: iLeola_ issued server command: /team modify noColision collisionRule never
+[19:51:57] [Async Chat Thread - #13/INFO]: [Not Secure] <iLeola_> tepeate a mi cesar
+[19:52:13] [Server thread/INFO]: [Not Secure] [@] cesar cabron
+[19:52:38] [Async Chat Thread - #13/INFO]: [Not Secure] <uncrid> bueno luego hago el tp
+[19:52:43] [Async Chat Thread - #13/INFO]: [Not Secure] <uncrid> ahora voy a seguir con el datapack
+[19:52:43] [Server thread/INFO]: uncrid lost connection: Disconnected
+[19:52:44] [Server thread/INFO]: uncrid left the game
+[19:52:48] [Async Chat Thread - #13/INFO]: [Not Secure] <iCsar> vv
+[19:52:52] [Server thread/INFO]: iCsar issued server command: /tp ileola
+[19:53:03] [Async Chat Thread - #13/INFO]: [Not Secure] <iCsar> wow
+[19:53:04] [Async Chat Thread - #13/INFO]: [Not Secure] <iLeola_> ya no hay colisión
+[19:53:06] [Async Chat Thread - #13/INFO]: [Not Secure] <iCsar> que inteligente
+[19:53:31] [Async Chat Thread - #13/INFO]: [Not Secure] <iCsar> leo esto es para tryhards!
+[19:53:56] [Async Chat Thread - #13/INFO]: [Not Secure] <iCsar> lo copiaste del mapa de universo seguro
+[19:54:00] [Async Chat Thread - #13/INFO]: [Not Secure] <iCsar> !!!
+[19:54:02] [Async Chat Thread - #13/INFO]: [Not Secure] <iLeola_> ojalá
+[19:54:57] [Async Chat Thread - #13/INFO]: [Not Secure] <iLeola_> el sv yo creo que va de la verga
+[19:55:02] [Server thread/INFO]: iCsar issued server command: /tps
+[19:55:07] [Async Chat Thread - #13/INFO]: [Not Secure] <iCsar> los tps están normales
+[19:55:09] [Async Chat Thread - #13/INFO]: [Not Secure] <iLeola_> o soy yo también
+[19:55:14] [Async Chat Thread - #13/INFO]: [Not Secure] <iCsar> XD eres tu
+[19:55:20] [Async Chat Thread - #13/INFO]: [Not Secure] <iCsar> 1 barrita
+[19:55:20] [Async Chat Thread - #13/INFO]: [Not Secure] <iLeola_> si soy yo
+[19:55:25] [Async Chat Thread - #13/INFO]: [Not Secure] <iLeola_> me va a tropicones el f3
+[19:56:52] [Async Chat Thread - #14/INFO]: [Not Secure] <iCsar> bueno tenemos tiempo para decorar esto
+[19:57:35] [Async Chat Thread - #14/INFO]: [Not Secure] <iCsar> bue no sé cómo decorar un parkour xdxdxdxdejdje
+[19:57:40] [Async Chat Thread - #14/INFO]: [Not Secure] <iLeola_> viste
+[19:57:42] [Async Chat Thread - #14/INFO]: [Not Secure] <iLeola_> cómo decoras un parkour
+[19:57:53] [Async Chat Thread - #14/INFO]: [Not Secure] <iCsar> sob
+[19:58:03] [Async Chat Thread - #14/INFO]: [Not Secure] <iCsar> pensaba que decorado se vería profesional!
