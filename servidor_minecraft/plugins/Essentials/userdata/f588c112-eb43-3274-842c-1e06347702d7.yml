@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1746218127731
+  lastteleport: 1746219676387
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1746218175144
-  login: 1746215124914
+  login: 1746219666466
 money: '0'
 last-account-name: iCsar
 logoutlocation:
@@ -31,8 +31,8 @@ logoutlocation:
 lastlocation:
   world: f2780a57-ca08-479d-b657-a5f87ed065c8
   world-name: world
-  x: 77.37694304033026
-  y: 14.0
-  z: -117.87894685392669
-  yaw: 30.48779296875
-  pitch: 33.98701095581055
+  x: 126.39798606637072
+  y: -1.0
+  z: 165.89261320105066
+  yaw: -91.0
+  pitch: 16.0

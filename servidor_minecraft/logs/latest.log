@@ -7274,3 +7274,41 @@ say<--[HERE]
 [20:56:06] [Server thread/INFO]: Lines - 3:  - 4: 
 [20:56:06] [Server thread/WARN]: Player iLeola_ just tried to change non-editable sign
 [20:56:06] [Server thread/WARN]: Player iLeola_ just tried to change non-editable sign
+[21:01:05] [User Authenticator #14/INFO]: UUID of player iCsar is f588c112-eb43-3274-842c-1e06347702d7
+[21:01:06] [Server thread/INFO]: iCsar joined the game
+[21:01:06] [Server thread/INFO]: iCsar[/127.206.2.155:39943] logged in with entity id 3263 at ([world]-1.0, 4.0, -44.0)
+[21:01:16] [Server thread/INFO]: iCsar issued server command: /tp ileola
+[21:01:20] [Server thread/INFO]: [MeteoritesPro] A Fiery Meteorite has been sighted near X:435 Z:-244 !
+[21:01:22] [Async Chat Thread - #25/INFO]: [Not Secure] <iCsar> q
+[21:01:38] [Async Chat Thread - #25/INFO]: [Not Secure] <iCsar> woow
+[21:01:40] [Async Chat Thread - #25/INFO]: [Not Secure] <iCsar> oye
+[21:01:47] [Async Chat Thread - #25/INFO]: [Not Secure] <iLeola_> si
+[21:01:51] [Async Chat Thread - #25/INFO]: [Not Secure] <iCsar> si??
+[21:02:07] [Async Chat Thread - #25/INFO]: [Not Secure] <iCsar> harás parte de la carrera bajo el agua como pensaba??
+[21:02:18] [Async Chat Thread - #25/INFO]: [Not Secure] <iLeola_> si, será tipo laberinto
+[21:02:23] [Async Chat Thread - #25/INFO]: [Not Secure] <iCsar> WOOOW
+[21:03:00] [Server thread/INFO]: iLeola_ issued server command: /gamemode spectator
+[21:03:06] [Server thread/INFO]: iLeola_ issued server command: /gamemode creative
+[21:03:47] [Server thread/INFO]: iLeola_ issued server command: /team join noColision @a
+[21:03:56] [Async Chat Thread - #27/INFO]: [Not Secure] <iLeola_> uh cierto
+[21:04:03] [Async Chat Thread - #27/INFO]: [Not Secure] <iCsar> q
+[21:04:05] [Async Chat Thread - #27/INFO]: [Not Secure] <iLeola_> quité lo de vernos los nametag también en el team
+[21:04:16] [Async Chat Thread - #27/INFO]: [Not Secure] <iLeola_> que en este caso si que viene bien jaja
+[21:04:20] [Async Chat Thread - #27/INFO]: [Not Secure] <iCsar> no importa de hecho hay que replicarlo en los 3 juegos
+[21:04:39] [Async Chat Thread - #27/INFO]: [Not Secure] <iLeola_> pues un team para este de carrera
+[21:04:54] [Async Chat Thread - #27/INFO]: [Not Secure] <iLeola_> fuego amigo desactivado + no colisiones + no verse los tags
+[21:05:00] [Async Chat Thread - #27/INFO]: [Not Secure] <iCsar> si
+[21:05:01] [Async Chat Thread - #27/INFO]: [Not Secure] <iLeola_> cual era el siguiente?
+[21:05:13] [Async Chat Thread - #27/INFO]: [Not Secure] <iCsar> escondidas y básicamente lo mismo
+[21:05:25] [Server thread/INFO]: iLeola_ issued server command: /team add Escondidas
+[21:05:32] [Async Chat Thread - #27/INFO]: [Not Secure] <iCsar> ah no lo de fuego amigo desactivado en el segundo juego no
+[21:05:57] [Async Chat Thread - #27/INFO]: [Not Secure] <iCsar> después como va a matar a los que se esconden el buscador
+[21:06:03] [Server thread/INFO]: iLeola_ issued server command: /team modify Escondidas nametagVisibility hideForOwnTeam
+[21:06:19] [Async Chat Thread - #27/INFO]: [Not Secure] <iLeola_> ya lo puse para que solo se les oculte a su equipo
+[21:06:22] [Async Chat Thread - #27/INFO]: [Not Secure] <iCsar> ire tirando el anuncio del event
+[21:06:30] [Async Chat Thread - #27/INFO]: [Not Secure] <iLeola_> el que sea el casador no tiene que estar en el equipo
+[21:06:33] [Async Chat Thread - #27/INFO]: [Not Secure] <iLeola_> casador
+[21:06:34] [Async Chat Thread - #27/INFO]: [Not Secure] <iLeola_> z
+[21:06:49] [Server thread/INFO]: [Not Secure] [Server] h
+[21:08:12] [Async Chat Thread - #29/INFO]: [Not Secure] <iLeola_> pon ahí para que no spawnee ningún tipo de mob
+[21:10:24] [Server thread/INFO]: [Not Secure] [Server] luego
