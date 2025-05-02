@@ -368,7 +368,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2025-04-28 00:19:04 +0000"
+      "minecraft:zombie": "2025-04-28 00:19:04 +0000",
+      "minecraft:creeper": "2025-05-02 04:19:37 +0000"
     },
     "done": false
   },
@@ -950,73 +951,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 04:12:26 +0000"
+      "log_spam_fixer": "2025-05-02 04:22:26 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 04:12:26 +0000"
+      "log_spam_fixer": "2025-05-02 04:22:26 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 04:12:26 +0000"
+      "log_spam_fixer": "2025-05-02 04:22:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 04:12:26 +0000"
+      "log_spam_fixer": "2025-05-02 04:22:26 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 04:12:26 +0000"
+      "log_spam_fixer": "2025-05-02 04:22:26 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 04:12:26 +0000"
+      "log_spam_fixer": "2025-05-02 04:22:26 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 04:12:26 +0000"
+      "log_spam_fixer": "2025-05-02 04:22:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 04:12:26 +0000"
+      "log_spam_fixer": "2025-05-02 04:22:26 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 04:12:26 +0000"
+      "log_spam_fixer": "2025-05-02 04:22:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 04:12:26 +0000"
+      "log_spam_fixer": "2025-05-02 04:22:26 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 04:12:26 +0000"
+      "log_spam_fixer": "2025-05-02 04:22:26 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 04:12:26 +0000"
+      "log_spam_fixer": "2025-05-02 04:22:26 +0000"
     },
     "done": false
   },

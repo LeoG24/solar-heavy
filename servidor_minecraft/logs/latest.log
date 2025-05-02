@@ -368,3 +368,52 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.E
 [04:08:57] [Async Chat Thread - #7/INFO]: [Not Secure] <iLeola_> ese men
 [04:10:07] [Async Chat Thread - #9/INFO]: [Not Secure] <iCsar> dónde fuiste
 [04:10:12] [Server thread/INFO]: iCsar issued server command: /tp iLeola_
+[04:17:41] [Async Chat Thread - #11/INFO]: [Not Secure] <iCsar> cómo vas
+[04:18:11] [Async Chat Thread - #11/INFO]: [Not Secure] <iLeola_> viendo lo del parkour
+[04:18:25] [Async Chat Thread - #11/INFO]: [Not Secure] <iCsar> val
+[04:18:30] [Async Chat Thread - #11/INFO]: [Not Secure] <iCsar> yo con los comandos
+[04:18:37] [Async Chat Thread - #11/INFO]: [Not Secure] <iCsar> una sala así bien cibernética
+[04:18:41] [Server thread/INFO]: iLeola_ issued server command: /fill 193 -1 163
+[04:18:44] [Server thread/INFO]: iCsar lost connection: Disconnected
+[04:18:44] [Server thread/INFO]: iCsar left the game
+[04:18:51] [User Authenticator #6/INFO]: UUID of player iCsar is f588c112-eb43-3274-842c-1e06347702d7
+[04:18:52] [Server thread/INFO]: iCsar joined the game
+[04:18:52] [Server thread/INFO]: iCsar[/127.206.2.155:50291] logged in with entity id 3286 at ([world]-1.0, 4.0, -44.0)
+[04:18:52] [Server thread/WARN]: [LoginSecurity] Player was logged in prematurely while still saving location
+[04:19:02] [Server thread/INFO]: iLeola_ issued server command: /fill 193 -1 163 193 -1 225 minecraft:spruce_planks
+[04:19:17] [Server thread/INFO]: iLeola_ issued server command: /fill 129 -1 163
+[04:19:28] [Server thread/INFO]: iLeola_ issued server command: /fill 129 -1 163 193 -1 163 minecraft:spruce_planks
+[04:20:57] [Server thread/INFO]: iLeola_ issued server command: /fill 129 -1 125
+[04:21:07] [Server thread/INFO]: iLeola_ issued server command: /time set day
+[04:21:11] [Server thread/INFO]: [Essentials] CommandBlock at 4,175,122 issued server command: /gamemode survival @a
+[04:21:22] [Server thread/INFO]: [Essentials] CommandBlock at 4,175,122 issued server command: /gamemode survival iCsar
+[04:21:22] [Server thread/INFO]: iLeola_ issued server command: /fill 129 -1 125 129 -1 163 minecraft:spruce_planks
+[04:21:31] [Server thread/INFO]: iCsar issued server command: /gamemode creatibe
+[04:21:58] [Server thread/INFO]: iLeola_ issued server command: /fill 125 -1 125
+[04:22:01] [Server thread/INFO]: iCsar issued server command: /spawnpoint iCsar
+[04:22:04] [Server thread/INFO]: [Essentials] CommandBlock at 4,175,122 issued server command: /gamemode survival iCsar
+[04:22:04] [Server thread/INFO]: [Essentials] CommandBlock at 4,175,124 issued server command: /kill iCsar
+[04:22:04] [Server thread/INFO]: iCsar died
+[04:22:15] [Server thread/INFO]: iLeola_ issued server command: /fill 125 -1 125 125 -1 167 minecraft:spruce_planks
+[04:22:19] [Server thread/INFO]: iCsar issued server command: /gamerule keepInventory true
+[04:22:25] [Server thread/INFO]: iCsar issued server command: /gamemode creatibe
+[04:22:44] [Server thread/INFO]: iLeola_ issued server command: /fill 125 -1 167
+[04:22:54] [Server thread/INFO]: iLeola_ issued server command: /fill 125 -1 167 189 -1 167 minecraft:spruce_planks
+[04:22:58] [Server thread/INFO]: iLeola_ issued server command: /fill 189 -1 167
+[04:23:01] [Async Chat Thread - #13/INFO]: [Not Secure] <iCsar> que tanto rellenas
+[04:23:09] [Server thread/INFO]: iLeola_ issued server command: /fill 189 -1 167 189 -1 225 minecraft:spruce_planks
+[04:23:11] [Async Chat Thread - #13/INFO]: [Not Secure] <iLeola_> rellenando
+[04:23:15] [Async Chat Thread - #13/INFO]: [Not Secure] <iCsar> wo
+[04:23:31] [Server thread/INFO]: iLeola_ issued server command: /fill 189 6 225
+[04:23:40] [Server thread/INFO]: iLeola_ issued server command: /fill 189 6 225 189 0 167 minecraft:spruce_planks
+[04:23:46] [Server thread/INFO]: iLeola_ issued server command: /fill 189 6 167
+[04:23:59] [Server thread/INFO]: iLeola_ issued server command: /fill 189 6 167 125 -1 167 minecraft:spruce_planks
+[04:24:14] [Server thread/INFO]: iLeola_ issued server command: /fill 125 6 167
+[04:24:24] [Server thread/INFO]: iLeola_ issued server command: /fill 125 6 167 125 -1 125 minecraft:spruce_planks
+[04:24:44] [Server thread/INFO]: iLeola_ issued server command: /fill 193 6 225
+[04:24:51] [Server thread/INFO]: iLeola_ issued server command: /fill 193 6 225 193 -1 163 minecraft:spruce_planks
+[04:24:58] [Server thread/INFO]: iLeola_ issued server command: /fill 193 6 163
+[04:25:06] [Server thread/INFO]: iLeola_ issued server command: /fill 193 6 163 129 -1 163 minecraft:spruce_planks
+[04:25:22] [Server thread/INFO]: iLeola_ issued server command: /fill 129 6 163
+[04:25:30] [Server thread/INFO]: iLeola_ issued server command: /fill 129 6 163 129 -1 125 minecraft:spruce_planks
+[04:25:50] [Server thread/INFO]: iLeola_ issued server command: /give iLeola_ barrier
