@@ -6970,3 +6970,39 @@ spawn uncrid<--[HERE]
 [19:10:03] [Server thread/INFO]: uncrid issued server command: /minecraft:tp iCsar
 [19:10:15] [Async Chat Thread - #4/INFO]: [Not Secure] <iCsar> hasta aca
 [19:10:20] [Async Chat Thread - #4/INFO]: [Not Secure] <uncrid> wow
+[19:10:36] [Async Chat Thread - #4/INFO]: [Not Secure] <iCsar> yo le dije a leo que no hiciera esto tan tryhard para los niños de bedro
+[19:10:44] [Async Chat Thread - #4/INFO]: [Not Secure] <iLeola_> si
+[19:10:52] [Async Chat Thread - #4/INFO]: [Not Secure] <iLeola_> estoy viendo cómo hacerlo todo simple para esos babosos
+[19:11:05] [Async Chat Thread - #4/INFO]: [Not Secure] <iLeola_> no podían ser pc users...
+[19:11:08] [Async Chat Thread - #4/INFO]: [Not Secure] <iCsar> por cierto mira lo que tenía este tipo crid
+[19:11:20] [Async Chat Thread - #4/INFO]: [Not Secure] <uncrid> la carrera empieza acá?
+[19:11:25] [Server thread/INFO]: uncrid has made the advancement [Hidden in the Depths]
+[19:11:31] [Async Chat Thread - #4/INFO]: [Not Secure] <iCsar> no, acá termina
+[19:11:45] [Async Chat Thread - #4/INFO]: [Not Secure] <iCsar> o que dices leo
+[19:11:47] [Server thread/INFO]: Villager Villager['Villager'/1089, uuid='a4395e41-5260-4a77-989d-1703e1c60f59', l='ServerLevel[world]', x=205.09, y=-227.63, z=231.18, cpos=[12, 14], tl=228, v=true] died, message: 'Villager didn't want to live in the same world as uncrid'
+[19:11:52] [Async Chat Thread - #4/INFO]: [Not Secure] <iCsar> que comience aca o termine
+[19:11:55] [Async Chat Thread - #4/INFO]: [Not Secure] <iLeola_> bueno, al principio decidí que acá se empiece
+[19:12:02] [Async Chat Thread - #4/INFO]: [Not Secure] <iCsar> vale que comience acá tonc
+[19:12:11] [Async Chat Thread - #4/INFO]: [Not Secure] <iCsar> tiene más sentido que termine en el bioma del end xdxdxdd
+[19:12:53] [Server thread/INFO]: uncrid issued server command: /gamemode spectator
+[19:12:58] [Server thread/INFO]: iCsar issued server command: /time set day
+[19:13:05] [Server thread/INFO]: uncrid issued server command: /gamemode creative
+[19:13:09] [Async Chat Thread - #4/INFO]: [Not Secure] <uncrid> re lej0os XD
+[19:13:11] [Async Chat Thread - #4/INFO]: [Not Secure] <iCsar> cuando inicie el evento, pondré el mundo en easy y que no genere mobs
+[19:13:14] [Async Chat Thread - #4/INFO]: [Not Secure] <iCsar> si
+[19:13:27] [Async Chat Thread - #4/INFO]: [Not Secure] <iCsar> ven crid
+[19:13:28] [Async Chat Thread - #4/INFO]: [Not Secure] <iLeola_> está un poco mucho demasiado lejos
+[19:13:42] [Async Chat Thread - #4/INFO]: [Not Secure] <uncrid> la meta sería caer en el portal o tocar la isla?
+[19:13:49] [Async Chat Thread - #4/INFO]: [Not Secure] <iCsar> caer en el portal
+[19:13:55] [Async Chat Thread - #4/INFO]: [Not Secure] <uncrid> vale
+[19:14:07] [Server thread/INFO]: iCsar lost connection: Disconnected
+[19:14:07] [Server thread/INFO]: iCsar left the game
+[19:14:13] [Async Chat Thread - #4/INFO]: [Not Secure] <uncrid> se fue a llorar
+[19:14:17] [Server thread/INFO]: uncrid has made the advancement [Hot Stuff]
+[19:14:24] [Async Chat Thread - #4/INFO]: [Not Secure] <iLeola_> real
+[19:14:48] [Server thread/INFO]: iLeola_ issued server command: /gamemode survival
+[19:15:22] [Server thread/INFO]: iLeola_ issued server command: /gamemode creative
+[19:15:35] [Server thread/INFO]: uncrid issued server command: /minecraft:give uncrid minecraft:end_portal_frame
+[19:17:49] [Server thread/INFO]: uncrid issued server command: /setblock ~ ~ ~ minecraft:end_portal
+[19:17:49] [Server thread/INFO]: uncrid has made the advancement [The End?]
+[19:17:55] [Server thread/INFO]: uncrid issued server command: /setblock ~ ~ ~ minecraft:end_portal
