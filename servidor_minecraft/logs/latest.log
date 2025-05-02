@@ -7489,3 +7489,33 @@ sy hola<--[HERE]
 [22:08:35] [Server thread/INFO]: iLeola_ issued server command: /gamemode spectator
 [22:08:43] [Server thread/INFO]: iLeola_ issued server command: /gamemode creative
 [22:12:56] [Server thread/INFO]: [Not Secure] [Server] h
+[22:26:13] [Server thread/INFO]: [Not Secure] [@] cesar cabron
+[22:26:17] [User Authenticator #21/INFO]: UUID of player uncrid is ae096b60-1fd0-3454-aa6c-de002eef48a4
+[22:26:19] [Server thread/INFO]: uncrid joined the game
+[22:26:19] [Server thread/INFO]: uncrid[/127.104.36.218:48939] logged in with entity id 5493 at ([world]-1.0, 4.0, -44.0)
+[22:26:27] [Async Chat Thread - #52/INFO]: [Not Secure] <iCsar> oye crid me ayudas
+[22:26:28] [Async Chat Thread - #52/INFO]: [Not Secure] <uncrid> cesar
+[22:26:35] [Async Chat Thread - #52/INFO]: [Not Secure] <uncrid> primero ayudame a mi
+[22:26:39] [Async Chat Thread - #52/INFO]: [Not Secure] <iCsar> en
+[22:26:43] [Async Chat Thread - #52/INFO]: [Not Secure] <uncrid> cuando comienza el segundo juego
+[22:26:56] [Async Chat Thread - #52/INFO]: [Not Secure] <iCsar> cuando termine el primero xdxdxd
+[22:26:57] [Async Chat Thread - #52/INFO]: [Not Secure] <uncrid> les hago tp a todos los que se tienen que esconder excepto al buscador?
+[22:27:07] [Async Chat Thread - #52/INFO]: [Not Secure] <uncrid> el buscador se queda atrapado acá
+[22:27:12] [Server thread/INFO]: uncrid issued server command: /minecraft:tp iCsar uncrid
+[22:27:13] [Async Chat Thread - #52/INFO]: [Not Secure] <uncrid> aca
+[22:27:18] [Async Chat Thread - #52/INFO]: [Not Secure] <iCsar> a todos, al buscador si puedes lo tpeas acá
+[22:27:23] [Async Chat Thread - #52/INFO]: [Not Secure] <uncrid> y luego le abrimos
+[22:27:35] [Async Chat Thread - #52/INFO]: [Not Secure] <uncrid> si, van a estar todos acá cuando ganen la carrera
+[22:27:52] [Async Chat Thread - #52/INFO]: [Not Secure] <uncrid> pero cuando comienza el escondite le hago tp a todos afuera pero donde
+[22:28:05] [Async Chat Thread - #52/INFO]: [Not Secure] <iCsar> pues aca
+[22:28:10] [Async Chat Thread - #52/INFO]: [Not Secure] <uncrid> vale
+[22:28:17] [Async Chat Thread - #52/INFO]: [Not Secure] <iCsar> aca
+[22:28:29] [Server thread/INFO]: uncrid lost connection: Disconnected
+[22:28:29] [Server thread/INFO]: uncrid left the game
+[22:31:20] [Server thread/INFO]: [MeteoritesPro] A Fiery Meteorite has been sighted near X:-167 Z:103 !
+[22:31:28] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username CristianJoel917
+[22:31:28] [localSession-7-1/INFO]: [Geyser-Spigot] CristianJoel917 (logged in as: CristianJoel917) has connected to the Java server
+[22:31:29] [Server thread/INFO]: Disconnecting /127.0.0.1:0: You are not whitelisted on this server!
+[22:31:29] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .CristianJoel917 disconnected
+[22:31:29] [localSession-7-1/INFO]: [Geyser-Spigot] CristianJoel917 has disconnected from the Java server because of You are not whitelisted on this server!
+[22:31:29] [Server thread/INFO]: /127.0.0.1:0 lost connection: You are not whitelisted on this server!
