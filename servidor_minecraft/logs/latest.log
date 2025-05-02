@@ -7330,3 +7330,85 @@ say<--[HERE]
 [21:26:03] [Server thread/INFO]: iCsar left the game
 [21:26:21] [Server thread/INFO]: [Not Secure] [Server] h
 [21:27:51] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Please log into Xbox to join this server.
+[21:31:20] [Server thread/INFO]: [MeteoritesPro] A Fiery Meteorite has been sighted near X:-453 Z:228 !
+[21:31:28] [User Authenticator #15/INFO]: UUID of player iCsar is f588c112-eb43-3274-842c-1e06347702d7
+[21:31:29] [Server thread/INFO]: iCsar joined the game
+[21:31:29] [Server thread/INFO]: iCsar[/127.206.2.155:40181] logged in with entity id 4023 at ([world]-1.0, 4.0, -44.0)
+[21:31:40] [Async Chat Thread - #35/INFO]: [Not Secure] <iCsar> wow
+[21:31:48] [User Authenticator #15/INFO]: Disconnecting iCsar (/127.206.2.155:42881): [LoginSecurity] This player is already online!
+[21:31:48] [User Authenticator #15/INFO]: UUID of player iCsar is f588c112-eb43-3274-842c-1e06347702d7
+[21:31:48] [Server thread/INFO]: iCsar (/127.206.2.155:42881) lost connection: [LoginSecurity] This player is already online!
+[21:31:48] [Server thread/INFO]: iCsar lost connection: Disconnected
+[21:31:48] [Server thread/INFO]: iCsar left the game
+[21:31:52] [User Authenticator #15/INFO]: UUID of player iCsar is f588c112-eb43-3274-842c-1e06347702d7
+[21:31:53] [Server thread/INFO]: iCsar joined the game
+[21:31:53] [Server thread/INFO]: iCsar[/127.206.2.155:51823] logged in with entity id 4028 at ([world]-1.0, 4.0, -44.0)
+[21:31:53] [Server thread/WARN]: [LoginSecurity] Player was logged in prematurely while still saving location
+[21:31:58] [Server thread/INFO]: iCsar issued server command: /tp ileola
+[21:32:21] [Async Chat Thread - #35/INFO]: [Not Secure] <iCsar> recuerda que es desde aquí hasta la isla del end
+[21:32:31] [Async Chat Thread - #35/INFO]: [Not Secure] <iLeola_> el que me lo recuerdes me entra la pereza
+[21:32:35] [Async Chat Thread - #35/INFO]: [Not Secure] <iCsar> te puedo ayudar si gusta
+[21:32:37] [Async Chat Thread - #35/INFO]: [Not Secure] <iCsar> s
+[21:32:44] [Async Chat Thread - #35/INFO]: [Not Secure] <iLeola_> si es posible si
+[21:32:58] [Async Chat Thread - #35/INFO]: [Not Secure] <iLeola_> y si hubiera gente disponible estaría más que agusto de aceptar jajasjdadajsdjadjasjdjajdasjdajdjsafdnifge
+[21:33:30] [User Authenticator #16/INFO]: UUID of player DarknessXD748 is 16be9ab7-6c99-39ec-8d30-ba853b016ca3
+[21:33:30] [Server thread/INFO]: Disconnecting DarknessXD748 (/127.166.24.139:57077): You are not whitelisted on this server!
+[21:33:30] [Server thread/INFO]: DarknessXD748 (/127.166.24.139:57077) lost connection: You are not whitelisted on this server!
+[21:33:41] [User Authenticator #16/INFO]: UUID of player DarknessXD748 is 16be9ab7-6c99-39ec-8d30-ba853b016ca3
+[21:33:41] [Server thread/INFO]: Disconnecting DarknessXD748 (/127.166.24.139:60719): You are not whitelisted on this server!
+[21:33:41] [Server thread/INFO]: DarknessXD748 (/127.166.24.139:60719) lost connection: You are not whitelisted on this server!
+[21:33:58] [User Authenticator #16/INFO]: UUID of player DarknessXD748 is 16be9ab7-6c99-39ec-8d30-ba853b016ca3
+[21:33:58] [Server thread/INFO]: Disconnecting DarknessXD748 (/127.166.24.139:37881): You are not whitelisted on this server!
+[21:33:58] [Server thread/INFO]: DarknessXD748 (/127.166.24.139:37881) lost connection: You are not whitelisted on this server!
+[21:34:26] [Async Chat Thread - #37/INFO]: [Not Secure] <iCsar> lo de escondidas a saber cómo haremos
+[21:34:34] [Async Chat Thread - #37/INFO]: [Not Secure] <iCsar> este lugar es raro para esconderse
+[21:35:04] [User Authenticator #17/INFO]: UUID of player DarknessXD748 is 16be9ab7-6c99-39ec-8d30-ba853b016ca3
+[21:35:04] [Server thread/INFO]: Disconnecting DarknessXD748 (/127.166.24.139:36109): You are not whitelisted on this server!
+[21:35:04] [Server thread/INFO]: DarknessXD748 (/127.166.24.139:36109) lost connection: You are not whitelisted on this server!
+[21:35:07] [Async Chat Thread - #37/INFO]: [Not Secure] <iLeola_> tendría que ser en una area sola
+[21:35:12] [Async Chat Thread - #37/INFO]: [Not Secure] <iLeola_> pero igual complicado hacer lugares para esconder
+[21:35:27] [Async Chat Thread - #37/INFO]: [Not Secure] <iCsar> igual el buscador tendrá darkness
+[21:35:33] [Async Chat Thread - #37/INFO]: [Not Secure] <iCsar> así que les da algo de ventaja idk
+[21:35:57] [Async Chat Thread - #37/INFO]: [Not Secure] <iLeola_> los arboles de abeto tranquilamente puede ser un lugar en el que suban y se escondan en las hojas
+[21:36:05] [Async Chat Thread - #37/INFO]: [Not Secure] <iCsar> si
+[21:36:17] [Async Chat Thread - #37/INFO]: [Not Secure] <iCsar> oye ayúdame acá!
+[21:36:50] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Eduardo12zt
+[21:36:50] [localSession-7-3/INFO]: [Geyser-Spigot] Eduardo12zt (logged in as: Eduardo12zt) has connected to the Java server
+[21:36:50] [Server thread/INFO]: Disconnecting /127.0.0.1:0: You are not whitelisted on this server!
+[21:36:50] [localSession-7-3/INFO]: [Geyser-Spigot] Eduardo12zt has disconnected from the Java server because of You are not whitelisted on this server!
+[21:36:50] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Eduardo12zt disconnected
+[21:36:50] [Server thread/INFO]: /127.0.0.1:0 lost connection: You are not whitelisted on this server!
+[21:36:51] [User Authenticator #18/INFO]: UUID of player DarknessXD748 is 16be9ab7-6c99-39ec-8d30-ba853b016ca3
+[21:36:51] [Server thread/INFO]: Disconnecting DarknessXD748 (/127.166.24.139:36175): You are not whitelisted on this server!
+[21:36:51] [Server thread/INFO]: DarknessXD748 (/127.166.24.139:36175) lost connection: You are not whitelisted on this server!
+[21:36:56] [Server thread/INFO]: iCsar issued server command: /effect give iCsar speed infinite 2
+[21:37:30] [Async Chat Thread - #39/INFO]: [Not Secure] <iCsar> leo
+[21:37:33] [Async Chat Thread - #39/INFO]: [Not Secure] <iLeola_> yo
+[21:37:39] [User Authenticator #18/INFO]: Disconnecting iCsar (/127.206.2.155:38699): [LoginSecurity] This player is already online!
+[21:37:39] [User Authenticator #18/INFO]: UUID of player iCsar is f588c112-eb43-3274-842c-1e06347702d7
+[21:37:39] [Server thread/INFO]: iCsar (/127.206.2.155:38699) lost connection: [LoginSecurity] This player is already online!
+[21:37:39] [Server thread/INFO]: iCsar lost connection: Disconnected
+[21:37:39] [Server thread/INFO]: iCsar left the game
+[21:37:44] [User Authenticator #18/INFO]: UUID of player iCsar is f588c112-eb43-3274-842c-1e06347702d7
+[21:37:44] [Server thread/INFO]: iCsar joined the game
+[21:37:44] [Server thread/INFO]: iCsar[/127.206.2.155:50275] logged in with entity id 4101 at ([world]-1.0, 4.0, -44.0)
+[21:37:45] [Server thread/WARN]: [LoginSecurity] Player was logged in prematurely while still saving location
+[21:37:48] [Server thread/INFO]: iCsar issued server command: /tp ileola
+[21:37:55] [Async Chat Thread - #39/INFO]: [Not Secure] <iCsar> q
+[21:38:01] [Async Chat Thread - #39/INFO]: [Not Secure] <iCsar> leo las hojas desaparecen
+[21:38:12] [Async Chat Thread - #39/INFO]: [Not Secure] <iLeola_> obvio que desaparecen
+[21:38:20] [Async Chat Thread - #39/INFO]: [Not Secure] <iCsar> y como se vana. esconder ahi
+[21:38:23] [Async Chat Thread - #39/INFO]: [Not Secure] <iCsar> vana
+[21:38:28] [Async Chat Thread - #39/INFO]: [Not Secure] <iLeola_> sencillo bro
+[21:38:59] [Async Chat Thread - #39/INFO]: [Not Secure] <iCsar> bue ayúdame acá con los barrier
+[21:39:06] [Async Chat Thread - #39/INFO]: [Not Secure] <iLeola_> ya voy
+[21:39:12] [Async Chat Thread - #39/INFO]: [Not Secure] <iCsar> el juego de carreras es el primero
+[21:39:34] [User Authenticator #19/INFO]: UUID of player DarknessXD748 is 16be9ab7-6c99-39ec-8d30-ba853b016ca3
+[21:39:34] [Server thread/INFO]: Disconnecting DarknessXD748 (/127.166.24.139:48055): You are not whitelisted on this server!
+[21:39:34] [Server thread/INFO]: DarknessXD748 (/127.166.24.139:48055) lost connection: You are not whitelisted on this server!
+[21:40:18] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username SharpGuide18245
+[21:40:18] [localSession-7-4/INFO]: [Geyser-Spigot] SharpGuide18245 (logged in as: SharpGuide18245) has connected to the Java server
+[21:40:19] [Server thread/INFO]: Disconnecting /127.0.0.1:0: You are not whitelisted on this server!
+[21:40:19] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .SharpGuide18245 disconnected
+[21:40:19] [localSession-7-4/INFO]: [Geyser-Spigot] SharpGuide18245 has disconnected from the Java server because of You are not whitelisted on this server!
+[21:40:19] [Server thread/INFO]: /127.0.0.1:0 lost connection: You are not whitelisted on this server!
