@@ -7519,3 +7519,15 @@ sy hola<--[HERE]
 [22:31:29] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .CristianJoel917 disconnected
 [22:31:29] [localSession-7-1/INFO]: [Geyser-Spigot] CristianJoel917 has disconnected from the Java server because of You are not whitelisted on this server!
 [22:31:29] [Server thread/INFO]: /127.0.0.1:0 lost connection: You are not whitelisted on this server!
+[22:33:07] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username CristianJoel917
+[22:33:07] [localSession-7-2/INFO]: [Geyser-Spigot] CristianJoel917 (logged in as: CristianJoel917) has connected to the Java server
+[22:33:07] [Server thread/INFO]: Disconnecting /127.0.0.1:0: You are not whitelisted on this server!
+[22:33:07] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .CristianJoel917 disconnected
+[22:33:07] [localSession-7-2/INFO]: [Geyser-Spigot] CristianJoel917 has disconnected from the Java server because of You are not whitelisted on this server!
+[22:33:07] [Server thread/INFO]: /127.0.0.1:0 lost connection: You are not whitelisted on this server!
+[22:38:41] [Server thread/INFO]: [Not Secure] [Server] h
+[22:40:45] [Server thread/INFO]: iCsar issued server command: /setworldspawn
+[22:40:56] [Server thread/INFO]: iCsar issued server command: /fill 191 0 228
+[22:41:06] [Server thread/INFO]: iCsar issued server command: /fill 191 -1 228
+[22:41:10] [Server thread/INFO]: iCsar issued server command: /fill 191 -1 228
+[22:41:20] [Server thread/INFO]: iCsar issued server command: /fill 191 -1 228 194 -3 228 air
