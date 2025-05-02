@@ -1446,73 +1446,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 00:23:26 +0000"
+      "log_spam_fixer": "2025-05-02 00:33:27 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 00:23:26 +0000"
+      "log_spam_fixer": "2025-05-02 00:33:27 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 00:23:26 +0000"
+      "log_spam_fixer": "2025-05-02 00:33:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 00:23:26 +0000"
+      "log_spam_fixer": "2025-05-02 00:33:27 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 00:23:26 +0000"
+      "log_spam_fixer": "2025-05-02 00:33:27 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 00:23:26 +0000"
+      "log_spam_fixer": "2025-05-02 00:33:27 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 00:23:26 +0000"
+      "log_spam_fixer": "2025-05-02 00:33:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 00:23:26 +0000"
+      "log_spam_fixer": "2025-05-02 00:33:27 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 00:23:26 +0000"
+      "log_spam_fixer": "2025-05-02 00:33:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 00:23:26 +0000"
+      "log_spam_fixer": "2025-05-02 00:33:27 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 00:23:26 +0000"
+      "log_spam_fixer": "2025-05-02 00:33:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 00:23:26 +0000"
+      "log_spam_fixer": "2025-05-02 00:33:27 +0000"
     },
     "done": false
   },
@@ -1630,6 +1630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-02 00:32:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-05-02 00:08:41 +0000"
@@ -1726,6 +1732,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-02 00:33:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-01 22:44:15 +0000"
@@ -1747,6 +1759,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-05-01 22:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-02 00:32:57 +0000"
     },
     "done": true
   },
@@ -1786,9 +1804,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-02 00:30:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-01 23:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-02 00:30:36 +0000"
     },
     "done": true
   },
@@ -1801,6 +1831,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-05-01 23:12:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-02 00:33:02 +0000"
     },
     "done": true
   },
