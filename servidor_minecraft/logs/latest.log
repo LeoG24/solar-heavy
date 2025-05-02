@@ -7183,3 +7183,27 @@ spawn uncrid<--[HERE]
 [20:05:14] [Server thread/INFO]: iLeola_ issued server command: /team modify noColision seeFriendlyInvisibles
 [20:05:48] [Server thread/INFO]: iLeola_ issued server command: /team modify noColision nametagVisibility never
 [20:06:46] [Server thread/INFO]: iLeola_ issued server command: /team leave @a
+[20:15:46] [Server thread/INFO]: iLeola_ lost connection: Timed out
+[20:15:46] [Server thread/INFO]: iLeola_ left the game
+[20:16:20] [Async Chat Thread - #16/INFO]: [Not Secure] <iCsar> leo?
+[20:16:25] [User Authenticator #10/INFO]: UUID of player iLeola_ is 04c6568a-80d6-38d1-9c7e-efc90999a73c
+[20:16:28] [Server thread/INFO]: iLeola_ joined the game
+[20:16:28] [Server thread/INFO]: iLeola_[/127.143.225.237:56263] logged in with entity id 1983 at ([world]-1.0, 4.0, -44.0)
+[20:16:28] [Server thread/WARN]: [LoginSecurity] Player was logged in prematurely while still saving location
+[20:16:37] [Async Chat Thread - #16/INFO]: [Not Secure] <iCsar> wooow
+[20:16:51] [Async Chat Thread - #16/INFO]: [Not Secure] <iCsar> bro pero acá pueden escapar!
+[20:16:58] [Async Chat Thread - #16/INFO]: [Not Secure] <iCsar> imagino que pondrás barriers
+[20:17:00] [Async Chat Thread - #16/INFO]: [Not Secure] <iLeola_> por algo estoy colocando barriers
+[20:17:01] [Async Chat Thread - #16/INFO]: [Not Secure] <iLeola_> si
+[20:17:27] [Async Chat Thread - #16/INFO]: [Not Secure] <iCsar> bro que shiftea para ponerlo rapido
+[20:18:02] [Async Chat Thread - #16/INFO]: [Not Secure] <iLeola_> un lag me dan los barriers
+[20:18:06] [Async Chat Thread - #16/INFO]: [Not Secure] <iCsar> si
+[20:18:14] [Async Chat Thread - #16/INFO]: [Not Secure] <iLeola_> será por este texture pack "shader"
+[20:18:34] [Async Chat Thread - #16/INFO]: [Not Secure] <iCsar> pensé que te lo habías quitado ya
+[20:18:40] [Async Chat Thread - #16/INFO]: [Not Secure] <iCsar> cuando puedas pásamelo!
+[20:18:43] [Async Chat Thread - #16/INFO]: [Not Secure] <iLeola_> la verdad es que se ve bien
+[20:18:55] [Async Chat Thread - #16/INFO]: [Not Secure] <iLeola_> supuestamente es una versión que ya había de bedrock y la portearon a java
+[20:18:56] [Server thread/INFO]: iCsar issued server command: /give iCsar barrier
+[20:19:07] [Async Chat Thread - #16/INFO]: [Not Secure] <iLeola_> energy shaders se llama
+[20:19:18] [Async Chat Thread - #16/INFO]: [Not Secure] <iCsar> val
+[20:19:21] [Async Chat Thread - #16/INFO]: [Not Secure] <iCsar> e
