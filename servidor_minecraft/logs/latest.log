@@ -246,3 +246,56 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.E
 [03:42:41] [Server thread/WARN]: [LoginSecurity] Player was logged in prematurely while still saving location
 [03:44:41] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
 [03:44:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7338ms or 146 ticks behind
+[03:47:36] [User Authenticator #3/INFO]: UUID of player iLeola_ is 04c6568a-80d6-38d1-9c7e-efc90999a73c
+[03:47:38] [Server thread/INFO]: iLeola_ joined the game
+[03:47:38] [Server thread/INFO]: iLeola_[/127.143.225.237:47343] logged in with entity id 1757 at ([world]-1.0, 4.0, -44.0)
+[03:47:53] [Async Chat Thread - #3/INFO]: [Not Secure] <iLeola_> c
+[03:47:57] [Async Chat Thread - #3/INFO]: [Not Secure] <iCsar> d
+[03:48:06] [Server thread/INFO]: iCsar issued server command: /tpall iCsar
+[03:48:07] [Async Chat Thread - #3/INFO]: [Not Secure] <iLeola_> veo todo con niebla
+[03:48:17] [Async Chat Thread - #3/INFO]: [Not Secure] <iCsar> normal
+[03:48:18] [Async Chat Thread - #3/INFO]: [Not Secure] <iLeola_> está lloviendo o q
+[03:48:21] [Async Chat Thread - #3/INFO]: [Not Secure] <iCsar> si
+[03:48:26] [Async Chat Thread - #3/INFO]: [Not Secure] <iLeola_> con razón
+[03:48:39] [Server thread/INFO]: iCsar issued server command: /skin iCsar
+[03:49:10] [Async Chat Thread - #3/INFO]: [Not Secure] <iCsar> bueno
+[03:49:16] [Async Chat Thread - #3/INFO]: [Not Secure] <iCsar> hay que ver cómo le haremos
+[03:49:17] [Async Chat Thread - #3/INFO]: [Not Secure] <iCsar> !
+[03:49:21] [Async Chat Thread - #3/INFO]: [Not Secure] <iLeola_> pues si
+[03:49:26] [Async Chat Thread - #3/INFO]: [Not Secure] <iLeola_> qué harás más bien
+[03:49:32] [Async Chat Thread - #3/INFO]: [Not Secure] <iCsar> el primer minijuego ni idea
+[03:49:56] [Async Chat Thread - #3/INFO]: [Not Secure] <iCsar> pensaba en hacer todo igual que en el anterior evento pero más elaborado xdxxdd
+[03:50:25] [Async Chat Thread - #3/INFO]: [Not Secure] <iCsar> pero es que imagina hacer una carrera aqui
+[03:50:34] [Server thread/INFO]: iCsar issued server command: /mobkill hostile
+[03:50:36] [Server thread/INFO]: iCsar issued server command: /mobkill hostile
+[03:50:37] [Server thread/INFO]: iCsar issued server command: /mobkill hostile
+[03:50:40] [Server thread/INFO]: iCsar issued server command: /mobkill hostile
+[03:50:41] [Server thread/INFO]: iCsar issued server command: /mobkill hostile
+[03:50:42] [Server thread/INFO]: iCsar lost connection: Disconnected
+[03:50:42] [Server thread/INFO]: iCsar left the game
+[03:50:43] [User Authenticator #4/INFO]: UUID of player iCsar is f588c112-eb43-3274-842c-1e06347702d7
+[03:50:44] [Server thread/INFO]: iCsar joined the game
+[03:50:44] [Server thread/INFO]: iCsar[/127.206.2.155:38443] logged in with entity id 1970 at ([world]-1.0, 4.0, -44.0)
+[03:50:44] [Server thread/WARN]: [LoginSecurity] Player was logged in prematurely while still saving location
+[03:50:46] [Server thread/INFO]: iCsar issued server command: /mobkill hostile
+[03:50:48] [Server thread/INFO]: iCsar issued server command: /mobkill hostile
+[03:50:50] [Server thread/INFO]: iCsar issued server command: /mobkill hostile
+[03:50:52] [Server thread/INFO]: iCsar issued server command: /mobkill hostile
+[03:50:55] [Server thread/INFO]: iCsar issued server command: /mobkill hostile
+[03:50:58] [Server thread/INFO]: iCsar issued server command: /mobkill hostile
+[03:51:00] [Server thread/INFO]: iCsar issued server command: /mobkill hostile
+[03:51:27] [Async Chat Thread - #5/INFO]: [Not Secure] <iCsar> aver que ideas me salen
+[03:51:31] [Server thread/INFO]: iCsar issued server command: /time set day
+[03:51:33] [Server thread/INFO]: iCsar issued server command: /mobkill hostile
+[03:51:35] [Server thread/INFO]: iCsar issued server command: /mobkill hostile
+[03:52:09] [Async Chat Thread - #5/INFO]: [Not Secure] <iCsar> podemos hacer de primeras una carrera, de segundas escondidas y de último una batalla onehit
+[03:52:32] [Async Chat Thread - #5/INFO]: [Not Secure] <iCsar> no se, que harías tu con este terreno
+[03:52:39] [Server thread/INFO]: iCsar issued server command: /mobkill hostile
+[03:52:41] [Server thread/INFO]: iCsar issued server command: /mobkill hostile
+[03:53:17] [Async Chat Thread - #5/INFO]: [Not Secure] <iLeola_> no sé cómo se lo tomen si llegas a repetir los juegos del anterior evento
+[03:53:41] [Async Chat Thread - #5/INFO]: [Not Secure] <iCsar> pues a ellos le gustaron y además de que fueron pocos, está vez serán otras personas
+[03:53:48] [Async Chat Thread - #5/INFO]: [Not Secure] <iLeola_> mira para el sol cesar
+[03:53:57] [Async Chat Thread - #5/INFO]: [Not Secure] <iLeola_> allá
+[03:54:01] [Async Chat Thread - #5/INFO]: [Not Secure] <iCsar> que tiene
+[03:54:07] [Async Chat Thread - #5/INFO]: [Not Secure] <iLeola_> joder que epico
+[03:54:15] [Async Chat Thread - #5/INFO]: [Not Secure] <iCsar> wow
