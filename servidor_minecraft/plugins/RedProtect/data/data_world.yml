@@ -106,7 +106,7 @@ Eduardo12zt:
   tppoint: ''
 Reglas:
   name: Reglas
-  lastvisit: 28/04/2025
+  lastvisit: 02/05/2025
   admins: []
   members: []
   leaders:
@@ -212,7 +212,7 @@ solarterreno:
   tppoint: ''
 Spawn:
   name: Spawn
-  lastvisit: 28/04/2025
+  lastvisit: 02/05/2025
   admins: []
   members: []
   leaders:
@@ -318,7 +318,7 @@ Main:
   tppoint: ''
 Aviso_Recursos:
   name: Aviso_Recursos
-  lastvisit: 28/04/2025
+  lastvisit: 02/05/2025
   admins: []
   members: []
   leaders:
