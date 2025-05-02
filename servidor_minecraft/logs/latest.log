@@ -7318,3 +7318,15 @@ say<--[HERE]
 [21:11:26] [Server thread/INFO]: Lines - 3:  - 4: 
 [21:14:12] [Async Chat Thread - #32/INFO]: [Not Secure] <iCsar> por cierto se puede hacer que al tocar el agua tengan apnea así no ocupan las trampillas o prefieres sin apnea para hacerlo mas lento
 [21:14:22] [Async Chat Thread - #32/INFO]: [Not Secure] <iLeola_> si, para hacerlo más lento
+[21:21:47] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username AdrielVargas
+[21:21:47] [localSession-7-2/INFO]: [Geyser-Spigot] AdrielVargas (logged in as: AdrielVargas) has connected to the Java server
+[21:21:47] [Server thread/INFO]: Disconnecting /127.0.0.1:0: You are not whitelisted on this server!
+[21:21:47] [localSession-7-2/INFO]: [Geyser-Spigot] AdrielVargas has disconnected from the Java server because of You are not whitelisted on this server!
+[21:21:47] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .AdrielVargas disconnected
+[21:21:47] [Server thread/INFO]: /127.0.0.1:0 lost connection: You are not whitelisted on this server!
+[21:24:49] [Server thread/INFO]: iLeola_ issued server command: /gamemode adventure
+[21:25:01] [Server thread/INFO]: iLeola_ issued server command: /gamemode creative
+[21:26:03] [Server thread/INFO]: iCsar lost connection: Disconnected
+[21:26:03] [Server thread/INFO]: iCsar left the game
+[21:26:21] [Server thread/INFO]: [Not Secure] [Server] h
+[21:27:51] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Please log into Xbox to join this server.
