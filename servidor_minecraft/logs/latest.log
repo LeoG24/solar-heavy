@@ -211,3 +211,10 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.E
 /whitelist remove<--[HERE]
 [03:03:23] [Server thread/INFO]: Whitelist is now turned on
 [03:06:06] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Please log into Xbox to join this server.
+[03:07:02] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username SuperManuYT9361
+[03:07:02] [localSession-7-2/INFO]: [Geyser-Spigot] SuperManuYT9361 (logged in as: SuperManuYT9361) has connected to the Java server
+[03:07:03] [Server thread/INFO]: Disconnecting /127.0.0.1:0: You are not whitelisted on this server!
+[03:07:03] [localSession-7-2/INFO]: [Geyser-Spigot] SuperManuYT9361 has disconnected from the Java server because of You are not whitelisted on this server!
+[03:07:03] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .SuperManuYT9361 disconnected
+[03:07:03] [Server thread/INFO]: /127.0.0.1:0 lost connection: You are not whitelisted on this server!
+[03:14:17] [Server thread/INFO]: [Not Secure] [Server] c
