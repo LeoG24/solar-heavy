@@ -7446,3 +7446,35 @@ say<--[HERE]
 [21:50:05] [Server thread/INFO]: /127.0.0.1:0 lost connection: You are not whitelisted on this server!
 [21:50:34] [Server thread/INFO]: iLeola_ issued server command: /flyspeed 0.2
 [21:50:36] [Server thread/INFO]: iLeola_ issued server command: /flyspeed 0.5
+[21:51:59] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Francozkai29
+[21:51:59] [localSession-7-3/INFO]: [Geyser-Spigot] Francozkai29 (logged in as: Francozkai29) has connected to the Java server
+[21:51:59] [Server thread/INFO]: Disconnecting /127.0.0.1:0: You are not whitelisted on this server!
+[21:51:59] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Francozkai29 disconnected
+[21:51:59] [localSession-7-3/INFO]: [Geyser-Spigot] Francozkai29 has disconnected from the Java server because of You are not whitelisted on this server!
+[21:51:59] [Server thread/INFO]: /127.0.0.1:0 lost connection: You are not whitelisted on this server!
+[21:52:16] [Server thread/INFO]: iLeola_ issued server command: /flyspeed 1
+[21:55:01] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Francozkai29
+[21:55:01] [localSession-7-4/INFO]: [Geyser-Spigot] Francozkai29 (logged in as: Francozkai29) has connected to the Java server
+[21:55:01] [Server thread/INFO]: Disconnecting /127.0.0.1:0: You are not whitelisted on this server!
+[21:55:01] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Francozkai29 disconnected
+[21:55:01] [localSession-7-4/INFO]: [Geyser-Spigot] Francozkai29 has disconnected from the Java server because of You are not whitelisted on this server!
+[21:55:01] [Server thread/INFO]: /127.0.0.1:0 lost connection: You are not whitelisted on this server!
+[21:55:53] [Async Chat Thread - #45/INFO]: [Not Secure] <iCsar> q
+[22:00:25] [Server thread/INFO]: [Not Secure] [@] cesar cabron
+[22:00:26] [Server thread/INFO]: [Not Secure] [@] cesar cabron
+[22:00:31] [Server thread/INFO]: [Not Secure] [@] cesar cabron
+[22:00:32] [Server thread/INFO]: [Not Secure] [@] cesar cabron
+[22:00:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
+aah ha<--[HERE]
+[22:00:39] [Server thread/INFO]: [Not Secure] [@] cesar cabron
+[22:00:40] [Server thread/INFO]: [Not Secure] [@] cesar cabron
+[22:00:40] [Server thread/INFO]: [Not Secure] [@] cesar cabron
+[22:00:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
+aah va<--[HERE]
+[22:00:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
+sy hola<--[HERE]
+[22:00:49] [Server thread/INFO]: [Not Secure] [Server] haol
+[22:00:52] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /list 
+[22:00:52] [Server thread/INFO]: There are 2 out of maximum 50 players online.
+[22:00:52] [Server thread/INFO]: default: iCsar, iLeola_
+[22:01:20] [Server thread/INFO]: [MeteoritesPro] A Fiery Meteorite has been sighted near X:323 Z:204 !
