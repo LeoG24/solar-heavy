@@ -222,3 +222,7 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.E
 [03:23:28] [Server thread/INFO]: iLeola_ joined the game
 [03:23:28] [Server thread/INFO]: iLeola_[/127.143.225.237:49843] logged in with entity id 72 at ([world]-1.0, 4.0, -44.0)
 [03:26:36] [Server thread/INFO]: iLeola_ issued server command: /skin update
+[03:27:18] [Server thread/INFO]: [MeteoritesPro] An Icy Meteorite has been sighted near X:17 Z:-130 !
+[03:33:02] [User Authenticator #1/INFO]: UUID of player SunnyyIsHere_ is ec8b9018-623f-3526-adbf-3b2fb85f38c1
+[03:33:02] [Server thread/INFO]: Disconnecting SunnyyIsHere_ (/127.9.156.13:39933): You are not whitelisted on this server!
+[03:33:02] [Server thread/INFO]: SunnyyIsHere_ (/127.9.156.13:39933) lost connection: You are not whitelisted on this server!
