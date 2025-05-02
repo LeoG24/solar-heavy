@@ -7216,3 +7216,15 @@ spawn uncrid<--[HERE]
 ssy homa<--[HERE]
 [20:27:48] [Server thread/INFO]: [Not Secure] [Server] hkma
 [20:30:00] [Server thread/INFO]: iLeola_ issued server command: /gamemode adventure
+[20:31:20] [Server thread/INFO]: [MeteoritesPro] A Fiery Meteorite has been sighted near X:-316 Z:-385 !
+[20:31:25] [Server thread/INFO]: iLeola_ issued server command: /difficulty peaceful
+[20:35:27] [Server thread/INFO]: iCsar issued server command: /tp ileola
+[20:35:52] [Async Chat Thread - #20/INFO]: [Not Secure] <iCsar> jaja hay colisión
+[20:36:15] [Server thread/INFO]: iCsar lost connection: Disconnected
+[20:36:15] [Server thread/INFO]: iCsar left the game
+[20:40:31] [Server thread/INFO]: iLeola_ issued server command: /gamemode creative
+[20:40:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
+sayy como vaa<--[HERE]
+[20:40:54] [Server thread/INFO]: [Not Secure] [Server] como vas
+[20:40:57] [Server thread/INFO]: Unknown or incomplete command, see below for error
+say<--[HERE]
