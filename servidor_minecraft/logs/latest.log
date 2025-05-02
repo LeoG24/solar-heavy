@@ -7228,3 +7228,22 @@ sayy como vaa<--[HERE]
 [20:40:54] [Server thread/INFO]: [Not Secure] [Server] como vas
 [20:40:57] [Server thread/INFO]: Unknown or incomplete command, see below for error
 say<--[HERE]
+[20:41:21] [Async Chat Thread - #22/INFO]: [Not Secure] <iLeola_> pues viendo cómo DECORO hasta la parte del end
+[20:42:20] [User Authenticator #11/INFO]: UUID of player Venezuel4 is 23ecbed7-b269-3ce0-8645-545ff4a877f1
+[20:42:20] [Server thread/INFO]: Disconnecting Venezuel4 (/127.179.156.69:57767): You are not whitelisted on this server!
+[20:42:20] [Server thread/INFO]: Venezuel4 (/127.179.156.69:57767) lost connection: You are not whitelisted on this server!
+[20:42:39] [User Authenticator #11/INFO]: UUID of player Venezuel4 is 23ecbed7-b269-3ce0-8645-545ff4a877f1
+[20:42:39] [Server thread/INFO]: Disconnecting Venezuel4 (/127.179.156.69:51751): You are not whitelisted on this server!
+[20:42:39] [Server thread/INFO]: Venezuel4 (/127.179.156.69:51751) lost connection: You are not whitelisted on this server!
+[20:44:39] [User Authenticator #12/INFO]: UUID of player uncrid is ae096b60-1fd0-3454-aa6c-de002eef48a4
+[20:44:41] [Server thread/INFO]: uncrid joined the game
+[20:44:41] [Server thread/INFO]: uncrid[/127.104.36.218:36889] logged in with entity id 3114 at ([world]-1.0, 4.0, -44.0)
+[20:44:48] [Server thread/INFO]: [Not Secure] [Server] h
+[20:44:54] [Server thread/INFO]: uncrid issued server command: /minecraft:tp -125 16 -150
+[20:45:05] [Server thread/INFO]: uncrid issued server command: /gamemode spectator
+[20:45:11] [Server thread/INFO]: uncrid issued server command: /gamemode creative
+[20:45:50] [Server thread/INFO]: uncrid lost connection: Disconnected
+[20:45:50] [Server thread/INFO]: uncrid left the game
+[20:49:29] [User Authenticator #13/INFO]: UUID of player YojaGaming is a9e98004-efb7-3a2f-ad66-9d4acf838bb8
+[20:49:29] [Server thread/INFO]: Disconnecting YojaGaming (/127.74.252.38:59649): You are not whitelisted on this server!
+[20:49:29] [Server thread/INFO]: YojaGaming (/127.74.252.38:59649) lost connection: You are not whitelisted on this server!
